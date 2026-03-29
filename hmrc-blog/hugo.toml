@@ -1,4 +1,10 @@
-baseURL = "https://blog.hmrcreporter.com/"
+baseURL = "https://hmrc-blogs2.vercel.app/"
 languageCode = "en-gb"
 title = "HMRC Reporter Blog"
 theme = "simple"
+
+[params]
+  description = "Expert guides on HMRC reporting, Making Tax Digital, and Airbnb tax compliance for UK property managers."
+
+[build]
+  buildFuture = true
