@@ -17,6 +17,6 @@ Thumbs.db
 .vscode/
 
 # Hugo build output
-hmrc-blog/public/
-hmrc-blog/resources/
-hmrc-blog/.hugo_build.lock
+public/
+resources/
+.hugo_build.lock
