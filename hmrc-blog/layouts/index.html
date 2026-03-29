@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="home">
+  <div class="hero">
+    <h1>HMRC Reporting Guides for Property Managers</h1>
+    <p>Expert guides on Making Tax Digital, Airbnb tax compliance, and HMRC Digital Platform Reporting. Written for UK property managers and holiday let operators.</p>
+  </div>
+
+  <div class="topics">
+    <a href="#mtd" class="topic-tag">Making Tax Digital</a>
+    <a href="#airbnb" class="topic-tag">Airbnb Tax</a>
+    <a href="#hmrc" class="topic-tag">HMRC Compliance</a>
+    <a href="#software" class="topic-tag">Reporting Software</a>
+  </div>
+
+  <div class="posts">
+    {{ range (.Paginate .Pages 20).Pages }}
+    <article class="post-card">
+      {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+      <div class="post-content">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        {{ with .Params.tags }}
+        <div class="tags">
+          {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+        <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ if gt .Paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}">← Newer</a>
+    {{ end }}
+    <span>Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}">Older →</a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
+  <div class="cta-section">
+    <h2>Tired of manual HMRC reporting?</h2>
+    <p>HMRC Reporter automatically converts booking data from 27+ platforms into compliant XML reports.</p>
+    <a href="https://hmrcreporter.com/" class="cta-button">Try HMRC Reporter →</a>
+  </div>
+</div>
+{{ end }}
