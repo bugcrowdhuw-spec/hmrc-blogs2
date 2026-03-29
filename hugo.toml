@@ -1,4 +1,4 @@
-baseURL = "https://bugcrowdhuw-spec.github.io/hmrc-blogs2/"
+baseURL = "https://blog.hmrcreporter.com/"
 languageCode = "en-gb"
 title = "HMRC Reporter Blog"
 theme = "simple"
