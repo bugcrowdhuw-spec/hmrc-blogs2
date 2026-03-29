@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="24" font-weight="bold">HMRC Penalty Structure</text>
+  <text x="400" y="65" text-anchor="middle" fill="#aaaaaa" font-family="system-ui" font-size="14">What incorrect reporting actually costs</text>
+
+  <!-- Late Filing -->
+  <rect x="40" y="90" width="230" height="140" rx="8" fill="#0f3460" stroke="#f5a623" stroke-width="2"/>
+  <text x="155" y="118" text-anchor="middle" fill="#f5a623" font-family="system-ui" font-size="14" font-weight="bold">Late Filing</text>
+  <text x="60" y="145" fill="#cccccc" font-family="system-ui" font-size="12">Day 1: £100</text>
+  <text x="60" y="168" fill="#cccccc" font-family="system-ui" font-size="12">3 months: £10/day</text>
+  <text x="60" y="191" fill="#cccccc" font-family="system-ui" font-size="12">6 months: +5% of tax</text>
+  <text x="60" y="214" fill="#cccccc" font-family="system-ui" font-size="12">12 months: +5% of tax</text>
+
+  <!-- Late Payment -->
+  <rect x="285" y="90" width="230" height="140" rx="8" fill="#0f3460" stroke="#e94560" stroke-width="2"/>
+  <text x="400" y="118" text-anchor="middle" fill="#e94560" font-family="system-ui" font-size="14" font-weight="bold">Late Payment</text>
+  <text x="305" y="145" fill="#cccccc" font-family="system-ui" font-size="12">15 days: 2% of tax</text>
+  <text x="305" y="168" fill="#cccccc" font-family="system-ui" font-size="12">30 days: +2% of tax</text>
+  <text x="305" y="191" fill="#cccccc" font-family="system-ui" font-size="12">31+ days: 4% annualised</text>
+  <text x="305" y="214" fill="#cccccc" font-family="system-ui" font-size="12">Plus interest</text>
+
+  <!-- Inaccuracy -->
+  <rect x="530" y="90" width="230" height="140" rx="8" fill="#0f3460" stroke="#e94560" stroke-width="2"/>
+  <text x="645" y="118" text-anchor="middle" fill="#e94560" font-family="system-ui" font-size="14" font-weight="bold">Inaccuracy</text>
+  <text x="550" y="145" fill="#cccccc" font-family="system-ui" font-size="12">Careless: up to 30%</text>
+  <text x="550" y="168" fill="#cccccc" font-family="system-ui" font-size="12">Deliberate: up to 70%</text>
+  <text x="550" y="191" fill="#cccccc" font-family="system-ui" font-size="12">Concealed: up to 100%</text>
+  <text x="550" y="214" fill="#4ecca3" font-family="system-ui" font-size="12">Voluntary = lower rate</text>
+
+  <!-- How HMRC Knows -->
+  <rect x="40" y="260" width="720" height="160" rx="8" fill="#0f3460" opacity="0.5"/>
+  <text x="400" y="290" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="16" font-weight="bold">How HMRC Catches Errors</text>
+
+  <rect x="60" y="310" width="210" height="40" rx="6" fill="#e94560" opacity="0.15"/>
+  <text x="165" y="336" text-anchor="middle" fill="#e94560" font-family="system-ui" font-size="13" font-weight="bold">Platform Reports</text>
+
+  <rect x="295" y="310" width="210" height="40" rx="6" fill="#f5a623" opacity="0.15"/>
+  <text x="400" y="336" text-anchor="middle" fill="#f5a623" font-family="system-ui" font-size="13" font-weight="bold">Automated Matching</text>
+
+  <rect x="530" y="310" width="210" height="40" rx="6" fill="#4ecca3" opacity="0.15"/>
+  <text x="635" y="336" text-anchor="middle" fill="#4ecca3" font-family="system-ui" font-size="13" font-weight="bold">Cross-Reference</text>
+
+  <text x="400" y="395" text-anchor="middle" fill="#aaaaaa" font-family="system-ui" font-size="12">Since Jan 2024, Airbnb, Booking.com &amp; VRBO report your income directly to HMRC</text>
+</svg>
