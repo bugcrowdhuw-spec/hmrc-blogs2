@@ -1,4 +1,4 @@
-baseURL = "https://hmrc-blogs2.vercel.app/"
+baseURL = "https://bugcrowdhuw-spec.github.io/hmrc-blogs2/"
 languageCode = "en-gb"
 title = "HMRC Reporter Blog"
 theme = "simple"
