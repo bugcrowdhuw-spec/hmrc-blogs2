@@ -13,7 +13,7 @@
   </div>
 
   <div class="posts">
-    {{ range (.Paginate .Pages 20).Pages }}
+    {{ range first 20 (where .Site.RegularPages "Section" "posts") }}
     <article class="post-card">
       {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
       <div class="post-content">
@@ -31,17 +31,7 @@
     {{ end }}
   </div>
 
-  {{ if gt .Paginator.TotalPages 1 }}
-  <nav class="pagination">
-    {{ if .Paginator.HasPrev }}
-    <a href="{{ .Paginator.Prev.URL }}">← Newer</a>
-    {{ end }}
-    <span>Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
-    {{ if .Paginator.HasNext }}
-    <a href="{{ .Paginator.Next.URL }}">Older →</a>
-    {{ end }}
-  </nav>
-  {{ end }}
+  {{/* Pagination removed — showing first 20 posts */}}
 
   <div class="cta-section">
     <h2>Tired of manual HMRC reporting?</h2>
