@@ -1,0 +1,68 @@
+<!-- Diagram 3: Do I Need to Report? Decision Tree -->
+<!-- Save as SVG, use in Blog Post 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="IBM Plex Sans, sans-serif">
+  <!-- Title -->
+  <text x="350" y="35" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Do I Need to Report My Airbnb Income?</text>
+
+  <!-- Start node -->
+  <rect x="250" y="60" width="200" height="50" rx="25" fill="#0f172a"/>
+  <text x="350" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">What's your annual</text>
+  <text x="350" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">rental income?</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="110" x2="350" y2="140" stroke="#64748b" stroke-width="2" marker-end="url(#arr)"/>
+  <defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L0,8 L8,4 z" fill="#64748b"/></marker></defs>
+
+  <!-- Decision: Under £1,000 -->
+  <rect x="30" y="145" width="180" height="60" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+  <text x="120" y="170" text-anchor="middle" font-size="13" font-weight="600" fill="#166534">Under £1,000</text>
+  <text x="120" y="190" text-anchor="middle" font-size="12" fill="#166534">Property Income</text>
+  <text x="120" y="203" text-anchor="middle" font-size="12" fill="#166534">Allowance covers you</text>
+
+  <!-- Arrow left -->
+  <line x1="250" y1="175" x2="215" y2="175" stroke="#64748b" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Decision: £1,000 - £2,500 -->
+  <rect x="260" y="145" width="180" height="60" rx="10" fill="#fef9c3" stroke="#eab308" stroke-width="2"/>
+  <text x="350" y="170" text-anchor="middle" font-size="13" font-weight="600" fill="#854d0e">£1,000 – £2,500</text>
+  <text x="350" y="190" text-anchor="middle" font-size="12" fill="#854d0e">Contact HMRC</text>
+  <text x="350" y="203" text-anchor="middle" font-size="12" fill="#854d0e">They may adjust tax code</text>
+
+  <!-- Arrow straight down from decision -->
+  <line x1="350" y1="145" x2="350" y2="140" stroke="#64748b" stroke-width="2"/>
+
+  <!-- Decision: Over £2,500 -->
+  <rect x="490" y="145" width="180" height="60" rx="10" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+  <text x="580" y="170" text-anchor="middle" font-size="13" font-weight="600" fill="#991b1b">Over £2,500</text>
+  <text x="580" y="190" text-anchor="middle" font-size="12" fill="#991b1b">Self Assessment</text>
+  <text x="580" y="203" text-anchor="middle" font-size="12" fill="#991b1b">required</text>
+
+  <!-- Arrow right -->
+  <line x1="450" y1="175" x2="485" y2="175" stroke="#64748b" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Green result -->
+  <rect x="30" y="240" width="180" height="70" rx="10" fill="#f0fdf4"/>
+  <text x="120" y="265" text-anchor="middle" font-size="20" fill="#22c55e">✓</text>
+  <text x="120" y="285" text-anchor="middle" font-size="13" font-weight="600" fill="#166534">No action needed</text>
+  <text x="120" y="300" text-anchor="middle" font-size="11" fill="#166534">Keep records just in case</text>
+  <line x1="120" y1="205" x2="120" y2="235" stroke="#22c55e" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Yellow result -->
+  <rect x="260" y="240" width="180" height="70" rx="10" fill="#fffbeb"/>
+  <text x="350" y="265" text-anchor="middle" font-size="20" fill="#eab308">⚡</text>
+  <text x="350" y="285" text-anchor="middle" font-size="13" font-weight="600" fill="#854d0e">HMRC may adjust</text>
+  <text x="350" y="300" text-anchor="middle" font-size="11" fill="#854d0e">your PAYE tax code</text>
+  <line x1="350" y1="205" x2="350" y2="235" stroke="#eab308" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Red result -->
+  <rect x="490" y="240" width="180" height="70" rx="10" fill="#fef2f2"/>
+  <text x="580" y="265" text-anchor="middle" font-size="20" fill="#dc2626">📋</text>
+  <text x="580" y="285" text-anchor="middle" font-size="13" font-weight="600" fill="#991b1b">File Self Assessment</text>
+  <text x="580" y="300" text-anchor="middle" font-size="11" fill="#991b1b">SA105 property pages</text>
+  <line x1="580" y1="205" x2="580" y2="235" stroke="#dc2626" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Footer note -->
+  <rect x="100" y="345" width="500" height="45" rx="8" fill="#f1f5f9"/>
+  <text x="350" y="365" text-anchor="middle" font-size="12" font-weight="600" fill="#334155">Since Jan 2024: Platforms report your income to HMRC automatically</text>
+  <text x="350" y="382" text-anchor="middle" font-size="12" fill="#64748b">If you earn over the threshold, HMRC already knows — report accurately.</text>
+</svg>

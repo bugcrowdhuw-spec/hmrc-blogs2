@@ -1,0 +1,4 @@
+baseURL = "https://blog.hmrcreporter.com/"
+languageCode = "en-gb"
+title = "HMRC Reporter Blog"
+theme = "simple"
