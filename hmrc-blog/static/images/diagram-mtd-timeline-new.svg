@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="24" font-weight="bold">Making Tax Digital Timeline</text>
+  <text x="400" y="65" text-anchor="middle" fill="#aaaaaa" font-family="system-ui" font-size="14">When MTD applies to property managers</text>
+
+  <!-- Timeline line -->
+  <line x1="100" y1="200" x2="700" y2="200" stroke="#444" stroke-width="3"/>
+
+  <!-- Phase 1 -->
+  <circle cx="180" cy="200" r="12" fill="#e94560"/>
+  <rect x="100" y="90" width="160" height="80" rx="8" fill="#0f3460" stroke="#e94560" stroke-width="2"/>
+  <text x="180" y="115" text-anchor="middle" fill="#e94560" font-family="system-ui" font-size="14" font-weight="bold">April 2026</text>
+  <text x="180" y="138" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="12">Income over £50,000</text>
+  <text x="180" y="155" text-anchor="middle" fill="#aaaaaa" font-family="system-ui" font-size="11">MTD MANDATORY</text>
+  <line x1="180" y1="170" x2="180" y2="188" stroke="#e94560" stroke-width="2"/>
+
+  <!-- Phase 2 -->
+  <circle cx="380" cy="200" r="12" fill="#f5a623"/>
+  <rect x="300" y="90" width="160" height="80" rx="8" fill="#0f3460" stroke="#f5a623" stroke-width="2"/>
+  <text x="380" y="115" text-anchor="middle" fill="#f5a623" font-family="system-ui" font-size="14" font-weight="bold">April 2027</text>
+  <text x="380" y="138" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="12">Income over £30,000</text>
+  <text x="380" y="155" text-anchor="middle" fill="#aaaaaa" font-family="system-ui" font-size="11">MTD MANDATORY</text>
+  <line x1="380" y1="170" x2="380" y2="188" stroke="#f5a623" stroke-width="2"/>
+
+  <!-- Phase 3 -->
+  <circle cx="580" cy="200" r="12" fill="#4ecca3"/>
+  <rect x="500" y="90" width="160" height="80" rx="8" fill="#0f3460" stroke="#4ecca3" stroke-width="2"/>
+  <text x="580" y="115" text-anchor="middle" fill="#4ecca3" font-family="system-ui" font-size="14" font-weight="bold">2028 (Expected)</text>
+  <text x="580" y="138" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="12">Income over £20,000</text>
+  <text x="580" y="155" text-anchor="middle" fill="#aaaaaa" font-family="system-ui" font-size="11">MTD MANDATORY</text>
+  <line x1="580" y1="170" x2="580" y2="188" stroke="#4ecca3" stroke-width="2"/>
+
+  <!-- Requirements -->
+  <rect x="60" y="240" width="680" height="180" rx="8" fill="#0f3460" opacity="0.5"/>
+  <text x="400" y="270" text-anchor="middle" fill="#ffffff" font-family="system-ui" font-size="16" font-weight="bold">MTD Requirements</text>
+
+  <text x="100" y="305" fill="#4ecca3" font-family="system-ui" font-size="20">✓</text>
+  <text x="125" y="305" fill="#cccccc" font-family="system-ui" font-size="13">Digital record keeping (no paper/spreadsheets)</text>
+
+  <text x="100" y="335" fill="#4ecca3" font-family="system-ui" font-size="20">✓</text>
+  <text x="125" y="335" fill="#cccccc" font-family="system-ui" font-size="13">Quarterly submissions to HMRC</text>
+
+  <text x="100" y="365" fill="#4ecca3" font-family="system-ui" font-size="20">✓</text>
+  <text x="125" y="365" fill="#cccccc" font-family="system-ui" font-size="13">MTD-compatible software required</text>
+
+  <text x="100" y="395" fill="#4ecca3" font-family="system-ui" font-size="20">✓</text>
+  <text x="125" y="395" fill="#cccccc" font-family="system-ui" font-size="13">End of Period Statement + Final Declaration</text>
+</svg>

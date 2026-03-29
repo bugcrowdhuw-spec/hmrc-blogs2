@@ -1,0 +1,14 @@
+{
+  "buildCommand": "cd hmrc-blog && hugo --gc --minify",
+  "outputDirectory": "hmrc-blog/public",
+  "framework": "hugo",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "DENY" }
+      ]
+    }
+  ]
+}
