@@ -1,6 +1,10 @@
-# HMRC Penalties for Incorrect Property Income Reporting
+---
+title: "HMRC Penalties for Incorrect Property Income Reporting"
+date: 2026-03-30
+description: "HMRC penalties for incorrect property income reporting explained. Covers late filing, late payment, inaccuracy penalties, and how to minimise your risk."
+---
 
-<meta_description>HMRC penalties for incorrect property income reporting explained. Covers late filing, late payment, inaccuracy penalties, and how to minimise your risk.</meta_description>
+# HMRC Penalties for Incorrect Property Income Reporting
 
 *Last updated: March 2026*
 

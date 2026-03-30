@@ -1,6 +1,10 @@
-# Spreadsheet vs Automated HMRC Reporting: What's Better?
+---
+title: "Spreadsheet vs Automated HMRC Reporting: What's Better?"
+date: 2026-03-30
+description: "Spreadsheet vs automated HMRC reporting for property managers. Compare time, cost, accuracy, and MTD compliance to find the best approach for your rentals."
+---
 
-<meta_description>Spreadsheet vs automated HMRC reporting for property managers. Compare time, cost, accuracy, and MTD compliance to find the best approach for your rentals.</meta_description>
+# Spreadsheet vs Automated HMRC Reporting: What's Better?
 
 *Last updated: March 2026*
 

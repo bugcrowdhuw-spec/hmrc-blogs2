@@ -1,6 +1,10 @@
-# How Property Managers Can Save Hours on Tax Reporting
+---
+title: "How Property Managers Can Save Hours on Tax Reporting"
+date: 2026-03-30
+description: "How property managers can save hours on tax reporting. Learn where time goes, what automation saves, and the tools that cut reporting by 80%."
+---
 
-<meta_description>How property managers can save hours on tax reporting. Learn where time goes, what automation saves, and the tools that cut reporting by 80%.</meta_description>
+# How Property Managers Can Save Hours on Tax Reporting
 
 *Last updated: March 2026*
 

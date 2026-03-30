@@ -1,6 +1,10 @@
-# How to Turn Airbnb Transactions Into HMRC-Ready Reports
+---
+title: "How to Turn Airbnb Transactions Into HMRC-Ready Reports"
+date: 2026-03-30
+description: "How to turn Airbnb transactions into HMRC-ready reports — step-by-step guide covering gross income calculation, property tracking, and report generation."
+---
 
-<meta_description>How to turn Airbnb transactions into HMRC-ready reports — step-by-step guide covering gross income calculation, property tracking, and report generation.</meta_description>
+# How to Turn Airbnb Transactions Into HMRC-Ready Reports
 
 *Last updated: March 2026*
 

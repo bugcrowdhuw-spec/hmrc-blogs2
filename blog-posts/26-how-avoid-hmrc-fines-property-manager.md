@@ -1,6 +1,10 @@
-# How to Avoid HMRC Fines as a Property Manager
+---
+title: "How to Avoid HMRC Fines as a Property Manager"
+date: 2026-03-30
+description: "How to avoid HMRC fines as a property manager — covers late filing, late payment, and inaccuracy penalties with practical steps to stay compliant."
+---
 
-<meta_description>How to avoid HMRC fines as a property manager — covers late filing, late payment, and inaccuracy penalties with practical steps to stay compliant.</meta_description>
+# How to Avoid HMRC Fines as a Property Manager
 
 *Last updated: March 2026*
 

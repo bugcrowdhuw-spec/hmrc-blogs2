@@ -1,6 +1,10 @@
-# The Biggest Tax Mistakes Property Managers Make
+---
+title: "The Biggest Tax Mistakes Property Managers Make"
+date: 2026-03-30
+description: "Discover the biggest tax mistakes property managers make — from reporting net income to missing platforms — and learn how to avoid costly HMRC penalties."
+---
 
-<meta_description>Discover the biggest tax mistakes property managers make — from reporting net income to missing platforms — and learn how to avoid costly HMRC penalties.</meta_description>
+# The Biggest Tax Mistakes Property Managers Make
 
 *Last updated: March 2026*
 

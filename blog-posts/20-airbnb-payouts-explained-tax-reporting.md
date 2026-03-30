@@ -1,6 +1,10 @@
-# Airbnb Payouts Explained for Tax Reporting
+---
+title: "Airbnb Payouts Explained for Tax Reporting"
+date: 2026-03-30
+description: "Airbnb payouts explained for UK tax reporting. Learn the difference between gross and net income, what to report to HMRC, and common payout mistakes."
+---
 
-<meta_description>Airbnb payouts explained for UK tax reporting. Learn the difference between gross and net income, what to report to HMRC, and common payout mistakes.</meta_description>
+# Airbnb Payouts Explained for Tax Reporting
 
 *Last updated: March 2026*
 

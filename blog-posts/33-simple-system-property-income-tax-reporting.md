@@ -1,6 +1,10 @@
-# A Simple System for Managing Property Income and Tax Reporting
+---
+title: "A Simple System for Managing Property Income and Tax Reporting"
+date: 2026-03-30
+description: "A simple system for managing property income and tax reporting. Three steps — capture, organise, report — to stay HMRC-compliant year-round."
+---
 
-<meta_description>A simple system for managing property income and tax reporting. Three steps — capture, organise, report — to stay HMRC-compliant year-round.</meta_description>
+# A Simple System for Managing Property Income and Tax Reporting
 
 *Last updated: March 2026*
 

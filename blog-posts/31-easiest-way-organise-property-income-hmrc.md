@@ -1,6 +1,10 @@
-# The Easiest Way to Organise Property Income for HMRC
+---
+title: "The Easiest Way to Organise Property Income for HMRC"
+date: 2026-03-30
+description: "The easiest way to organise property income for HMRC. Simple system for tracking income, expenses, and property details so you stay compliant."
+---
 
-<meta_description>The easiest way to organise property income for HMRC. Simple system for tracking income, expenses, and property details so you stay compliant.</meta_description>
+# The Easiest Way to Organise Property Income for HMRC
 
 *Last updated: March 2026*
 

@@ -1,6 +1,10 @@
-# Booking.com and Airbnb Income: How to Combine for HMRC
+---
+title: "Booking.com and Airbnb Income: How to Combine for HMRC"
+date: 2026-03-30
+description: "How to combine Booking.com and Airbnb income for HMRC. Step-by-step guide to gross income calculation, property matching, and consolidated reporting."
+---
 
-<meta_description>How to combine Booking.com and Airbnb income for HMRC. Step-by-step guide to gross income calculation, property matching, and consolidated reporting.</meta_description>
+# Booking.com and Airbnb Income: How to Combine for HMRC
 
 *Last updated: March 2026*
 

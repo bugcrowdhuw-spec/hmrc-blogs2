@@ -1,6 +1,10 @@
-# Common HMRC Reporting Errors Airbnb Hosts Make
+---
+title: "Common HMRC Reporting Errors Airbnb Hosts Make"
+date: 2026-03-30
+description: "Common HMRC reporting errors Airbnb hosts make — from gross vs net mistakes to missed platforms — plus how to fix them before HMRC flags your return."
+---
 
-<meta_description>Common HMRC reporting errors Airbnb hosts make — from gross vs net mistakes to missed platforms — plus how to fix them before HMRC flags your return.</meta_description>
+# Common HMRC Reporting Errors Airbnb Hosts Make
 
 *Last updated: March 2026*
 

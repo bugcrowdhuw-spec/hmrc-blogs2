@@ -1,6 +1,10 @@
-# Why Most Property Managers Are Not Ready for MTD
+---
+title: "Why Most Property Managers Are Not Ready for MTD"
+date: 2026-03-30
+description: "Why most property managers aren't ready for Making Tax Digital — common misconceptions, what happens if you're unprepared, and how to get ready now."
+---
 
-<meta_description>Why most property managers aren't ready for Making Tax Digital — common misconceptions, what happens if you're unprepared, and how to get ready now.</meta_description>
+# Why Most Property Managers Are Not Ready for MTD
 
 *Last updated: March 2026*
 

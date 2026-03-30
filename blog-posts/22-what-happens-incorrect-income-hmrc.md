@@ -1,6 +1,10 @@
-# What Happens If You Report Incorrect Income to HMRC
+---
+title: "What Happens If You Report Incorrect Income to HMRC"
+date: 2026-03-30
+description: "What happens if you report incorrect income to HMRC? Learn about penalties, investigation triggers, types of errors, and how to avoid costly mistakes."
+---
 
-<meta_description>What happens if you report incorrect income to HMRC? Learn about penalties, investigation triggers, types of errors, and how to avoid costly mistakes.</meta_description>
+# What Happens If You Report Incorrect Income to HMRC
 
 *Last updated: March 2026*
 

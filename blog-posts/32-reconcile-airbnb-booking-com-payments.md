@@ -1,6 +1,10 @@
-# How to Reconcile Airbnb and Booking.com Payments
+---
+title: "How to Reconcile Airbnb and Booking.com Payments"
+date: 2026-03-30
+description: "How to reconcile Airbnb and Booking.com payments for HMRC. Step-by-step guide to matching income, spotting errors, and reporting accurately."
+---
 
-<meta_description>How to reconcile Airbnb and Booking.com payments for HMRC. Step-by-step guide to matching income, spotting errors, and reporting accurately.</meta_description>
+# How to Reconcile Airbnb and Booking.com Payments
 
 *Last updated: March 2026*
 

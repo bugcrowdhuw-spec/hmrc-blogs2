@@ -1,6 +1,10 @@
-# How to Track Airbnb Income Without Spreadsheets
+---
+title: "How to Track Airbnb Income Without Spreadsheets"
+date: 2026-03-30
+description: "Learn how to track Airbnb income without spreadsheets. Discover automated tools that import data, calculate gross income, and generate HMRC-ready reports."
+---
 
-<meta_description>Learn how to track Airbnb income without spreadsheets. Discover automated tools that import data, calculate gross income, and generate HMRC-ready reports.</meta_description>
+# How to Track Airbnb Income Without Spreadsheets
 
 *Last updated: March 2026*
 
