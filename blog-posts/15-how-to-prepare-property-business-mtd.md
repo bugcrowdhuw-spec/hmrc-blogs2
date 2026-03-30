@@ -1,8 +1,10 @@
 # How to Prepare Your Property Business for Making Tax Digital
 
+<meta_description>How to prepare your property business for Making Tax Digital. Step-by-step guide covering software, digital records, quarterly workflow, and MTD checklist.</meta_description>
+
 *Last updated: March 2026*
 
-Making Tax Digital is rolling out now — and the property managers who prepare early will have a smooth transition. Those who wait until the deadline will scramble. This guide gives you a practical, step-by-step plan to get your property business MTD-ready.
+Making Tax Digital is rolling out now. The property managers who prepare early will have a smooth transition. Those who wait until the deadline will scramble. This guide gives you a practical, step-by-step plan to get your property business MTD-ready.
 
 ## Assess Where You Are Now
 
@@ -30,7 +32,7 @@ Add up all rental income before expenses:
 
 ### Step 3: Audit Your Current Systems
 
-Answer these questions:
+Ask yourself:
 
 - How do you currently record income? (Paper, spreadsheet, software?)
 - How do you track expenses? (Receipts in a drawer, spreadsheet, app?)
@@ -74,7 +76,7 @@ At minimum, your software must:
 Landlord Vision or Xero — strong property tracking and MTD support.
 
 **For mixed portfolios:**
-[HMRC Reporter](https://hmrcreporter.com/) for STR properties + Xero for general accounting.
+[HMRC Reporter](https://hmrcreporter.com/) for STR properties plus Xero for general accounting.
 
 ## Set Up Your Digital Records
 
@@ -104,11 +106,7 @@ Create consistent categories:
 
 ### Import Historical Data
 
-If your software supports it, import historical data from your platforms. This gives you:
-
-- A baseline for comparison
-- Practice with the import process
-- Data for your first quarterly submission
+If your software supports it, import historical data from your platforms. This gives you a baseline for comparison, practice with the import process, and data for your first quarterly submission.
 
 ## Create Your Quarterly Workflow
 
@@ -138,8 +136,6 @@ MTD means reporting four times a year instead of once. Build a routine:
 
 ## Prepare Your Team (If Applicable)
 
-If you have staff or work with accountants:
-
 ### For Staff
 
 - Train on the new software
@@ -160,29 +156,9 @@ If you have staff or work with accountants:
 - Get their authorisation for submissions
 - Set expectations for reporting frequency
 
-## Common Preparation Mistakes
+## What Is the MTD Preparation Checklist?
 
-### 1. Waiting Until the Deadline
-
-MTD starts April 2026 for income over £50,000. If that's you, you need to be ready now — not scrambling in March.
-
-### 2. Choosing the Wrong Software
-
-General accounting software might not handle property-specific needs. Short-term rental income requires platform import. Choose software that fits your specific situation.
-
-### 3. Not Testing Before Going Live
-
-Run a practice quarter before your first real submission. This catches gaps in your process while there's still time to fix them.
-
-### 4. Ignoring Expense Tracking
-
-MTD requires digital expense records. If you're still stuffing receipts in a drawer, start photographing them now.
-
-### 5. Not Informing Landlords
-
-If you manage properties for others, they need to know about MTD. Don't surprise them with quarterly submission requirements.
-
-## Your MTD Preparation Checklist
+To get your property business MTD-ready, work through this checklist:
 
 - [ ] Calculate gross property income
 - [ ] Confirm your MTD start date
@@ -199,29 +175,57 @@ If you manage properties for others, they need to know about MTD. Don't surprise
 - [ ] Set calendar reminders for quarterly deadlines
 - [ ] Create a backup process for digital records
 
+## Common Preparation Mistakes
+
+### 1. Waiting Until the Deadline
+
+MTD starts April 2026 for income over £50,000. If that's you, you need to be ready now — not scrambling in March.
+
+### 2. Choosing the Wrong Software
+
+General accounting software might not handle property-specific needs. Short-term rental income requires platform import. Choose software that fits your situation.
+
+### 3. Not Testing Before Going Live
+
+Run a practice quarter before your first real submission. This catches gaps while there's still time to fix them.
+
+### 4. Ignoring Expense Tracking
+
+MTD requires digital expense records. If you're still stuffing receipts in a drawer, start photographing them now.
+
+### 5. Not Informing Landlords
+
+If you manage properties for others, they need to know about MTD. Don't surprise them with quarterly submission requirements.
+
 ## Frequently Asked Questions
 
-**Q: How long does MTD preparation take?**
-A: Most property managers can get set up in 1–2 weeks. The main time is choosing software, adding properties, and learning the system.
+### How long does MTD preparation take?
 
-**Q: Do I need to digitise all my old records?**
-A: No. MTD applies going forward from your start date. You don't need to digitise historical records, but it can be useful for comparison.
+Most property managers can get set up in 1–2 weeks. The main time goes on choosing software, adding properties, and learning the system.
 
-**Q: What if I'm not ready by my MTD start date?**
-A: Start as soon as possible. HMRC's penalty system is points-based — a few late submissions won't immediately trigger fines, but persistent failures will.
+### Do I need to digitise all my old records?
 
-**Q: Can my accountant handle all of this?**
-A: Your accountant can submit on your behalf, but you still need to keep digital records. Both of you need access to MTD-compatible software.
+No. MTD applies going forward from your start date. You don't need to digitise historical records, but it can help for comparison.
 
-**Q: What software do you recommend for short-term rental managers?**
-A: [HMRC Reporter](https://hmrcreporter.com/) — it imports platform data, tracks per property, and supports MTD. It's built specifically for short-term rental income.
+### What if I'm not ready by my MTD start date?
+
+Start as soon as possible. HMRC's penalty system is points-based — a few late submissions won't immediately trigger fines, but persistent failures will.
+
+### Can my accountant handle all of this?
+
+Your accountant can submit on your behalf, but you still need to keep digital records. Both of you need access to MTD-compatible software.
+
+### What software do you recommend for short-term rental managers?
+
+[HMRC Reporter](https://hmrcreporter.com/) — it imports platform data, tracks per property, and supports MTD. Built specifically for short-term rental income.
 
 ---
 
 *Start preparing for MTD today. [HMRC Reporter](https://hmrcreporter.com/) helps property managers go digital and stay compliant. [Learn more →](https://hmrcreporter.com/)*
 
----
+## Related Posts
 
-**Tags:** prepare for Making Tax Digital, MTD readiness, property business MTD, landlord MTD preparation, digital record keeping
-
-**Meta description:** How to prepare your property business for Making Tax Digital. Step-by-step guide covering software, digital records, quarterly workflow, and MTD checklist.
+- [MTD Reporting Requirements for Short-Term Rentals](./14-mtd-reporting-requirements-short-term-rentals.md) — detailed STR-specific MTD rules
+- [What Property Managers Need to Know About Making Tax Digital](./13-what-property-managers-need-know-mtd.md) — key MTD facts for property managers
+- [Why Most Property Managers Are Not Ready for MTD](./27-why-most-property-managers-not-ready-mtd.md) — common readiness gaps and how to fix them
+- [How Making Tax Digital Affects Airbnb Hosts in the UK](./11-making-tax-digital-affects-airbnb-hosts-uk.md) — MTD impact on Airbnb hosts

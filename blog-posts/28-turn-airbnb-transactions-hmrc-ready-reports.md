@@ -1,5 +1,7 @@
 # How to Turn Airbnb Transactions Into HMRC-Ready Reports
 
+<meta_description>How to turn Airbnb transactions into HMRC-ready reports — step-by-step guide covering gross income calculation, property tracking, and report generation.</meta_description>
+
 *Last updated: March 2026*
 
 Your Airbnb transaction history is a wall of data. Dates, amounts, fees, currencies, refunds — all in a format that doesn't match what HMRC expects. Turning that raw data into an HMRC-ready report is the gap most hosts struggle with. Here's exactly how to bridge it.
@@ -29,6 +31,10 @@ Airbnb gives you transaction data. HMRC wants a structured tax report. These are
 
 The conversion from one to the other is where mistakes happen.
 
+## How Do You Convert Airbnb Transactions to HMRC Reports?
+
+Follow these steps to turn your Airbnb CSV into figures HMRC will accept.
+
 ## Step 1: Export Your Airbnb Data
 
 1. Log in to Airbnb
@@ -52,8 +58,6 @@ Gross income = Payout + Service fee
 ```
 Total gross income = Sum of all (Payout + Service fee)
 ```
-
-### Handling Cleaning Fees
 
 If Airbnb collects cleaning fees on your behalf, they're included in the gross amount. If you pay cleaners separately, that's an expense.
 
@@ -92,12 +96,7 @@ Gather these from your own records and add them per property.
 
 ## Step 6: Handle Currency Conversions
 
-If you received bookings in other currencies:
-
-- Use HMRC's average exchange rates for the tax year, or
-- Use spot rates on the date of each transaction
-
-Convert all figures to GBP before reporting.
+If you received bookings in other currencies, convert all figures to GBP. Use HMRC's average exchange rates for the tax year, or spot rates on the date of each transaction.
 
 ## Step 7: Account for Personal Use
 
@@ -122,6 +121,10 @@ Generate OECD-compliant XML with:
 - Number of transactions
 - Property addresses
 
+## What Format Does HMRC Accept for Property Income Reports?
+
+For Self Assessment, you enter figures online through the HMRC portal. For Digital Platform Reporting, HMRC accepts OECD-compliant XML files. The format depends on which reporting obligation applies to you.
+
 ## The Automated Way
 
 Every step above is manual. It works, but it takes hours and is error-prone.
@@ -129,15 +132,13 @@ Every step above is manual. It works, but it takes hours and is error-prone.
 [HMRC Reporter](https://hmrcreporter.com/) automates the entire process:
 
 1. **Upload your CSV** — the software reads Airbnb's format automatically
-2. **Gross income calculated** — payout + fee, no manual math
+2. **Gross income calculated** — payout + fee, no manual maths
 3. **Properties matched** — links transactions to the right property
 4. **Fees extracted** — platform fees separated as expenses
 5. **Expenses added** — enter your own expenses per property
 6. **Report generated** — SA105 figures or Digital Platform Reporting XML
 
 What takes 2–4 hours manually takes minutes.
-
-[Learn more about HMRC Reporter →](https://hmrcreporter.com/)
 
 ## Common Conversion Mistakes
 
@@ -175,15 +176,17 @@ A: You need to combine data from both platforms. [HMRC Reporter](https://hmrcrep
 **Q: Do I need to convert every transaction individually?**
 A: Not necessarily. You can use total figures per property per tax year. But keep the detailed CSV for your records.
 
-**Q: What format does HMRC accept?**
-A: For Self Assessment, you enter figures online. For Digital Platform Reporting, HMRC accepts OECD-compliant XML.
-
 ---
 
 *Skip the manual conversion. [HMRC Reporter](https://hmrcreporter.com/) turns your Airbnb transactions into HMRC-ready reports automatically. [Get started →](https://hmrcreporter.com/)*
 
 ---
 
-**Tags:** Airbnb transactions HMRC, Airbnb CSV to tax report, Airbnb data conversion, HMRC-ready reports, property income reporting
+## Related Posts
 
-**Meta description:** How to turn Airbnb transactions into HMRC-ready reports. Step-by-step guide covering gross income calculation, property tracking, and report generation.
+- [How to Generate HMRC-Ready Reports from Airbnb Data](./09-how-generate-hmrc-ready-reports-airbnb-data.md) — detailed report generation guide
+- [Common HMRC Reporting Errors Airbnb Hosts Make](./25-common-hmrc-reporting-errors-airbnb-hosts.md) — errors to avoid during conversion
+- [Airbnb Payouts Explained for Tax Reporting](./20-airbnb-payouts-explained-tax-reporting.md) — understanding payout vs gross
+- [How to Track Airbnb Income Without Spreadsheets](./19-how-track-airbnb-income-without-spreadsheets.md) — better alternatives to manual tracking
+
+**Tags:** Airbnb transactions HMRC, Airbnb CSV to tax report, Airbnb data conversion, HMRC-ready reports, property income reporting

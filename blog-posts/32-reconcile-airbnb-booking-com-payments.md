@@ -1,12 +1,14 @@
 # How to Reconcile Airbnb and Booking.com Payments
 
+<meta_description>How to reconcile Airbnb and Booking.com payments for HMRC. Step-by-step guide to matching income, spotting errors, and reporting accurately.</meta_description>
+
 *Last updated: March 2026*
 
-If you list on both Airbnb and Booking.com, reconciling payments is one of the trickiest parts of property management. Different fee structures, different payout schedules, and different data formats make it hard to match your actual income to what each platform reports. Here's how to do it properly.
+If you list on both Airbnb and Booking.com, reconciling payments is one of the trickiest parts of property management. Different fee structures, different payout schedules, and different data formats make it hard to match your actual income. Here's how to do it properly.
 
-## Why Reconciliation Matters
+## The Problem: Why Reconciliation Matters
 
-Reconciliation means matching your records against platform statements to make sure everything adds up. It catches:
+Reconciliation means matching your records against platform statements to make sure everything adds up. Without it, you risk:
 
 - **Missing bookings** — platforms occasionally omit transactions
 - **Duplicate entries** — the same booking appearing twice
@@ -14,7 +16,13 @@ Reconciliation means matching your records against platform statements to make s
 - **Refund errors** — incorrect refund amounts
 - **Currency discrepancies** — conversion rate differences
 
-For HMRC reporting, reconciliation ensures your figures are accurate — and match what platforms report about you.
+For HMRC reporting, reconciliation ensures your figures are accurate and match what platforms report about you.
+
+## What HMRC Expects
+
+HMRC requires you to report **gross income** — the full amount guests pay, before platform fees. If your records don't match platform reports, you could face enquiries or penalties.
+
+Reconciling Airbnb and Booking.com payments properly means you can prove every figure on your return.
 
 ## Airbnb vs Booking.com: Key Differences
 
@@ -24,11 +32,10 @@ For HMRC reporting, reconciliation ensures your figures are accurate — and mat
 | Payout timing | 24hrs after check-in | Monthly (1st–15th of following month) |
 | Data format | Transaction CSV | Reservation/statement CSV |
 | Cleaning fees | Included in booking total | May be separate |
-| Currency | Per transaction | Per reservation |
 
 These differences mean you can't just add the two together without understanding each format.
 
-## Step-by-Step Reconciliation
+## How to Reconcile Airbnb and Booking.com Payments
 
 ### Step 1: Export Data from Both Platforms
 
@@ -44,7 +51,7 @@ These differences mean you can't just add the two together without understanding
 
 ### Step 2: Standardise the Data
 
-Both platforms export differently. Create a unified view:
+Both platforms export differently. Map each column to a standard format:
 
 | Field | Airbnb | Booking.com |
 |---|---|---|
@@ -54,8 +61,6 @@ Both platforms export differently. Create a unified view:
 | Gross amount | Booking total | Reservation value |
 | Platform fee | Service fee | Commission |
 | Net payout | Payout amount | Net amount |
-
-Map each platform's columns to your standard format.
 
 ### Step 3: Match Against Bank Deposits
 
@@ -70,17 +75,9 @@ Match each deposit to the corresponding transactions in your platform data.
 
 Common issues:
 
-**Missing deposits:**
-- Booking completed but payout not received
-- Check for pending payouts or hold periods
-
-**Unmatched deposits:**
-- Bank deposit doesn't match any booking
-- Could be a refund reversal or adjustment
-
-**Fee differences:**
-- Expected fee doesn't match actual deduction
-- Check for special promotions or rate changes
+- **Missing deposits** — booking completed but payout not received. Check for pending payouts or hold periods.
+- **Unmatched deposits** — bank deposit doesn't match any booking. Could be a refund reversal or adjustment.
+- **Fee differences** — expected fee doesn't match actual deduction. Check for special promotions or rate changes.
 
 ### Step 5: Calculate Correct Gross Income
 
@@ -106,6 +103,51 @@ Total gross income = Airbnb gross + Booking.com gross
 
 For HMRC: report £16,000 gross income, claim £1,200 as platform fee expenses.
 
+## How Often Should You Reconcile Airbnb and Booking.com Payments?
+
+### Monthly (Recommended)
+
+- Easier to spot issues while recent
+- Less data to process
+- Builds a consistent habit
+
+### Quarterly (Minimum for MTD)
+
+- Required if Making Tax Digital applies
+- Aligns with MTD quarterly submissions
+
+### Annually (Not Recommended)
+
+- Harder to remember details
+- Issues compound
+- Stressful year-end scramble
+
+## Common Reconciliation Problems
+
+### Different Payout Schedules
+
+Airbnb pays per booking. Booking.com pays monthly. Your bank shows deposits at different times.
+
+**Solution:** Reconcile by booking date, not bank deposit date.
+
+### Currency Conversion
+
+Airbnb might pay in GBP. Booking.com might pay in EUR.
+
+**Solution:** Convert to GBP using HMRC's rates. Track the conversion for each payment.
+
+### Refunds and Adjustments
+
+Guest cancels, you refund, platform adjusts fees.
+
+**Solution:** Track refunds as negative income. Adjust platform fees accordingly.
+
+### Cleaning Fees
+
+Airbnb includes cleaning fees in the booking total. Booking.com may handle them separately.
+
+**Solution:** Ensure cleaning fee income is captured consistently across both platforms.
+
 ## Automating Reconciliation
 
 Manual reconciliation works but takes hours. [HMRC Reporter](https://hmrcreporter.com/) automates it:
@@ -118,74 +160,34 @@ Manual reconciliation works but takes hours. [HMRC Reporter](https://hmrcreporte
 
 [Learn more about HMRC Reporter →](https://hmrcreporter.com/)
 
-## Reconciliation Frequency
-
-### Monthly (Recommended)
-
-- Easier to spot issues while recent
-- Less data to process
-- Builds consistent habit
-
-### Quarterly (Minimum for MTD)
-
-- Required if Making Tax Digital applies to you
-- Aligns with MTD quarterly submissions
-
-### Annually (Not Recommended)
-
-- Harder to remember details
-- Issues compound
-- Stressful year-end scramble
-
-## Common Reconciliation Problems
-
-### Problem 1: Different Payout Schedules
-
-Airbnb pays per booking. Booking.com pays monthly. Your bank shows deposits at different times.
-
-**Solution:** Reconcile by booking date, not bank deposit date.
-
-### Problem 2: Currency Conversion
-
-Airbnb might pay in GBP. Booking.com might pay in EUR.
-
-**Solution:** Convert to GBP using HMRC's rates. Track the conversion for each payment.
-
-### Problem 3: Refunds and Adjustments
-
-Guest cancels, you refund, platform adjusts fees.
-
-**Solution:** Track refunds as negative income. Adjust platform fees accordingly.
-
-### Problem 4: Cleaning Fees
-
-Airbnb includes cleaning fees in the booking total. Booking.com might handle them separately.
-
-**Solution:** Ensure cleaning fee income is captured consistently across both platforms.
-
 ## Frequently Asked Questions
 
-**Q: How often should I reconcile?**
-A: Monthly is ideal. Quarterly is the minimum if MTD applies.
+### How often should I reconcile Airbnb and Booking.com payments?
 
-**Q: What if the numbers don't match?**
-A: Investigate. Common causes: missing transactions, duplicate entries, fee miscalculations, or pending payouts.
+Monthly is ideal. Quarterly is the minimum if MTD applies to you.
 
-**Q: Do I need to reconcile if I use software?**
-A: Yes, but software does most of the work. You review rather than calculate.
+### What if the numbers don't match between Airbnb and Booking.com?
 
-**Q: Can I reconcile across more than two platforms?**
-A: Yes. [HMRC Reporter](https://hmrcreporter.com/) supports 27+ platforms and reconciles all of them together.
+Investigate. Common causes: missing transactions, duplicate entries, fee miscalculations, or pending payouts.
 
-**Q: What if I find a discrepancy from a previous tax year?**
-A: Correct it in your records. If it affects your Self Assessment, you may need to amend your return or contact HMRC.
+### Do I need to reconcile if I use software?
+
+Yes, but software does most of the work. You review rather than calculate.
+
+### Can I reconcile across more than two platforms?
+
+Yes. [HMRC Reporter](https://hmrcreporter.com/) supports 27+ platforms and reconciles all of them together.
+
+### What if I find a discrepancy from a previous tax year?
+
+Correct it in your records. If it affects your Self Assessment, you may need to amend your return or contact HMRC.
 
 ---
 
 *Reconcile automatically. [HMRC Reporter](https://hmrcreporter.com/) imports from Airbnb, Booking.com, and 25+ other platforms and reconciles payments in one view. [Get started →](https://hmrcreporter.com/)*
 
----
+## Related Posts
 
-**Tags:** reconcile Airbnb Booking.com payments, multi-platform payment reconciliation, property income matching, Airbnb Booking.com accounting
-
-**Meta description:** How to reconcile Airbnb and Booking.com payments. Covers data comparison, bank matching, discrepancy identification, and automated reconciliation.
+- [Booking.com and Airbnb Income: How to Combine for HMRC](./21-booking-com-airbnb-income-combine-hmrc.md) — combining multi-platform income for tax
+- [How to Turn Airbnb Transactions Into HMRC-Ready Reports](./28-how-to-turn-airbnb-transactions-into-hmrc-ready-reports.md) — from raw data to compliant reports
+- [Common HMRC Reporting Errors Airbnb Hosts Make](./25-common-hmrc-reporting-errors-airbnb-hosts-make.md) — mistakes to avoid

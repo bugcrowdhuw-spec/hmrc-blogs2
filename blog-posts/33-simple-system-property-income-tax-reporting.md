@@ -1,10 +1,28 @@
 # A Simple System for Managing Property Income and Tax Reporting
 
+<meta_description>A simple system for managing property income and tax reporting. Three steps — capture, organise, report — to stay HMRC-compliant year-round.</meta_description>
+
 *Last updated: March 2026*
 
-Property income tax reporting feels overwhelming when you don't have a system. You're downloading CSVs, tracking expenses in your head, and hoping everything adds up at year-end. It doesn't have to be this way. Here's a simple system that keeps you organised year-round and makes HMRC reporting painless.
+Property income tax reporting feels overwhelming when you don't have a system. You download CSVs, track expenses in your head, and hope everything adds up at year-end. Here's a simple system for managing property income that keeps you organised and makes HMRC reporting painless.
 
-## The 3-Part System
+## The Problem: No System = Year-End Panic
+
+Without a system, property income tax reporting becomes a crisis every January. You scramble to find receipts. You forget expenses. You spend hours trying to match platform payouts to bank deposits.
+
+The result? Missed deductions, reporting errors, and stress.
+
+## What HMRC Requires
+
+You must keep accurate records of:
+
+- **Gross income** — the full amount guests pay, before platform fees
+- **Allowable expenses** — costs you can deduct per property
+- **Property details** — address, ownership, personal use days
+
+Records must be kept for 5 years after the submission deadline. If Making Tax Digital applies, you also need digital records and quarterly submissions.
+
+## The 3-Part System for Property Income Tax Reporting
 
 Everything comes down to three things:
 
@@ -19,31 +37,23 @@ Get these three right and tax reporting becomes routine, not crisis.
 ### Income Capture
 
 **What to capture:**
+
 - Gross booking amount (before platform fees)
 - Platform fees (separately)
 - Cleaning fees received
 - Any other property income
 
-**When to capture:**
-- Monthly, when you download platform CSVs
-- Don't wait until year-end
+**When:** Monthly, when you download platform CSVs. Don't wait until year-end.
 
-**How to capture:**
+**How:**
 
-**Option A: Automated (Recommended)**
-Upload platform CSVs to [HMRC Reporter](https://hmrcreporter.com/). It reads the data, calculates gross income, and stores everything.
-
-**Option B: Manual**
-Enter each transaction into a spreadsheet with:
-- Date
-- Platform
-- Property
-- Gross amount
-- Platform fee
+- **Automated (Recommended):** Upload platform CSVs to [HMRC Reporter](https://hmrcreporter.com/). It reads the data, calculates gross income, and stores everything.
+- **Manual:** Enter each transaction into a spreadsheet — date, platform, property, gross amount, platform fee.
 
 ### Expense Capture
 
 **What to capture:**
+
 - Cleaning costs
 - Maintenance and repairs
 - Insurance
@@ -54,21 +64,16 @@ Enter each transaction into a spreadsheet with:
 - Management fees
 - Professional fees
 
-**When to capture:**
-- As they happen — don't batch at year-end
-- Photograph receipts immediately
-
-**How to capture:**
-- Software: enter directly with receipt photo attached
-- Spreadsheet: enter with receipt filename reference
+**When:** As they happen. Photograph receipts immediately.
 
 ### Property Details
 
-**Capture once, update when things change:**
+Capture once, update when things change:
+
 - Property address
 - Ownership structure (sole, joint, company)
 - Ownership percentages (if joint)
-- Listing URLs (Airbnb, Booking.com, etc.)
+- Listing URLs
 - Letting type (short-term, long-term, mixed)
 
 ## Part 2: Organise
@@ -95,27 +100,19 @@ Property: 123 Main Street, Cardiff
 
 ### By Platform
 
-Track each platform's income separately for reconciliation:
-
-- Airbnb: gross income, fees, net payout
-- Booking.com: gross income, commission, net payout
-- VRBO: same structure
+Track each platform separately for reconciliation — Airbnb gross income, fees, net payout. Booking.com the same.
 
 ### By Tax Year
 
-Always use the UK tax year: **6 April – 5 April**
-
-Don't mix tax years. Don't use calendar year. HMRC uses the tax year, and so should you.
+Always use the UK tax year: **6 April – 5 April**. Don't mix tax years. HMRC uses the tax year, and so should you.
 
 ## Part 3: Report
 
 ### Self Assessment (SA105)
 
-When it's time to file:
-
 1. Total gross income per property
 2. Total expenses per property
-3. Calculate net profit per property
+3. Calculate net profit
 4. Enter on SA105 property income pages
 5. Submit by 31 January
 
@@ -124,24 +121,24 @@ When it's time to file:
 If MTD applies:
 
 1. Sum income and expenses for the quarter
-2. Submit quarterly update via MTD-compatible software
+2. Submit via MTD-compatible software
 3. Deadline: 1 month after quarter-end
 
 ### Digital Platform Reporting (XML)
 
-If you need to submit OECD-compliant XML:
+If you need OECD-compliant XML:
 
 1. Generate XML from your data
-2. Includes: property details, gross income, transaction counts
+2. Includes property details, gross income, transaction counts
 3. Submit to HMRC
 
-## The Monthly Routine
+## The Monthly Routine (15–30 Minutes)
 
-### Day 1 of Each Month (15–30 minutes)
+On the 1st of each month:
 
 1. **Import platform data** — download and upload CSVs
 2. **Add expenses** — enter any new expenses from the past month
-3. **Photograph receipts** — clear out your wallet/desk
+3. **Photograph receipts** — clear out your wallet or desk
 4. **Reconcile** — check bank deposits match platform data
 5. **Review** — scan for missing entries or unusual amounts
 
@@ -149,28 +146,28 @@ That's it. One session per month keeps everything current.
 
 ## The Quarterly Routine (MTD)
 
-### Within 1 Month of Quarter-End (1–2 hours)
+Within 1 month of quarter-end:
 
-1. **Review the quarter** — check all income and expenses
-2. **Verify per property** — confirm totals make sense
-3. **Submit quarterly update** — via MTD software
-4. **Note corrections** — fix any errors from previous quarters
+1. Review the quarter's income and expenses
+2. Verify totals per property
+3. Submit quarterly update via MTD software
+4. Fix any errors from previous quarters
 
 ## The Annual Routine
 
-### October–November (2–3 hours)
+**October–November:**
 
-1. **Final review** — check all income and expenses for the tax year
-2. **Verify against platforms** — compare your totals to platform reports
-3. **Generate report** — SA105 figures or XML
-4. **File Self Assessment** — submit well before 31 January deadline
-5. **Archive** — store records (keep for 5 years minimum)
+1. Final review of all income and expenses for the tax year
+2. Verify against platform reports
+3. Generate report — SA105 figures or XML
+4. File Self Assessment (well before 31 January deadline)
+5. Archive records (keep for 5 years minimum)
 
-## Tools That Make This Work
+## Tools That Make This System Work
 
 ### For Short-Term Rental Managers
 
-[HMRC Reporter](https://hmrcreporter.com/) — handles the entire system:
+[HMRC Reporter](https://hmrcreporter.com/) handles the entire system:
 
 - **Capture:** Import from 27+ platforms
 - **Organise:** Per property, per platform, per tax year
@@ -186,51 +183,34 @@ That's it. One session per month keeps everything current.
 - **Your bank's export** — download monthly statements
 - **Xero** or **QuickBooks** — if you need full accounting
 
-## Why This System Works
-
-### It's Simple
-
-Three parts: capture, organise, report. No complex spreadsheets or multi-step processes.
-
-### It's Consistent
-
-Monthly routine means you never fall behind. No year-end panic.
-
-### It's Accurate
-
-Recording as you go means fewer forgotten transactions and errors.
-
-### It's Compliant
-
-Per-property tracking meets HMRC requirements and prepares you for Making Tax Digital.
-
-### It Scales
-
-Whether you have 1 property or 50, the system is the same. Capture, organise, report.
-
 ## Frequently Asked Questions
 
-**Q: Do I need to do this every month?**
-A: Monthly is ideal — 15–30 minutes keeps you current. Quarterly at minimum.
+### Do I need to manage property income every month?
 
-**Q: What if I've been disorganised?**
-A: Start now. Download platform CSVs for the current tax year, enter what you remember, and build the habit going forward.
+Monthly is ideal — 15–30 minutes keeps you current. Quarterly at minimum.
 
-**Q: Can I use a spreadsheet instead of software?**
-A: Yes, but software saves significant time. If MTD applies to you, you'll need MTD-compatible software anyway.
+### What if I've been disorganised with property income records?
 
-**Q: What's the minimum viable system?**
-A: Monthly platform CSV downloads + one spreadsheet with income/expenses per property + expense receipts in a cloud folder.
+Start now. Download platform CSVs for the current tax year, enter what you remember, and build the habit going forward.
 
-**Q: What tool do you recommend?**
-A: [HMRC Reporter](https://hmrcreporter.com/) — it handles the entire capture → organise → report flow in one platform.
+### Can I use a spreadsheet instead of software for property income?
+
+Yes, but software saves significant time. If MTD applies, you'll need MTD-compatible software anyway.
+
+### What's the minimum viable system for managing property income?
+
+Monthly platform CSV downloads + one spreadsheet with income/expenses per property + expense receipts in a cloud folder.
+
+### What's the best tool for managing property income and tax reporting?
+
+[HMRC Reporter](https://hmrcreporter.com/) — it handles the full capture, organise, and report flow in one platform.
 
 ---
 
 *Build your system today. [HMRC Reporter](https://hmrcreporter.com/) gives you a simple, compliant way to manage property income and tax reporting. [Get started →](https://hmrcreporter.com/)*
 
----
+## Related Posts
 
-**Tags:** property income system, tax reporting system landlords, manage property income HMRC, landlord record keeping system
-
-**Meta description:** A simple system for managing property income and tax reporting. Covers capture, organise, report — with monthly routines that keep you HMRC-compliant.
+- [The Easiest Way to Organise Property Income for HMRC](./31-easiest-way-organise-property-income-hmrc.md) — step-by-step organisation guide
+- [How Property Managers Can Save Hours on Tax Reporting](./30-how-property-managers-save-hours-tax-reporting.md) — cut reporting time by 80%
+- [Spreadsheet vs Automated HMRC Reporting: What's Better?](./29-spreadsheet-vs-automated-hmrc-reporting.md) — manual vs automated comparison

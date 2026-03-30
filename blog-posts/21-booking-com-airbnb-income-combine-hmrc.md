@@ -1,8 +1,10 @@
 # Booking.com and Airbnb Income: How to Combine for HMRC
 
+<meta_description>How to combine Booking.com and Airbnb income for HMRC. Step-by-step guide to gross income calculation, property matching, and consolidated reporting.</meta_description>
+
 *Last updated: March 2026*
 
-If you list on both Booking.com and Airbnb, you need to combine income from both platforms for your HMRC report. Each platform exports data differently, charges different fees, and structures payouts in its own way. Getting them into one accurate report is one of the trickiest parts of property tax compliance. Here's how to do it.
+If you list on both Booking.com and Airbnb, you need to combine income from both platforms for HMRC. Each platform exports data differently and structures payouts in its own way. Getting them into one accurate report is tricky — but it has to be done.
 
 ## Why You Must Combine Income
 
@@ -20,7 +22,7 @@ If you report Airbnb income but forget Booking.com:
 
 ## The Challenge: Different Formats
 
-Airbnb and Booking.com export data differently. Here's what you're dealing with:
+Airbnb and Booking.com export data in different ways. Here's what you're dealing with.
 
 ### Airbnb CSV Format
 
@@ -44,6 +46,10 @@ You can't just add the two CSVs together. You need to:
 2. Match properties across platforms
 3. Handle different fee structures
 4. Consolidate into one HMRC-compliant report
+
+## How Do I Combine Booking.com and Airbnb Income for HMRC?
+
+Export data from both platforms, calculate gross income for each, match properties across platforms, and consolidate into one HMRC report. Use the same tax year date range (6 April – 5 April) for both exports.
 
 ## Step-by-Step: Combining Airbnb and Booking.com Income
 
@@ -134,6 +140,10 @@ If you also list on VRBO, Expedia, or other platforms, the same process applies:
 
 [HMRC Reporter](https://hmrcreporter.com/) supports 27+ platforms, so you can upload all your data in one place.
 
+## How Do Booking.com and Airbnb Fees Differ for Tax?
+
+Airbnb charges a 3% host service fee. Booking.com charges around 15% commission. Both are allowable expenses for HMRC, but they must be listed separately because the rates are very different.
+
 ## Common Mistakes When Combining Platforms
 
 ### 1. Reporting Each Platform Separately
@@ -158,27 +168,37 @@ Make sure both exports cover the same tax year (6 April – 5 April). Overlappin
 
 ## Frequently Asked Questions
 
-**Q: Do I need separate records for Airbnb and Booking.com?**
-A: Track each platform separately for your own records, but combine them for your HMRC report.
+### Do I need separate records for Airbnb and Booking.com?
 
-**Q: What if the same booking appears on both platforms?**
-A: It shouldn't — each booking is on one platform. But if you have the same property listed on both, you'll have separate bookings on each.
+Track each platform separately for your own records, but combine them for your HMRC report.
 
-**Q: How do I handle different fee structures?**
-A: List each platform's fees as a separate expense. Airbnb service fees and Booking.com commission are both allowable expenses.
+### What if the same booking appears on both platforms?
 
-**Q: Can software combine my platform data automatically?**
-A: Yes. [HMRC Reporter](https://hmrcreporter.com/) imports from multiple platforms and consolidates automatically.
+It shouldn't — each booking is on one platform. But if you have the same property listed on both, you'll have separate bookings on each.
 
-**Q: What if I can't export data from one platform?**
-A: Contact the platform's support team. They're required to provide your transaction data. If they refuse, keep manual records and note the issue.
+### How do I handle different fee structures?
+
+List each platform's fees as a separate expense. Airbnb service fees and Booking.com commission are both allowable expenses.
+
+### Can software combine my platform data automatically?
+
+Yes. [HMRC Reporter](https://hmrcreporter.com/) imports from multiple platforms and consolidates automatically.
+
+### What if I can't export data from one platform?
+
+Contact the platform's support team. They're required to provide your transaction data. If they refuse, keep manual records and note the issue.
 
 ---
 
 *Combine your platform income the easy way. [HMRC Reporter](https://hmrcreporter.com/) imports from Airbnb, Booking.com, and 25+ other platforms into one HMRC-ready report. [Get started →](https://hmrcreporter.com/)*
 
+## Related Posts
+
+- [Airbnb Payouts Explained for Tax Reporting](./20-airbnb-payouts-explained-tax-reporting.md) — understand gross vs net income for HMRC
+- [How to Track Airbnb Income Without Spreadsheets](./19-track-airbnb-income-without-spreadsheets.md) — automate tracking across platforms
+- [How to Reconcile Airbnb and Booking.com Payments](./32-how-to-reconcile-airbnb-booking-com-payments.md) — match payments to bank statements
+- [A Simple System for Managing Property Income and Tax Reporting](./33-simple-system-managing-property-income-tax-reporting.md) — build a reliable workflow
+
 ---
 
 **Tags:** Booking.com Airbnb income combine, multi-platform tax reporting, Airbnb Booking.com HMRC, property income consolidation
-
-**Meta description:** How to combine Booking.com and Airbnb income for HMRC. Covers gross income calculation, property matching, and consolidated reporting.
