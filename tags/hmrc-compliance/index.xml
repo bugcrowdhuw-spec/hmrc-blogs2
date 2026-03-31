@@ -26,4 +26,28 @@
 &lt;p>&lt;em>Last updated: March 2026&lt;/em>&lt;/p>
 &lt;p>Property managers in the UK face a growing compliance challenge. Making Tax Digital is expanding, platform reporting rules have tightened, and HMRC now receives your income data directly from Airbnb and Booking.com. If your accounting software isn&amp;rsquo;t built for this, you&amp;rsquo;re at risk. Here&amp;rsquo;s how to choose property management accounting software that keeps you compliant with HMRC.&lt;/p>
 &lt;h2 id="the-compliance-landscape-has-changed">The Compliance Landscape Has Changed&lt;/h2>
-&lt;p>Two major changes hit property managers in recent years:&lt;/p></description></item></channel></rss>
+&lt;p>Two major changes hit property managers in recent years:&lt;/p></description></item><item><title>MTD Readiness Checklist for UK Property Managers</title><link>https://blog.hmrcreporter.com/posts/mtd-readiness-checklist/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.hmrcreporter.com/posts/mtd-readiness-checklist/</guid><description>&lt;div class="checklist-section">
+&lt;h2>&lt;span class="section-num">1&lt;/span> Know Your Numbers&lt;/h2>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Calculate your total &lt;strong>gross&lt;/strong> property income (before platform fees — not your payout)&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Add income from all platforms: Airbnb, Booking.com, Vrbo, direct bookings&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Confirm whether you're above the £50,000 MTD threshold for April 2026&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">If below £50,000 — check when the £30,000 threshold applies (April 2027)&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Check if you're approaching the £90,000 VAT threshold&lt;span class="check-note">Airbnb's simplified pricing (15% fee) inflates your gross turnover. &lt;a href="https://blog.hmrcreporter.com/posts/airbnb-simplified-pricing-vat-threshold-uk/">See our VAT threshold guide →&lt;/a>&lt;/span>&lt;/div>&lt;/div>
+&lt;/div>
+&lt;div class="checklist-section">
+&lt;h2>&lt;span class="section-num">2&lt;/span> Digital Records&lt;/h2>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">&lt;strong>Stop relying on paper records or memory&lt;/strong> — MTD requires digital records&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Create a digital record of every income transaction (date, amount, source)&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Create a digital record of every expense (date, amount, category)&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Set up a system to keep records for at least 5 years after the 31 January deadline&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Move off paper-only or memory-only tracking — spreadsheets alone are &lt;strong>not MTD-compliant&lt;/strong>&lt;/div>&lt;/div>
+&lt;/div>
+&lt;div class="checklist-section">
+&lt;h2>&lt;span class="section-num">3&lt;/span> Choose Your Software&lt;/h2>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Decide between &lt;strong>bridging software&lt;/strong> (keeps your spreadsheets) or &lt;strong>automated reporting&lt;/strong> (no spreadsheets) &lt;span class="check-note">&lt;a href="https://blog.hmrcreporter.com/posts/bridging-software-vs-automated-reporting-mtd/">Compare both approaches →&lt;/a>&lt;/span>&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">If bridging: confirm it links to HMRC's MTD API (Absolute Accounting, Able, TaxCalc, etc.)&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">If automated: connect your platform accounts&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Confirm your software handles &lt;strong>gross income&lt;/strong> — not just net payouts&lt;/div>&lt;/div>
+&lt;div class="check-item">&lt;div class="check-box">✓&lt;/div>&lt;div class="check-text">Test a quarterly submission before your first real deadline&lt;/div>&lt;/div>
+&lt;div class="cta-inline">
+&lt;p>💡 HMRC Reporter imports from 27+ platforms and generates MTD-ready XML — automatically.&lt;/p></description></item></channel></rss>
