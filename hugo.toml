@@ -5,5 +5,10 @@ theme = "simple"
 buildFuture = true
 buildDrafts = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "Expert guides on HMRC reporting, Making Tax Digital, and Airbnb tax compliance for UK property managers."
