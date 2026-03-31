@@ -125,7 +125,7 @@ If your combined gross turnover from all platforms is approaching £70,000, star
 
 ### 5. Consider Software
 
-Manually tracking gross figures across multiple bookings and platforms is time-consuming and error-prone. Automated reporting tools handle this correctly by default — they pull gross booking data directly from platforms.
+Manually tracking gross figures across multiple bookings and platforms is time-consuming and error-prone. [HMRC Reporter](https://hmrcreporter.com/) handles this correctly by default — it pulls gross booking data directly from platforms and generates HMRC-ready XML reports.
 
 ## What Airbnb Says
 

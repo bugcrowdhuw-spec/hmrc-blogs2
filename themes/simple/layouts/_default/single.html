@@ -15,10 +15,22 @@
   <div class="content">
     {{ .Content }}
   </div>
-  <div class="cta-box">
-    <h3>Ready to simplify your HMRC reporting?</h3>
-    <p>HMRC Reporter automatically converts booking data from 27+ platforms into compliant XML reports.</p>
-    <a href="https://hmrcreporter.com/" class="cta-button">Get Started →</a>
+  <div class="cta-box cta-inline">
+    <h3>📊 Free: MTD Readiness Checklist for Property Managers</h3>
+    <p>Find out if you're ready for Making Tax Digital — and what to fix before April 2026. Download the free checklist.</p>
+    <a href="/checklists/mtd-readiness-checklist.html" class="cta-button">Download Free Checklist →</a>
   </div>
 </article>
+<script>
+(function() {
+  var content = document.querySelector('.content');
+  if (!content) return;
+  var paragraphs = content.querySelectorAll('p');
+  if (paragraphs.length < 4) return;
+  var cta = document.createElement('div');
+  cta.className = 'cta-box cta-inline';
+  cta.innerHTML = '<h3>Stop doing HMRC reports by hand</h3><p>HMRC Reporter turns your Airbnb, Booking.com, and 25+ other platform exports into compliant XML — automatically.</p><a href="https://hmrcreporter.com/" class="cta-button">Try HMRC Reporter Free →</a>';
+  paragraphs[3].after(cta);
+})();
+</script>
 {{ end }}

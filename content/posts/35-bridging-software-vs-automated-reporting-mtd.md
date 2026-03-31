@@ -50,7 +50,7 @@ Popular options include:
 
 ## What Is Automated Reporting?
 
-Automated reporting pulls your data directly from booking platforms and generates HMRC-ready reports. No spreadsheets, no manual entry, no mapping cells to categories.
+Automated reporting pulls your data directly from booking platforms and generates HMRC-ready reports. No spreadsheets, no manual entry, no mapping cells to categories. Tools like [HMRC Reporter](https://hmrcreporter.com/) do this for Airbnb, Booking.com, Vrbo, and 25+ other platforms.
 
 ### How It Works
 

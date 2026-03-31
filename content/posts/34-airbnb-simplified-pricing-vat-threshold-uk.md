@@ -122,6 +122,8 @@ But for most short-term rental hosts, expenses are relatively low compared to tu
 
 Most hosts look at their bank balance or Airbnb payout — that's the net figure. You need software that captures the gross booking amounts, platform fees, and cumulative turnover. This is what HMRC expects, and it's the only way to know if you're approaching the VAT threshold.
 
+[HMRC Reporter](https://hmrcreporter.com/) does this automatically — it pulls gross booking data from Airbnb, Booking.com, and other platforms so you always know where you stand.
+
 ### 5. Speak to an Accountant
 
 If you're anywhere near £70,000 in gross platform income, it's worth getting professional advice. The interaction between simplified pricing, VAT registration, and MTD compliance is complex enough that a mistake is expensive.
