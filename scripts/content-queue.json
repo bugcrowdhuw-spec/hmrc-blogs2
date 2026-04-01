@@ -1,7 +1,7 @@
 {
   "description": "Content queue for hmrcreporter.com blog posts. Status: pending | in_progress | published",
   "schedule": "3 posts per week (Mon, Wed, Fri)",
-  "lastPublished": "2026-03-30",
+  "lastPublished": "2026-04-01",
   "posts": [
     {
       "id": 34,
@@ -15,7 +15,8 @@
       "id": 35,
       "title": "How to Fill in SA105 for Airbnb and Rental Income",
       "keyword": "SA105 Airbnb rental income",
-      "status": "pending",
+      "status": "published",
+      "filename": "35-how-to-fill-in-sa105-airbnb-rental-income.md",
       "notes": "Step-by-step guide to the property pages of Self Assessment"
     },
     {
