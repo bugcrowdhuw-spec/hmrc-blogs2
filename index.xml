@@ -50,24 +50,62 @@
 &lt;p>Let me walk through each step in detail.&lt;/p>
 &lt;h2 id="step-1-register-for-self-assessment">Step 1: Register for Self Assessment&lt;/h2>
 &lt;p>Before you earn your first pound, register at gov.uk.&lt;/p></description></item><item><title>Airbnb vs Booking.com Tax Reporting Differences</title><link>https://blog.hmrcreporter.com/posts/191-airbnb-vs-booking-tax/</link><pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate><guid>https://blog.hmrcreporter.com/posts/191-airbnb-vs-booking-tax/</guid><description>&lt;h1 id="airbnb-vs-bookingcom-tax-reporting-differences">Airbnb vs Booking.com Tax Reporting Differences&lt;/h1>
-&lt;p>&lt;strong>Know the differences.&lt;/strong>&lt;/p>
-&lt;h2 id="airbnb">Airbnb&lt;/h2>
+&lt;p>&lt;strong>If you list on both Airbnb and Booking.com, here&amp;rsquo;s what you need to know about tax reporting for each platform.&lt;/strong>&lt;/p>
+&lt;h2 id="quick-comparison">Quick Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature&lt;/th>
+ &lt;th>Airbnb&lt;/th>
+ &lt;th>Booking.com&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Dashboard&lt;/td>
+ &lt;td>airbnb.co.uk/host&lt;/td>
+ &lt;td>Connected (extranet)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Fee structure&lt;/td>
+ &lt;td>3% standard&lt;/td>
+ &lt;td>~15%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Reporting&lt;/td>
+ &lt;td>Direct to HMRC&lt;/td>
+ &lt;td>Direct to HMRC&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Data export&lt;/td>
+ &lt;td>Monthly/yearly&lt;/td>
+ &lt;td>Monthly/yearly&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="airbnb-reporting">Airbnb Reporting&lt;/h2>
+&lt;h3 id="how-it-works">How It Works&lt;/h3>
+&lt;p>Airbnb reports directly to HMRC under digital platform rules. They send:&lt;/p>
 &lt;ul>
-&lt;li>Direct reporting&lt;/li>
-&lt;li>Fee structure&lt;/li>
+&lt;li>Your total earnings per year&lt;/li>
+&lt;li>Number of transactions&lt;/li>
+&lt;li>Property address&lt;/li>
+&lt;li>Your details&lt;/li>
 &lt;/ul>
-&lt;h2 id="bookingcom">Booking.com&lt;/h2>
+&lt;h3 id="fee-structure">Fee Structure&lt;/h3>
 &lt;ul>
-&lt;li>Different dashboard&lt;/li>
-&lt;li>Different fees&lt;/li>
+&lt;li>Service fee: 3% (host pricing) or 15% (guest pricing)&lt;/li>
+&lt;li>This reduces your payout but is deductible as an expense&lt;/li>
 &lt;/ul>
-&lt;h2 id="combine">Combine&lt;/h2>
-&lt;ul>
-&lt;li>Add totals together&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;strong>Track both.&lt;/strong>
-image: &amp;ldquo;/images/diagram-gross-vs-net.svg&amp;rdquo;&lt;/p></description></item><item><title>Annual Property Income Review Guide</title><link>https://blog.hmrcreporter.com/posts/230-annual-rental-review/</link><pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate><guid>https://blog.hmrcreporter.com/posts/230-annual-rental-review/</guid><description>&lt;h1 id="annual-property-income-review-guide">Annual Property Income Review Guide&lt;/h1>
+&lt;h3 id="getting-your-reports">Getting Your Reports&lt;/h3>
+&lt;ol>
+&lt;li>Go to Dashboard → Earnings&lt;/li>
+&lt;li>Select date range&lt;/li>
+&lt;li>Export as CSV or view online&lt;/li>
+&lt;/ol>
+&lt;h2 id="bookingcom-reporting">Booking.com Reporting&lt;/h2>
+&lt;h3 id="how-it-works-1">How It Works&lt;/h3>
+&lt;p>Booking.com also reports to HMRC. Same requirements as Airbnb.&lt;/p></description></item><item><title>Annual Property Income Review Guide</title><link>https://blog.hmrcreporter.com/posts/230-annual-rental-review/</link><pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate><guid>https://blog.hmrcreporter.com/posts/230-annual-rental-review/</guid><description>&lt;h1 id="annual-property-income-review-guide">Annual Property Income Review Guide&lt;/h1>
 &lt;p>&lt;strong>Review yearly.&lt;/strong>&lt;/p>
 &lt;h2 id="review">Review&lt;/h2>
 &lt;ul>
