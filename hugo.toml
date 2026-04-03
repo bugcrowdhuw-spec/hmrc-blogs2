@@ -12,3 +12,6 @@ buildDrafts = false
 
 [params]
   description = "Expert guides on HMRC reporting, Making Tax Digital, and Airbnb tax compliance for UK property managers."
+
+[pagination]
+  paginate = 50
