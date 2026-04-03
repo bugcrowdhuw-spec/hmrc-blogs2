@@ -1,7 +1,7 @@
 ---
 title: "Airbnb Host Tax Checklist for Beginners"
 date: 2026-04-03
-description: "Beginner tax checklist."
+description: "Complete tax checklist for new Airbnb hosts in the UK. Covers Self Assessment registration, income tracking, expense categories, and filing requirements."
 ---
 
 # Airbnb Host Tax Checklist for Beginners
