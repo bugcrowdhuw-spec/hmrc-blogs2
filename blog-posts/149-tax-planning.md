@@ -1,7 +1,7 @@
 ---
 title: "Tax Planning for Property"
 date: 2026-04-03
-description: "Tax planning tips for property."
+description: "Tax planning tips for property investors. Reduce your tax bill legally with these strategies."
 ---
 
 # Tax Planning for Property

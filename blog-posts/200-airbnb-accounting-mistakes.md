@@ -1,7 +1,7 @@
 ---
 title: "Common Airbnb Accounting Mistakes UK Hosts Make"
 date: 2026-04-03
-description: "Accounting mistakes."
+description: "Common Airbnb accounting mistakes UK hosts make. How to avoid costly errors in tax reporting."
 ---
 
 # Common Airbnb Accounting Mistakes UK Hosts Make

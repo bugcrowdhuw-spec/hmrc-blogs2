@@ -1,7 +1,7 @@
 ---
 title: "Combining Multiple Booking Platforms for Reporting"
 date: 2026-04-03
-description: "Combining platforms."
+description: "How to combine income from multiple booking platforms. Airbnb, Booking.com, VRBO and direct bookings."
 ---
 
 # Combining Multiple Booking Platforms for Reporting

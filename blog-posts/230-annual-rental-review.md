@@ -1,7 +1,7 @@
 ---
 title: "Annual Property Income Review Guide"
 date: 2026-04-03
-description: "Annual review."
+description: "Annual property income review guide. How to analyse yearly performance, calculate profit, and plan for tax."
 ---
 
 # Annual Property Income Review Guide

@@ -1,7 +1,7 @@
 ---
 title: "Automating Rental Income Tracking Step-by-Step"
 date: 2026-04-03
-description: "Automated tracking."
+description: "Step-by-step guide to automating rental income tracking. Save hours with the right tools and workflows."
 ---
 
 # Automating Rental Income Tracking Step-by-Step

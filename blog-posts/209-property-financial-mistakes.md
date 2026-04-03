@@ -1,7 +1,7 @@
 ---
 title: "Common Financial Mistakes in Property Management"
 date: 2026-04-03
-description: "Financial mistakes."
+description: "Common financial mistakes in property management. How to avoid cash flow and tax errors."
 ---
 
 # Common Financial Mistakes in Property Management

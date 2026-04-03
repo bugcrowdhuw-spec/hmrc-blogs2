@@ -1,7 +1,7 @@
 ---
 title: "Creating a Repeatable Tax Reporting Process"
 date: 2026-04-03
-description: "Repeatable process."
+description: "Create a repeatable tax reporting process for property income. Step-by-step system that works every year."
 ---
 
 # Creating a Repeatable Tax Reporting Process
