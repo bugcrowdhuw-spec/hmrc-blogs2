@@ -1,6 +1,6 @@
 ---
 title: "HMRC Data Sharing Rules Explained for Property Managers"
-date: 2026-04-01
+date: 2026-04-03
 description: "HMRC data sharing rules for property managers explained — what gets reported, how, and what it means for your business."
 ---
 
@@ -117,4 +117,4 @@ Only if you're handling their tax. Otherwise, each landlord is responsible for t
 
 ---
 
-*Related: "How Property Managers Handle HMRC Reporting" covers day-to-day operations.*image: "/images/diagram-gross-vs-net.svg"
+*Related: "How Property Managers Handle HMRC Reporting" covers day-to-day operations.*

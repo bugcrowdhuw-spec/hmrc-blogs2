@@ -1,6 +1,6 @@
 ---
 title: "What Triggers an HMRC Investigation for Airbnb Hosts"
-date: 2026-03-30
+date: 2026-04-03
 description: "What triggers HMRC investigation for Airbnb hosts — patterns, flags, and why certain hosts get investigated."
 ---
 
@@ -140,4 +140,4 @@ Possibly. They look for evidence of hosting activity.
 
 ---
 
-*Related: "How to Avoid an HMRC Tax Investigation as a Landlord" covers preventive steps.*image: "/images/diagram-gross-vs-net.svg"
+*Related: "How to Avoid an HMRC Tax Investigation as a Landlord" covers preventive steps.*

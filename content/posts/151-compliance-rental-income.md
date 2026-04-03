@@ -136,4 +136,4 @@ If you're not already tracking your rental income properly, start now. Your futu
 
 ---
 
-*Related: "HMRC Rules for Short-Term Rental Income Explained" covers platform-specific rules.*image: "/images/diagram-gross-vs-net.svg"
+*Related: "HMRC Rules for Short-Term Rental Income Explained" covers platform-specific rules.*

@@ -1,6 +1,6 @@
 ---
 title: "HMRC Fines for Property Income: What You Could Owe"
-date: 2026-03-30
+date: 2026-04-03
 description: "HMRC penalties for property income — understand the fines, interest charges, and what triggers penalties."
 ---
 
@@ -127,4 +127,4 @@ Sometimes. If it's your first mistake and you cooperate, HMRC may reduce penalti
 
 ---
 
-*Related: "What Triggers an HMRC Investigation for Airbnb Hosts" explains why investigations start.*image: "/images/diagram-gross-vs-net.svg"
+*Related: "What Triggers an HMRC Investigation for Airbnb Hosts" explains why investigations start.*

@@ -1,6 +1,6 @@
 ---
 title: "Can You Get Caught Not Declaring Airbnb Income?"
-date: 2026-04-01
+date: 2026-04-03
 description: "What happens if you don't declare Airbnb income UK — penalties, investigations, and how HMRC catches undeclared hosts."
 ---
 
@@ -131,4 +131,4 @@ HMRC sets up payment plans. But you still owe the tax.
 
 ---
 
-*Related: "HMRC Fines for Property Income" covers the penalty amounts in detail.*image: "/images/diagram-gross-vs-net.svg"
+*Related: "HMRC Fines for Property Income" covers the penalty amounts in detail.*

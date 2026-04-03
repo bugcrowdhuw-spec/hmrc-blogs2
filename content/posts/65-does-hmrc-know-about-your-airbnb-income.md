@@ -1,6 +1,6 @@
 ---
 title: "Does HMRC Know About Your Airbnb Income?"
-date: 2026-04-01
+date: 2026-04-03
 description: "Wondering if HMRC tracks Airbnb income? The answer is yes — here's what they know and how to stay compliant."
 ---
 
@@ -98,4 +98,4 @@ Yes. Platforms report your property address as part of the required data.
 
 ---
 
-*Related: "How HMRC Tracks Airbnb Income in the UK" explains the technical details.*image: "/images/diagram-gross-vs-net.svg"
+*Related: "How HMRC Tracks Airbnb Income in the UK" explains the technical details.*

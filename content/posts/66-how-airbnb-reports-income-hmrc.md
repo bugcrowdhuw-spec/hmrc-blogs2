@@ -1,6 +1,6 @@
 ---
 title: "How Airbnb Reports Your Earnings to HMRC"
-date: 2026-04-01
+date: 2026-04-03
 description: "Understanding how Airbnb reports income to HMRC under digital platform rules and what this means for UK hosts."
 ---
 
@@ -107,4 +107,4 @@ No. It's mandatory under UK law.
 
 ---
 
-*Related: "HMRC Data Sharing Rules Explained for Property Managers" covers multi-property reporting.*image: "/images/diagram-gross-vs-net.svg"
+*Related: "HMRC Data Sharing Rules Explained for Property Managers" covers multi-property reporting.*

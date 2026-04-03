@@ -122,4 +122,4 @@ Not necessarily. Many landlords handle their own affairs using software. An acco
 
 ---
 
-**Try HMRC Reporter:** https://hmrcreporter.comimage: "/images/diagram-gross-vs-net.svg"
+**Try HMRC Reporter:** https://hmrcreporter.com
