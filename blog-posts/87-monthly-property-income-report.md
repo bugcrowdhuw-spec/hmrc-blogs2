@@ -130,7 +130,7 @@ Not for property management. Catch issues early.
 
 **Report monthly.** Stay on top of your numbers.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

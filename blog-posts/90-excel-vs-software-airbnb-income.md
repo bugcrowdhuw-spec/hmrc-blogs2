@@ -123,7 +123,7 @@ Excel is still Excel. No platform integrations.
 
 **Software wins.** It's not close.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

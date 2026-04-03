@@ -117,7 +117,7 @@ No, just reporting frequency.
 
 **Go monthly.** Better visibility, MTD compliance.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

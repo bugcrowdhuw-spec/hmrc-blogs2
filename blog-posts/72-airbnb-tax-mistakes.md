@@ -135,7 +135,7 @@ If you earn Airbnb income and haven't registered:
 
 **Don't make these mistakes.** Use software to track properly.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

@@ -113,7 +113,7 @@ Only if you're handling their tax. Otherwise, each landlord is responsible for t
 
 **Simplify property management reporting.** Our software helps you track multiple properties and stay compliant.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

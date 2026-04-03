@@ -161,7 +161,7 @@ Look for: property management experience, reasonable fees, good communication.
 
 **Address challenges early.** Use systems and get help.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

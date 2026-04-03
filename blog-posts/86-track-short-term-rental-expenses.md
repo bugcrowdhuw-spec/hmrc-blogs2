@@ -122,7 +122,7 @@ Only for certain types of letting. Get advice.
 
 **Track expenses properly.** Don't miss deductions.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

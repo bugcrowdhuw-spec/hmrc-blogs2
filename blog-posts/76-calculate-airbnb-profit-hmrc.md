@@ -148,7 +148,7 @@ These are not deductible. They're added to your cost base for Capital Gains Tax.
 
 **Get the numbers right.** Use software to track.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

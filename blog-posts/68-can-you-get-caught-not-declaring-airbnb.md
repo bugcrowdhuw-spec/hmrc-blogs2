@@ -127,7 +127,7 @@ HMRC sets up payment plans. But you still owe the tax.
 
 **Don't wait for the letter.** Get compliant now and sleep easier.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

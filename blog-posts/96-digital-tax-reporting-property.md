@@ -119,7 +119,7 @@ Yes, they can submit on your behalf.
 
 **Prepare for MTD.** It's only expanding.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 
