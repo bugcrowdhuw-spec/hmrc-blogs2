@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="search">
+  <h1>Search HMRC Reporter Blog</h1>
+  <input type="text" id="search" placeholder="Search posts..." onkeyup="searchPosts()">
+  <div id="results"></div>
+</div>
+<script>
+function searchPosts() {
+  let input = document.getElementById('search');
+  let filter = input.value.toLowerCase();
+  let cards = document.getElementsByClassName('post-card');
+  for (let i = 0; i < cards.length; i++) {
+    let title = cards[i].getElementsByTagName('h2')[0];
+    let txtValue = title.textContent || title.innerText;
+    if (txtValue.toLowerCase().indexOf(filter) > -1) {
+      cards[i].style.display = "";
+    } else {
+      cards[i].style.display = "none";
+    }
+  }
+}
+</script>
+<style>
+.search input { width: 100%; padding: 15px; font-size: 18px; margin: 20px 0; }
+.search #results .post-card { display: block; margin: 10px 0; }
+</style>
+{{ end }}
