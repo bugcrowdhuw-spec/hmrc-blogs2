@@ -1,219 +1,259 @@
 {
   "description": "Content queue for hmrcreporter.com blog posts. Status: pending | in_progress | published",
   "schedule": "3 posts per week (Mon, Wed, Fri)",
-  "lastPublished": "2026-04-01",
+  "lastPublished": "2026-04-03",
   "posts": [
     {
       "id": 34,
       "title": "HMRC Property Income Allowance: What It Means for Airbnb Hosts",
       "keyword": "HMRC property income allowance",
       "status": "published",
-      "filename": "34-hmrc-property-income-allowance-airbnb-hosts.md",
-      "notes": "Cover the \u00a31,000 allowance, when it applies, when you still need Self Assessment"
+      "filename": "34-hmrc-property-income-allowance-airbnb-hosts.md"
     },
     {
       "id": 35,
       "title": "How to Fill in SA105 for Airbnb and Rental Income",
       "keyword": "SA105 Airbnb rental income",
       "status": "published",
-      "filename": "35-how-to-fill-in-sa105-airbnb-rental-income.md",
-      "notes": "Step-by-step guide to the property pages of Self Assessment"
+      "filename": "35-how-to-fill-in-sa105-airbnb-rental-income.md"
     },
     {
-      "id": 36,
-      "title": "Can You Claim the Rent-a-Room Scheme on Airbnb?",
-      "keyword": "rent a room scheme Airbnb UK",
-      "status": "in_progress",
-      "notes": "\u00a37,500 threshold, conditions, when it applies to short-term lets"
+      "id": 64,
+      "title": "How HMRC Tracks Airbnb Income in the UK",
+      "keyword": "how HMRC tracks Airbnb income",
+      "status": "published",
+      "filename": "64-how-hmrc-tracks-airbnb-income.md"
     },
     {
-      "id": 37,
-      "title": "Airbnb Furnished Holiday Letting Rules in the UK (2026)",
-      "keyword": "furnished holiday letting rules UK",
-      "status": "pending",
-      "notes": "FHL status, conditions, tax benefits, 2025 changes"
+      "id": 65,
+      "title": "Does HMRC Know About Your Airbnb Income?",
+      "keyword": "does HMRC track Airbnb income UK",
+      "status": "published",
+      "filename": "65-does-hmrc-know-about-your-airbnb-income.md"
     },
     {
-      "id": 38,
-      "title": "How to Calculate Wear and Tear Allowance for Holiday Lets",
-      "keyword": "wear and tear allowance holiday lets",
-      "status": "pending",
-      "notes": "Replacement of domestic items relief, what qualifies, records needed"
+      "id": 66,
+      "title": "How Airbnb Reports Your Earnings to HMRC",
+      "keyword": "airbnb reports income HMRC",
+      "status": "published",
+      "filename": "66-how-airbnb-reports-income-hmrc.md"
     },
     {
-      "id": 39,
-      "title": "VAT on Airbnb Income: When Do Hosts Need to Register?",
-      "keyword": "VAT Airbnb income UK",
-      "status": "pending",
-      "notes": "\u00a390,000 threshold, VAT on platform fees, flat rate scheme"
+      "id": 67,
+      "title": "HMRC Data Sharing Rules Explained for Property Managers",
+      "keyword": "HMRC data sharing property income",
+      "status": "published",
+      "filename": "67-hmrc-data-sharing-property-managers.md"
     },
     {
-      "id": 40,
-      "title": "How to Report Multiple Airbnb Properties to HMRC",
-      "keyword": "report multiple Airbnb properties HMRC",
-      "status": "pending",
-      "notes": "Separate property records, consolidated reporting, software benefits"
+      "id": 68,
+      "title": "Can You Get Caught Not Declaring Airbnb Income?",
+      "keyword": "not declaring Airbnb income UK penalties",
+      "status": "published",
+      "filename": "68-can-you-get-caught-not-declaring-airbnb.md"
     },
     {
-      "id": 41,
-      "title": "HMRC Digital Platform Reporting: What Airbnb Hosts Need to Know",
-      "keyword": "HMRC digital platform reporting Airbnb",
-      "status": "pending",
-      "notes": "OECD rules, what platforms report, how to match your records"
+      "id": 69,
+      "title": "HMRC Fines for Property Income: What You Could Owe",
+      "keyword": "HMRC fines property income UK",
+      "status": "published",
+      "filename": "69-hmrc-fines-property-income.md"
     },
     {
-      "id": 42,
-      "title": "Property Manager Responsibilities for Landlord Tax Reporting",
-      "keyword": "property manager tax reporting responsibilities",
-      "status": "pending",
-      "notes": "Agent obligations, record keeping, liability for errors"
+      "id": 70,
+      "title": "What Triggers an HMRC Investigation for Airbnb Hosts",
+      "keyword": "HMRC investigation Airbnb",
+      "status": "published",
+      "filename": "70-hmrc-investigation-airbnb.md"
     },
     {
-      "id": 43,
-      "title": "How to Switch from Spreadsheets to HMRC Reporting Software",
-      "keyword": "switch spreadsheets HMRC reporting software",
-      "status": "pending",
-      "notes": "Migration steps, data import, common concerns"
+      "id": 71,
+      "title": "How to Avoid an HMRC Tax Investigation as a Landlord",
+      "keyword": "avoid HMRC investigation property income",
+      "status": "published",
+      "filename": "71-avoid-hmrc-investigation-landlord.md"
     },
     {
-      "id": 44,
-      "title": "Self Assessment Deadlines for Property Managers (2026)",
-      "keyword": "self assessment deadlines property managers 2026",
-      "status": "pending",
-      "notes": "Key dates, penalties, what to prepare"
+      "id": 72,
+      "title": "Airbnb Tax Mistakes That Could Cost You Thousands",
+      "keyword": "Airbnb tax mistakes UK",
+      "status": "published",
+      "filename": "72-airbnb-tax-mistakes.md"
     },
     {
-      "id": 45,
-      "title": "How to Handle Cancellations and Refunds for HMRC Reporting",
-      "keyword": "Airbnb cancellations refunds HMRC reporting",
-      "status": "pending",
-      "notes": "How cancelled bookings affect income, adjusting records"
+      "id": 73,
+      "title": "What Happens If You Forget to Report Rental Income",
+      "keyword": "forgot to report rental income HMRC",
+      "status": "published",
+      "filename": "73-forgot-report-rental-income.md"
     },
     {
-      "id": 46,
-      "title": "Capital Gains Tax on Selling a Holiday Let Property",
-      "keyword": "capital gains tax holiday let UK",
-      "status": "pending",
-      "notes": "CGT rates, reliefs, calculation, reporting to HMRC"
+      "id": 74,
+      "title": "How to Keep Records for HMRC Property Income",
+      "keyword": "HMRC record keeping property income",
+      "status": "published",
+      "filename": "74-hmrc-record-keeping-property-income.md"
     },
     {
-      "id": 47,
-      "title": "Airbnb Co-Hosting: Who Reports the Income to HMRC?",
-      "keyword": "Airbnb co-hosting tax UK",
-      "status": "pending",
-      "notes": "Co-host vs property manager, who's liable, how to split income"
+      "id": 75,
+      "title": "How to Organise Airbnb Income for Tax Reporting",
+      "keyword": "organise Airbnb income UK",
+      "status": "published",
+      "filename": "75-organise-airbnb-income-tax.md"
     },
     {
-      "id": 48,
-      "title": "How to Keep Digital Records for Making Tax Digital",
-      "keyword": "digital records making tax digital property",
-      "status": "pending",
-      "notes": "What counts as digital, software requirements, what to record"
+      "id": 76,
+      "title": "How to Calculate Airbnb Profit for HMRC",
+      "keyword": "calculate Airbnb profit UK",
+      "status": "published",
+      "filename": "76-calculate-airbnb-profit-hmrc.md"
     },
     {
-      "id": 49,
-      "title": "Airbnb Superhost Tax Tips: Staying Compliant While Growing",
-      "keyword": "Airbnb superhost tax tips UK",
-      "status": "pending",
-      "notes": "Growth stage compliance, scaling income, record keeping"
+      "id": 77,
+      "title": "How to File Property Income on Self Assessment",
+      "keyword": "self assessment property income UK",
+      "status": "published",
+      "filename": "77-file-property-income-self-assessment.md"
     },
     {
-      "id": 50,
-      "title": "How HMRC Investigates Property Income (And How to Stay Safe)",
-      "keyword": "HMRC property income investigation",
-      "status": "pending",
-      "notes": "How investigations start, what triggers them, penalties"
+      "id": 78,
+      "title": "How to Track Multiple Rental Properties for Tax",
+      "keyword": "track multiple rental income UK",
+      "status": "published",
+      "filename": "78-track-multiple-rental-properties-tax.md"
     },
     {
-      "id": 51,
-      "title": "The Complete Guide to Property Expenses You Can Claim",
-      "keyword": "property expenses claim HMRC",
-      "status": "pending",
-      "notes": "Full list of allowable expenses, records needed, common mistakes"
+      "id": 79,
+      "title": "How Property Managers Handle HMRC Reporting",
+      "keyword": "property manager HMRC reporting",
+      "status": "published",
+      "filename": "79-property-manager-hmrc-reporting.md"
     },
     {
-      "id": 52,
-      "title": "How to Prepare for Your First MTD Quarterly Submission",
-      "keyword": "first MTD quarterly submission property",
-      "status": "pending",
-      "notes": "Step-by-step first submission, what to include, common errors"
+      "id": 80,
+      "title": "Tax Reporting Challenges for Property Management Companies",
+      "keyword": "property management tax reporting UK",
+      "status": "published",
+      "filename": "80-property-management-tax-reporting-challenges.md"
     },
     {
-      "id": 53,
-      "title": "Joint Property Ownership: How to Report Rental Income to HMRC",
-      "keyword": "joint property ownership rental income HMRC",
-      "status": "pending",
-      "notes": "50/50 split vs actual, married couples, declaration of trust"
+      "id": 81,
+      "title": "Managing Multiple Clients' Income for HMRC Reporting",
+      "keyword": "manage client property income UK",
+      "status": "published",
+      "filename": "81-manage-client-property-income-hmrc.md"
     },
     {
-      "id": 54,
-      "title": "How to Set Up a Limited Company for Airbnb Properties",
-      "keyword": "limited company Airbnb properties UK",
-      "status": "pending",
-      "notes": "Pros/cons, corporation tax, when it makes sense, setup steps"
+      "id": 82,
+      "title": "Best Way to Track Client Rental Income in One Place",
+      "keyword": "track client rental income software",
+      "status": "published",
+      "filename": "82-track-client-rental-income-software.md"
     },
     {
-      "id": 55,
-      "title": "Non-Resident Landlord Scheme: Reporting UK Rental Income from Abroad",
-      "keyword": "non-resident landlord scheme UK",
-      "status": "pending",
-      "notes": "NRL scheme, how it works, obligations for agents and landlords"
+      "id": 83,
+      "title": "How Letting Agents Can Stay HMRC Compliant",
+      "keyword": "letting agents HMRC compliance",
+      "status": "published",
+      "filename": "83-letting-agents-hmrc-compliance.md"
     },
     {
-      "id": 56,
-      "title": "How to Handle Seasonal Income for HMRC Tax Reporting",
-      "keyword": "seasonal income HMRC reporting property",
-      "status": "pending",
-      "notes": "Peak/off-peak smoothing, cash flow, payment on account"
+      "id": 84,
+      "title": "How to Reconcile Airbnb and Bank Payments for Tax",
+      "keyword": "reconcile Airbnb payments UK",
+      "status": "published",
+      "filename": "84-reconcile-airbnb-bank-payments-tax.md"
     },
     {
-      "id": 57,
-      "title": "Airbnb and Council Tax: What Property Managers Need to Know",
-      "keyword": "Airbnb council tax UK property managers",
-      "status": "pending",
-      "notes": "Business rates vs council tax, when it switches, implications"
+      "id": 85,
+      "title": "How to Combine Airbnb and Booking.com Income",
+      "keyword": "combine booking and Airbnb income UK",
+      "status": "published",
+      "filename": "85-combine-booking-airbnb-income.md"
     },
     {
-      "id": 58,
-      "title": "How to Correct a Mistake on Your Property Tax Return",
-      "keyword": "correct mistake property tax return HMRC",
-      "status": "pending",
-      "notes": "Amendment process, time limits, when to disclose"
+      "id": 86,
+      "title": "The Best Way to Track Short-Term Rental Expenses",
+      "keyword": "track Airbnb expenses UK",
+      "status": "published",
+      "filename": "86-track-short-term-rental-expenses.md"
     },
     {
-      "id": 59,
-      "title": "Insurance for Airbnb Properties: What You Can Claim for Tax",
-      "keyword": "Airbnb insurance tax deductible UK",
-      "status": "pending",
-      "notes": "Types of insurance, what's allowable, how to claim"
+      "id": 87,
+      "title": "How to Prepare Monthly Property Income Reports",
+      "keyword": "monthly property income report UK",
+      "status": "published",
+      "filename": "87-monthly-property-income-report.md"
     },
     {
-      "id": 60,
-      "title": "How Property Managers Can Use HMRC Reporter to Save Time",
-      "keyword": "HMRC Reporter property managers",
-      "status": "pending",
-      "notes": "Product-focused post, walkthrough, benefits, soft CTA"
+      "id": 88,
+      "title": "How to Build a Property Income Tracking System",
+      "keyword": "property income tracking system UK",
+      "status": "published",
+      "filename": "88-property-income-tracking-system.md"
     },
     {
-      "id": 61,
-      "title": "The True Cost of Manual HMRC Reporting for Property Managers",
-      "keyword": "cost manual HMRC reporting property",
-      "status": "pending",
-      "notes": "Time cost, error cost, penalty risk, ROI of automation"
+      "id": 89,
+      "title": "Why Spreadsheets Fail for Property Income Tracking",
+      "keyword": "spreadsheet property income problems",
+      "status": "published",
+      "filename": "89-spreadsheet-property-income-problems.md"
     },
     {
-      "id": 62,
-      "title": "How to Get Your Airbnb Data Ready for Tax Season",
-      "keyword": "Airbnb data tax season UK",
-      "status": "pending",
-      "notes": "Download reports, reconcile, categorise, deadline prep"
+      "id": 90,
+      "title": "Excel vs Software for Airbnb Income Tracking",
+      "keyword": "excel vs software Airbnb income",
+      "status": "published",
+      "filename": "90-excel-vs-software-airbnb-income.md"
     },
     {
-      "id": 63,
-      "title": "HMRC Reporter vs Manual Spreadsheet: A Real Comparison",
-      "keyword": "HMRC Reporter vs spreadsheet",
-      "status": "pending",
-      "notes": "Side-by-side comparison, time/savings, honest assessment"
+      "id": 91,
+      "title": "The Risks of Using Spreadsheets for HMRC Reporting",
+      "keyword": "spreadsheet HMRC reporting risks",
+      "status": "published",
+      "filename": "91-spreadsheet-hmrc-reporting-risks.md"
+    },
+    {
+      "id": 92,
+      "title": "When Spreadsheets Stop Working for Property Managers",
+      "keyword": "property management scaling problems spreadsheets",
+      "status": "published",
+      "filename": "92-spreadsheet-property-managers-scaling.md"
+    },
+    {
+      "id": 93,
+      "title": "What Property Managers Must Do Before the Next Tax Year",
+      "keyword": "prepare property income tax UK",
+      "status": "published",
+      "filename": "93-prepare-property-income-tax-year.md"
+    },
+    {
+      "id": 94,
+      "title": "Year-End Checklist for Airbnb Hosts (UK)",
+      "keyword": "Airbnb tax checklist UK",
+      "status": "published",
+      "filename": "94-airbnb-tax-checklist-uk.md"
+    },
+    {
+      "id": 95,
+      "title": "Monthly vs Quarterly Reporting for Property Income",
+      "keyword": "property income reporting frequency UK",
+      "status": "published",
+      "filename": "95-property-income-reporting-frequency.md"
+    },
+    {
+      "id": 96,
+      "title": "How Digital Reporting Is Changing Property Taxes",
+      "keyword": "digital tax reporting property UK",
+      "status": "published",
+      "filename": "96-digital-tax-reporting-property.md"
+    },
+    {
+      "id": 97,
+      "title": "The Future of Property Tax Reporting in the UK",
+      "keyword": "future of HMRC reporting UK",
+      "status": "published",
+      "filename": "97-future-hmrc-reporting-uk.md"
     }
   ]
 }
