@@ -96,7 +96,7 @@ Not usually for a one-off mistake. But repeated mismatches between platform data
 
 **Ready to simplify your HMRC reporting?** Our software connects directly to your Airbnb data and generates reports ready for Self Assessment — no spreadsheet headaches.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

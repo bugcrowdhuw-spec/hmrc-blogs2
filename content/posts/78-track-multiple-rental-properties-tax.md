@@ -154,7 +154,7 @@ No. One SA105 can include multiple properties. Just ensure income is added toget
 
 **Track properly, save headaches.** Software makes this much easier.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

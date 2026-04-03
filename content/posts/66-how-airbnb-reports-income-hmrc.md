@@ -103,7 +103,7 @@ No. It's mandatory under UK law.
 
 **Stay ahead of HMRC's systems.** Our software connects to your data and ensures your returns match exactly what platforms report.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

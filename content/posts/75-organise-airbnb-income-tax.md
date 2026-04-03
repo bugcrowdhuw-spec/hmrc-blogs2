@@ -125,7 +125,7 @@ Record the actual dates. Don't round up or down.
 
 **Get organised now.** It only gets harder later.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

@@ -141,7 +141,7 @@ All rent collected, tax deducted (if any), and expenses paid for each client.
 
 **Handle reporting properly.** Protect yourself and your clients.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

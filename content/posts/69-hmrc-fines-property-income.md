@@ -123,7 +123,7 @@ Sometimes. If it's your first mistake and you cooperate, HMRC may reduce penalti
 
 **Don't let penalties pile up.** Get compliant now and avoid the stress.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

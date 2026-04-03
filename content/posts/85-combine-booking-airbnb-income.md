@@ -111,7 +111,7 @@ Ideally, yes. Simpler tracking.
 
 **Track all platforms together.** Simpler for tax.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

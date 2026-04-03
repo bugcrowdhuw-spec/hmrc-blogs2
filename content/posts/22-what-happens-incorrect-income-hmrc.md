@@ -1,18 +1,14 @@
 ---
 title: "What Happens If You Report Incorrect Income to HMRC"
-date: 2026-04-19
-draft: false
-description: "What happens if you report incorrect income to HMRC? Covers penalties, investigation triggers, types of errors, and how to avoid costly mistakes."
-tags: ["HMRC penalties incorrect income", "HMRC investigation property income", "tax penalties UK", "Airbnb tax errors", "incorrect tax reporting"]
-image: "/images/diagram-penalty-structure.svg"
-slug: "what-happens-incorrect-income-hmrc"
+date: 2026-03-30
+description: "What happens if you report incorrect income to HMRC? Learn about penalties, investigation triggers, types of errors, and how to avoid costly mistakes."
 ---
 
 # What Happens If You Report Incorrect Income to HMRC
 
 *Last updated: March 2026*
 
-Reporting incorrect income to HMRC isn't just a paperwork problem — it can cost you real money. Penalties, interest, investigations, and stress. Whether the error is accidental or deliberate, HMRC has a structured response. Here's what actually happens and how to avoid it.
+Reporting incorrect income to HMRC isn't just a paperwork problem — it can cost you real money. Penalties, interest, investigations, and stress. Whether the error is accidental or deliberate, HMRC has a structured response. Here's what actually happens.
 
 ## HMRC Already Has Your Data
 
@@ -22,11 +18,11 @@ Since January 2024, platforms like Airbnb and Booking.com report your earnings d
 - They cross-reference your Self Assessment against platform data
 - Discrepancies are flagged automatically
 
-You're not just reporting into a void — HMRC is checking your numbers against theirs.
+You're not reporting into a void — HMRC is checking your numbers against theirs.
 
 ## Types of Errors
 
-HMRC distinguishes between different types of errors, and the consequences vary.
+HMRC distinguishes between different types of errors. The consequences vary.
 
 ### Honest Mistakes
 
@@ -52,6 +48,10 @@ You deliberately reported incorrect figures and tried to hide the error — for 
 
 **HMRC's response:** Penalties of 30% to 100% of the additional tax due.
 
+## What Are the Penalties for Reporting Wrong Income to HMRC?
+
+Penalties depend on the type of error. Careless errors attract penalties of 0–30% of the additional tax. Deliberate errors attract 20–70%. Deliberate and concealed errors attract 30–100%. Voluntary disclosure reduces the penalty rate.
+
 ## Penalty Structure in Detail
 
 ### Based on Behaviour and Disclosure
@@ -69,13 +69,13 @@ You deliberately reported incorrect figures and tried to hide the error — for 
 
 ### Additional Penalties
 
-On top of the percentage-based penalties:
+On top of percentage-based penalties:
 
 - **Late filing:** £100 initial penalty, then £10 per day (up to £900), then further penalties at 6 and 12 months
 - **Late payment:** 2% at 15 days, additional 2% at 30 days, 4% annualised after that
 - **Interest:** Charged on all unpaid tax from the original due date
 
-## What Triggers an HMRC Investigation
+## What Triggers an HMRC Investigation?
 
 ### Red Flags
 
@@ -100,6 +100,10 @@ On top of the percentage-based penalties:
 4. **Assessment** — HMRC calculates what they believe you owe
 5. **Penalty notice** — penalties added based on the type of error
 6. **Appeal** — you can dispute HMRC's findings
+
+## How Far Back Can HMRC Investigate Property Income?
+
+Generally 4 years for careless errors, 6 years for deliberate errors, and 20 years for deliberate concealment. The clock starts from the end of the tax year in which the error occurred.
 
 ## Real Costs of Getting It Wrong
 
@@ -187,23 +191,37 @@ Pay the additional tax as soon as possible to minimise interest charges.
 
 ## Frequently Asked Questions
 
-**Q: Will HMRC investigate me for a small error?**
-A: Small honest mistakes are usually resolved with a simple correction and payment of additional tax. Investigations are typically reserved for larger or suspicious discrepancies.
+### Will HMRC investigate me for a small error?
 
-**Q: How far back can HMRC investigate?**
-A: Generally 4 years for careless errors, 6 years for deliberate errors, and 20 years for deliberate concealment.
+Small honest mistakes are usually resolved with a simple correction and payment of additional tax. Investigations are typically reserved for larger or suspicious discrepancies.
 
-**Q: Can I go to prison for incorrect reporting?**
-A: Tax evasion (deliberate and concealed) can result in criminal prosecution and imprisonment. Honest errors and careless mistakes are handled with civil penalties, not criminal charges.
+### How far back can HMRC investigate?
 
-**Q: What if I can't afford to pay the additional tax?**
-A: Contact HMRC to arrange a payment plan. They offer Time to Pay arrangements for taxpayers who can't pay in full.
+Generally 4 years for careless errors, 6 years for deliberate errors, and 20 years for deliberate concealment.
 
-**Q: Does HMRC investigate everyone whose figures don't match?**
-A: Not always. Minor discrepancies may result in a letter asking for clarification. Larger or repeated discrepancies are more likely to trigger a full investigation.
+### Can I go to prison for incorrect reporting?
+
+Tax evasion (deliberate and concealed) can result in criminal prosecution and imprisonment. Honest errors and careless mistakes are handled with civil penalties, not criminal charges.
+
+### What if I can't afford to pay the additional tax?
+
+Contact HMRC to arrange a payment plan. They offer Time to Pay arrangements for taxpayers who can't pay in full.
+
+### Does HMRC investigate everyone whose figures don't match?
+
+Not always. Minor discrepancies may result in a letter asking for clarification. Larger or repeated discrepancies are more likely to trigger a full investigation.
 
 ---
 
 *Avoid errors with automated reporting. [HMRC Reporter](https://hmrcreporter.com/) calculates your income correctly and generates accurate HMRC reports. [Learn more →](https://hmrcreporter.com/)*
 
+## Related Posts
+
+- [HMRC Penalties for Incorrect Property Income Reporting](./23-hmrc-penalties-incorrect-property-income.md) — detailed breakdown of penalty rates and schedules
+- [Common HMRC Reporting Errors Airbnb Hosts Make](./25-common-hmrc-reporting-errors-airbnb-hosts.md) — mistakes to watch out for
+- [How to Avoid HMRC Fines as a Property Manager](./26-how-to-avoid-hmrc-fines-property-manager.md) — practical steps to stay compliant
+- [Airbnb Payouts Explained for Tax Reporting](./20-airbnb-payouts-explained-tax-reporting.md) — the number one source of reporting errors
+
 ---
+
+**Tags:** HMRC penalties incorrect income, HMRC investigation property income, tax penalties UK, Airbnb tax errors, incorrect tax reporting

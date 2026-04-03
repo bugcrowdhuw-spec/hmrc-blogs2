@@ -126,7 +126,7 @@ Monthly is better. Quarterly means issues compound.
 
 **Reconcile monthly.** Catch problems early.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

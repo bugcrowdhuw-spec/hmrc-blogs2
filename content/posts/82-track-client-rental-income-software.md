@@ -144,7 +144,7 @@ For migration: 1-2 weeks. For training: 1 week.
 
 **Centralise everything.** Save time and reduce errors.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

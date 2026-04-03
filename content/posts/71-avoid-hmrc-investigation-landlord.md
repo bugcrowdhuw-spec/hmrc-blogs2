@@ -113,7 +113,7 @@ Get professional help immediately. Don't try to handle it alone.
 
 **Stay compliant, stay safe.** Accurate reporting is your best protection.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

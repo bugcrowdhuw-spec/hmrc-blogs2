@@ -141,7 +141,7 @@ Migrate to software now.
 
 **Spreadsheets are a risk.** Software is safer.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 

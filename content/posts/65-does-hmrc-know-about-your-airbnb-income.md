@@ -94,7 +94,7 @@ Yes. Platforms report your property address as part of the required data.
 
 **Don't wait for the letter.** Simplify your reporting with software that keeps you compliant.
 
-[PPC1: /features](/features)
+**Try HMRC Reporter:** https://hmrcreporter.com
 
 ---
 
