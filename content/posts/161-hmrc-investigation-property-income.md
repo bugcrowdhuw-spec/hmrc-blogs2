@@ -28,3 +28,4 @@ description: "How HMRC investigates property income."
 ---
 
 **Stay accurate.**
+image: "/images/diagram-gross-vs-net.svg"

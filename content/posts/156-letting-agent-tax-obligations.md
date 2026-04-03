@@ -25,3 +25,4 @@ For non-resident landlords: deduct 20% tax from rent and pay quarterly.
 **Manage agent obligations.** HMRC Reporter provides client tracking.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

@@ -17,3 +17,4 @@ description: "Tax year end tasks."
 ---
 
 **Finish strong.**
+image: "/images/diagram-gross-vs-net.svg"

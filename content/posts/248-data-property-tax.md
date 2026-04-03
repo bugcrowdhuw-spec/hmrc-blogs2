@@ -22,3 +22,4 @@ description: "Data changes compliance."
 ---
 
 **Data-driven.**
+image: "/images/diagram-gross-vs-net.svg"

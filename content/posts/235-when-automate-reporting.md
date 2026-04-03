@@ -18,3 +18,4 @@ description: "When to automate."
 ---
 
 **Switch now.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -23,3 +23,4 @@ description: "Avoiding HMRC audits."
 ---
 
 **Stay compliant.**
+image: "/images/diagram-gross-vs-net.svg"

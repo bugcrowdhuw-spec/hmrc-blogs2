@@ -21,3 +21,4 @@ description: "Income forecasting."
 ---
 
 **Forecast tax.**
+image: "/images/diagram-gross-vs-net.svg"

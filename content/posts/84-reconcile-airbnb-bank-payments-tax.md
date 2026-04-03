@@ -130,4 +130,4 @@ Monthly is better. Quarterly means issues compound.
 
 ---
 
-*Related: "How to Combine Airbnb and Booking.com Income" covers multiple platforms.*
+*Related: "How to Combine Airbnb and Booking.com Income" covers multiple platforms.*image: "/images/diagram-gross-vs-net.svg"

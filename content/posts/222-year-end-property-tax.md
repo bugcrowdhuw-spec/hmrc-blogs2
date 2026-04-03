@@ -46,3 +46,4 @@ The tax year ends 5th April. Here's how to prepare:
 - Keep digital records
 
 **Make year-end easier.** Try HMRC Reporter at https://hmrcreporter.com
+image: "/images/diagram-gross-vs-net.svg"

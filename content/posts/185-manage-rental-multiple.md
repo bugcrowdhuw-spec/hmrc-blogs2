@@ -22,3 +22,4 @@ description: "Multiple platform management."
 ---
 
 **Master multi-platform.**
+image: "/images/diagram-gross-vs-net.svg"

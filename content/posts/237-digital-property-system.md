@@ -18,3 +18,4 @@ description: "Digital property system."
 ---
 
 **Build now.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -22,3 +22,4 @@ description: "Compliance importance."
 ---
 
 **Stay compliant.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -23,3 +23,4 @@ description: "Annual review."
 ---
 
 **Annual review.**
+image: "/images/diagram-gross-vs-net.svg"

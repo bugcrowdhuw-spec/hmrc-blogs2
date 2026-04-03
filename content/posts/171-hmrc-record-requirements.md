@@ -21,3 +21,4 @@ description: "HMRC record requirements."
 ---
 
 **Keep everything.**
+image: "/images/diagram-gross-vs-net.svg"

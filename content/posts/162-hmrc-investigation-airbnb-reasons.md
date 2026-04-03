@@ -25,3 +25,4 @@ description: "Why HMRC audits Airbnb hosts."
 ---
 
 **Avoid triggers.**
+image: "/images/diagram-gross-vs-net.svg"

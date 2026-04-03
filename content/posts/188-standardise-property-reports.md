@@ -22,3 +22,4 @@ description: "Standard reporting."
 ---
 
 **Standardise.**
+image: "/images/diagram-gross-vs-net.svg"

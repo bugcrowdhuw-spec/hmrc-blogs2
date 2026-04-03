@@ -25,3 +25,4 @@ description: "Organising receipts."
 ---
 
 **Be organised.**
+image: "/images/diagram-gross-vs-net.svg"

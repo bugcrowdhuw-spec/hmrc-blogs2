@@ -126,4 +126,4 @@ Digital is fine — and easier. Just back it up.
 
 ---
 
-*Related: "How to Organise Airbnb Income for Tax Reporting" covers the next step.*
+*Related: "How to Organise Airbnb Income for Tax Reporting" covers the next step.*image: "/images/diagram-gross-vs-net.svg"

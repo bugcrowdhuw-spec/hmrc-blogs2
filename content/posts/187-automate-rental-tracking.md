@@ -18,3 +18,4 @@ description: "Automated tracking."
 ---
 
 **Automate it.**
+image: "/images/diagram-gross-vs-net.svg"

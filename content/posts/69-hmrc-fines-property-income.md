@@ -127,4 +127,4 @@ Sometimes. If it's your first mistake and you cooperate, HMRC may reduce penalti
 
 ---
 
-*Related: "What Triggers an HMRC Investigation for Airbnb Hosts" explains why investigations start.*
+*Related: "What Triggers an HMRC Investigation for Airbnb Hosts" explains why investigations start.*image: "/images/diagram-gross-vs-net.svg"

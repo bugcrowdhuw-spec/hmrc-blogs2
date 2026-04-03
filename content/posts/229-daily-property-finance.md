@@ -17,3 +17,4 @@ description: "Daily finance habits."
 ---
 
 **Build habit.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -22,3 +22,4 @@ description: "Understanding payout statements."
 ---
 
 **Read carefully.**
+image: "/images/diagram-gross-vs-net.svg"

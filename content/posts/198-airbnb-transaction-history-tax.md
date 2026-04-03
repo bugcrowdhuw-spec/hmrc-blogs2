@@ -22,3 +22,4 @@ description: "Reading transaction history."
 ---
 
 **Read carefully.**
+image: "/images/diagram-gross-vs-net.svg"

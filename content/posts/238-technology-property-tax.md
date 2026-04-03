@@ -23,3 +23,4 @@ description: "Tech in property tax."
 ---
 
 **Tech matters.**
+image: "/images/diagram-gross-vs-net.svg"

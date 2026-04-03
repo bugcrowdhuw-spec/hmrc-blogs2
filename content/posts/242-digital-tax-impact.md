@@ -22,3 +22,4 @@ description: "Digital tax impact."
 ---
 
 **Adapt or struggle.**
+image: "/images/diagram-gross-vs-net.svg"

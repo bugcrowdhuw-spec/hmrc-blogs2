@@ -20,3 +20,4 @@ description: "Tax deadlines."
 ---
 
 **Don't miss.**
+image: "/images/diagram-gross-vs-net.svg"

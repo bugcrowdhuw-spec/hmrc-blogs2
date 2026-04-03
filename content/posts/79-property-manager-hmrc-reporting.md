@@ -145,4 +145,4 @@ All rent collected, tax deducted (if any), and expenses paid for each client.
 
 ---
 
-*Related: "Tax Reporting Challenges for Property Management Companies" covers business challenges.*
+*Related: "Tax Reporting Challenges for Property Management Companies" covers business challenges.*image: "/images/diagram-gross-vs-net.svg"

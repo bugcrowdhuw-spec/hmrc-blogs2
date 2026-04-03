@@ -22,3 +22,4 @@ description: "Cash flow management."
 ---
 
 **Manage cash flow.**
+image: "/images/diagram-gross-vs-net.svg"

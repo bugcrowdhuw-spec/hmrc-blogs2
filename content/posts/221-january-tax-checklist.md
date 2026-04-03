@@ -48,3 +48,4 @@ As the new year begins, here's your January checklist:
 Consider using software to automate this process. HMRC Reporter generates reports automatically from your platform data.
 
 **Simplify your tax reporting this year.** Visit https://hmrcreporter.com to learn more.
+image: "/images/diagram-gross-vs-net.svg"

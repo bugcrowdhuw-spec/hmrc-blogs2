@@ -18,3 +18,4 @@ description: "Complete tax checklist for new Airbnb hosts in the UK. Covers Self
 ---
 
 **Checklist complete.**
+image: "/images/diagram-gross-vs-net.svg"

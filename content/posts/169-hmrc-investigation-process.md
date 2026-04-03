@@ -23,3 +23,4 @@ description: "HMRC investigation process."
 ---
 
 **Stay cooperative.**
+image: "/images/diagram-gross-vs-net.svg"

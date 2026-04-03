@@ -25,3 +25,4 @@ description: "Airbnb vs Booking.com tax."
 ---
 
 **Track both.**
+image: "/images/diagram-gross-vs-net.svg"

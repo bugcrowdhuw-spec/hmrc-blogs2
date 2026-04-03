@@ -32,3 +32,4 @@ description: "How to avoid HMRC penalties."
 ---
 
 **Stay compliant.**
+image: "/images/diagram-gross-vs-net.svg"

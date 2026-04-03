@@ -22,3 +22,4 @@ description: "Reducing errors."
 ---
 
 **Automate to reduce.**
+image: "/images/diagram-gross-vs-net.svg"

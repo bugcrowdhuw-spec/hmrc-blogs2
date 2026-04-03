@@ -21,3 +21,4 @@ description: "Record retention periods."
 ---
 
 **Keep longer.**
+image: "/images/diagram-gross-vs-net.svg"

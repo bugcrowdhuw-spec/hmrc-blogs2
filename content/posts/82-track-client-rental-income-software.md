@@ -148,4 +148,4 @@ For migration: 1-2 weeks. For training: 1 week.
 
 ---
 
-*Related: "How Letting Agents Can Stay HMRC Compliant" covers compliance.*
+*Related: "How Letting Agents Can Stay HMRC Compliant" covers compliance.*image: "/images/diagram-gross-vs-net.svg"

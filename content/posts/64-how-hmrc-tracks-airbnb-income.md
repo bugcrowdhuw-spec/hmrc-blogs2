@@ -100,4 +100,4 @@ Not usually for a one-off mistake. But repeated mismatches between platform data
 
 ---
 
-*Next: Learn about "Does HMRC Know About Your Airbnb Income?" — and what to do if you've been under-reporting.*
+*Next: Learn about "Does HMRC Know About Your Airbnb Income?" — and what to do if you've been under-reporting.*image: "/images/diagram-gross-vs-net.svg"

@@ -22,3 +22,4 @@ description: "HMRC evolution."
 ---
 
 **Keep up.**
+image: "/images/diagram-gross-vs-net.svg"

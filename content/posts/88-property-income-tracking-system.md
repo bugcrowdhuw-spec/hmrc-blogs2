@@ -160,4 +160,4 @@ Yes. Start basic, upgrade when needed.
 
 ---
 
-*Related: "Why Spreadsheets Fail for Property Income Tracking" covers the problems.*
+*Related: "Why Spreadsheets Fail for Property Income Tracking" covers the problems.*image: "/images/diagram-gross-vs-net.svg"

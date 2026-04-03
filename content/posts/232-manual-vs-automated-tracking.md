@@ -23,3 +23,4 @@ description: "Manual vs automated."
 ---
 
 **Automated wins.**
+image: "/images/diagram-gross-vs-net.svg"

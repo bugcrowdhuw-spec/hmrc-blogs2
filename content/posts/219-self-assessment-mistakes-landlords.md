@@ -22,3 +22,4 @@ description: "Landlord errors."
 ---
 
 **Avoid errors.**
+image: "/images/diagram-gross-vs-net.svg"

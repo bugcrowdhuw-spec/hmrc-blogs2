@@ -43,3 +43,4 @@ HMRC cares about gross income before fees. Deduct expenses separately.
 **Track every penny.** HMRC Reporter automatically imports all income from platforms.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

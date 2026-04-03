@@ -20,3 +20,4 @@ description: "VRBO tax reporting."
 ---
 
 **Include VRBO.**
+image: "/images/diagram-gross-vs-net.svg"

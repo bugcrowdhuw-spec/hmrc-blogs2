@@ -134,4 +134,4 @@ Not for property management. Catch issues early.
 
 ---
 
-*Related: "How to Build a Property Income Tracking System" covers the full system.*
+*Related: "How to Build a Property Income Tracking System" covers the full system.*image: "/images/diagram-gross-vs-net.svg"

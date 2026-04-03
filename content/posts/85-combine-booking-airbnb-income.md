@@ -115,4 +115,4 @@ Ideally, yes. Simpler tracking.
 
 ---
 
-*Related: "The Best Way to Track Short-Term Rental Expenses" covers expense tracking.*
+*Related: "The Best Way to Track Short-Term Rental Expenses" covers expense tracking.*image: "/images/diagram-gross-vs-net.svg"

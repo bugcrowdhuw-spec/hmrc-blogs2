@@ -23,3 +23,4 @@ description: "HMRC record check prep."
 ---
 
 **Be prepared.**
+image: "/images/diagram-gross-vs-net.svg"

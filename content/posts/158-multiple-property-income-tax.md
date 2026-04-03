@@ -29,3 +29,4 @@ Total profit taxed at your marginal rate (20%, 40%, or 45%).
 **Manage multiple properties.** HMRC Reporter tracks per property.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

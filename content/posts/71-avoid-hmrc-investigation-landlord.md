@@ -117,4 +117,4 @@ Get professional help immediately. Don't try to handle it alone.
 
 ---
 
-*Related: "Airbnb Tax Mistakes That Could Cost You Thousands" covers common errors.*
+*Related: "Airbnb Tax Mistakes That Could Cost You Thousands" covers common errors.*image: "/images/diagram-gross-vs-net.svg"

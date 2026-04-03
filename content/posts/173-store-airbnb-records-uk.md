@@ -23,3 +23,4 @@ description: "Storing financial records."
 ---
 
 **Go digital.**
+image: "/images/diagram-gross-vs-net.svg"

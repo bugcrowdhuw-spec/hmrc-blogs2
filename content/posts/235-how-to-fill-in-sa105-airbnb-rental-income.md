@@ -183,3 +183,4 @@ Yes. You can total your income and expenses from all UK properties and report th
 - [How to Correct a Mistake on Your Property Tax Return](/blog/58-correct-mistake-property-tax-return-hmrc)
 
 If you manage multiple properties and want to simplify your HMRC reporting, find out how [HMRC Reporter](/) can help you stay compliant with less effort.
+image: "/images/diagram-gross-vs-net.svg"

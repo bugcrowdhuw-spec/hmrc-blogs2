@@ -23,3 +23,4 @@ description: "Record keeping mistakes."
 ---
 
 **Fix these.**
+image: "/images/diagram-gross-vs-net.svg"

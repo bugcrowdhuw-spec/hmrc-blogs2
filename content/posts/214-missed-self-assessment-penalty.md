@@ -22,3 +22,4 @@ description: "Missed deadlines."
 ---
 
 **Don't miss.**
+image: "/images/diagram-gross-vs-net.svg"

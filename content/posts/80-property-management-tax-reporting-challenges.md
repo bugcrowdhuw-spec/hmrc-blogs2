@@ -165,4 +165,4 @@ Look for: property management experience, reasonable fees, good communication.
 
 ---
 
-*Related: "Managing Multiple Clients' Income for HMRC Reporting" covers client work.*
+*Related: "Managing Multiple Clients' Income for HMRC Reporting" covers client work.*image: "/images/diagram-gross-vs-net.svg"

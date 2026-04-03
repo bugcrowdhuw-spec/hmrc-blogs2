@@ -22,3 +22,4 @@ description: "Daily income workflow."
 ---
 
 **Daily habit.**
+image: "/images/diagram-gross-vs-net.svg"

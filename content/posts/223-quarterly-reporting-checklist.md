@@ -18,3 +18,4 @@ description: "Quarterly checklist."
 ---
 
 **Report on time.**
+image: "/images/diagram-gross-vs-net.svg"

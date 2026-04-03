@@ -132,4 +132,4 @@ Up to 6 years. Keep records accordingly.
 
 ---
 
-*Related: "Best Way to Track Client Rental Income in One Place" covers software solutions.*
+*Related: "Best Way to Track Client Rental Income in One Place" covers software solutions.*image: "/images/diagram-gross-vs-net.svg"

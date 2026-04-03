@@ -138,4 +138,4 @@ Not required, but helpful for complex situations.
 
 ---
 
-*Related: "How to Track Multiple Rental Properties for Tax" covers managing more than one.*
+*Related: "How to Track Multiple Rental Properties for Tax" covers managing more than one.*image: "/images/diagram-gross-vs-net.svg"

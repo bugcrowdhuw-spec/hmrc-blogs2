@@ -23,3 +23,4 @@ description: "Repeatable process."
 ---
 
 **Make repeatable.**
+image: "/images/diagram-gross-vs-net.svg"

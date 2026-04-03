@@ -140,4 +140,4 @@ Possibly. They look for evidence of hosting activity.
 
 ---
 
-*Related: "How to Avoid an HMRC Tax Investigation as a Landlord" covers preventive steps.*
+*Related: "How to Avoid an HMRC Tax Investigation as a Landlord" covers preventive steps.*image: "/images/diagram-gross-vs-net.svg"

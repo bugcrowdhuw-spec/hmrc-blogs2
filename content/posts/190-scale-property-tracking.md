@@ -23,3 +23,4 @@ description: "Scaling tracking."
 ---
 
 **Scale safely.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -22,3 +22,4 @@ description: "Accountant needed?"
 ---
 
 **Consider advice.**
+image: "/images/diagram-gross-vs-net.svg"

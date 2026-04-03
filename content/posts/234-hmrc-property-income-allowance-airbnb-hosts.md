@@ -198,3 +198,4 @@ Yes. You can choose whichever option gives you the lower tax bill each year. If 
 ---
 
 Keeping track of property income, allowances, and HMRC requirements doesn't have to be stressful. [Learn more about simplifying your HMRC reporting at hmrcreporter.com](https://hmrcreporter.com).
+image: "/images/diagram-gross-vs-net.svg"

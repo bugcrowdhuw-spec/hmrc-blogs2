@@ -128,4 +128,4 @@ Penalties, interest, potential loss of registration.
 
 ---
 
-*Related: "How Property Managers Handle HMRC Reporting" covers the basics.*
+*Related: "How Property Managers Handle HMRC Reporting" covers the basics.*image: "/images/diagram-gross-vs-net.svg"

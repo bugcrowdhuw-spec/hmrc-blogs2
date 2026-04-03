@@ -23,3 +23,4 @@ description: "What to do when HMRC contacts you."
 ---
 
 **Respond properly.**
+image: "/images/diagram-gross-vs-net.svg"

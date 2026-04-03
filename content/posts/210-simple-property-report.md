@@ -22,3 +22,4 @@ description: "Simple income report."
 ---
 
 **Keep simple.**
+image: "/images/diagram-gross-vs-net.svg"

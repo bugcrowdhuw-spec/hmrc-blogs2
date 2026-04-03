@@ -22,3 +22,4 @@ description: "Real-time reporting."
 ---
 
 **Prepare for real-time.**
+image: "/images/diagram-gross-vs-net.svg"

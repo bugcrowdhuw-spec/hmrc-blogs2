@@ -152,4 +152,4 @@ These are not deductible. They're added to your cost base for Capital Gains Tax.
 
 ---
 
-*Related: "How to File Property Income on Self Assessment" covers filing.*
+*Related: "How to File Property Income on Self Assessment" covers filing.*image: "/images/diagram-gross-vs-net.svg"

@@ -19,3 +19,4 @@ description: "Self assessment guide."
 ---
 
 **Follow guide.**
+image: "/images/diagram-gross-vs-net.svg"

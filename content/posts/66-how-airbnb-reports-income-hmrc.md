@@ -107,4 +107,4 @@ No. It's mandatory under UK law.
 
 ---
 
-*Related: "HMRC Data Sharing Rules Explained for Property Managers" covers multi-property reporting.*
+*Related: "HMRC Data Sharing Rules Explained for Property Managers" covers multi-property reporting.*image: "/images/diagram-gross-vs-net.svg"

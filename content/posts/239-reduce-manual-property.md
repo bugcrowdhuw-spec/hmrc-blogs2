@@ -22,3 +22,4 @@ description: "Eliminate manual work."
 ---
 
 **Automate.**
+image: "/images/diagram-gross-vs-net.svg"

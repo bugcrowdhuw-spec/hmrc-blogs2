@@ -20,3 +20,4 @@ description: "Platform fees impact."
 ---
 
 **Deduct fees.**
+image: "/images/diagram-gross-vs-net.svg"

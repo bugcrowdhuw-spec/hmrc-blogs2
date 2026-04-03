@@ -21,3 +21,4 @@ description: "Tax season prep."
 ---
 
 **Prepare early.**
+image: "/images/diagram-gross-vs-net.svg"

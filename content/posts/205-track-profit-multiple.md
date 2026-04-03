@@ -22,3 +22,4 @@ description: "Multi-property profit."
 ---
 
 **Track each.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -21,3 +21,4 @@ description: "Late reporting penalties."
 ---
 
 **File on time.**
+image: "/images/diagram-gross-vs-net.svg"

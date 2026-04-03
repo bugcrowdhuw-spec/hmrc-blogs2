@@ -118,4 +118,4 @@ Varies. Often cheaper than the time cost of spreadsheets.
 
 ---
 
-*Related: "Excel vs Software for Airbnb Income Tracking" covers the comparison.*
+*Related: "Excel vs Software for Airbnb Income Tracking" covers the comparison.*image: "/images/diagram-gross-vs-net.svg"

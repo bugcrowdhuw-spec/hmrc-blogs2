@@ -123,4 +123,4 @@ Yes. HMRC offers payment plans for owed tax.
 
 ---
 
-*Related: "HMRC Fines for Property Income" covers penalty amounts.*
+*Related: "HMRC Fines for Property Income" covers penalty amounts.*image: "/images/diagram-gross-vs-net.svg"

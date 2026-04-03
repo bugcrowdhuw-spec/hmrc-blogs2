@@ -22,3 +22,4 @@ description: "Correcting HMRC errors."
 ---
 
 **Correct early.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -25,3 +25,4 @@ For non-UK resident landlords, deduct 20% tax from rent and pay quarterly to HMR
 **Manage multiple landlord income.** HMRC Reporter tracks income per client.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

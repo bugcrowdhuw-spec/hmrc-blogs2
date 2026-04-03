@@ -22,3 +22,4 @@ description: "Clean financial records."
 ---
 
 **Stay clean.**
+image: "/images/diagram-gross-vs-net.svg"

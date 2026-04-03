@@ -22,3 +22,4 @@ description: "Amending returns."
 ---
 
 **Amend if wrong.**
+image: "/images/diagram-gross-vs-net.svg"

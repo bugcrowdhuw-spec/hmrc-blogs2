@@ -21,3 +21,4 @@ description: "Multiple properties."
 ---
 
 **Combine on return.**
+image: "/images/diagram-gross-vs-net.svg"

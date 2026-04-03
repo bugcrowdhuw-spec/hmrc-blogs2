@@ -69,3 +69,4 @@ You can deduct:
 **Track property income properly.** HMRC Reporter connects to platforms, tracks income and expenses, and generates HMRC-ready reports automatically.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

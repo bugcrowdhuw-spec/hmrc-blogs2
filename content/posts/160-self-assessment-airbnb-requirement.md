@@ -33,3 +33,4 @@ Register by 5th October in the tax year you first earn income.
 **Start compliant.** Sign up at hmrcreporter.com and stay compliant.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

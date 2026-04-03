@@ -22,3 +22,4 @@ description: "Combining platforms."
 ---
 
 **Combine all.**
+image: "/images/diagram-gross-vs-net.svg"

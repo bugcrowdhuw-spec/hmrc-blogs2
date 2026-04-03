@@ -23,3 +23,4 @@ description: "Responding to HMRC letters."
 ---
 
 **Don't ignore.**
+image: "/images/diagram-gross-vs-net.svg"

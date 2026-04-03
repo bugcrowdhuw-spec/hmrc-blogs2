@@ -22,3 +22,4 @@ description: "Digital vs paper records."
 ---
 
 **Go digital.**
+image: "/images/diagram-gross-vs-net.svg"

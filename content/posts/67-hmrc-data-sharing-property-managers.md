@@ -117,4 +117,4 @@ Only if you're handling their tax. Otherwise, each landlord is responsible for t
 
 ---
 
-*Related: "How Property Managers Handle HMRC Reporting" covers day-to-day operations.*
+*Related: "How Property Managers Handle HMRC Reporting" covers day-to-day operations.*image: "/images/diagram-gross-vs-net.svg"

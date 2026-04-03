@@ -22,3 +22,4 @@ description: "Property tax changes."
 ---
 
 **Adapt now.**
+image: "/images/diagram-gross-vs-net.svg"

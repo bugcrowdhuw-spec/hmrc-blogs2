@@ -98,4 +98,4 @@ Yes. Platforms report your property address as part of the required data.
 
 ---
 
-*Related: "How HMRC Tracks Airbnb Income in the UK" explains the technical details.*
+*Related: "How HMRC Tracks Airbnb Income in the UK" explains the technical details.*image: "/images/diagram-gross-vs-net.svg"

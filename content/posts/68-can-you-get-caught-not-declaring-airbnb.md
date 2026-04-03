@@ -131,4 +131,4 @@ HMRC sets up payment plans. But you still owe the tax.
 
 ---
 
-*Related: "HMRC Fines for Property Income" covers the penalty amounts in detail.*
+*Related: "HMRC Fines for Property Income" covers the penalty amounts in detail.*image: "/images/diagram-gross-vs-net.svg"

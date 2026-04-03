@@ -21,3 +21,4 @@ description: "Profit margins."
 ---
 
 **Know your margin.**
+image: "/images/diagram-gross-vs-net.svg"

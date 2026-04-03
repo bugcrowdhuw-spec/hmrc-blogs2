@@ -20,3 +20,4 @@ description: "Expenses affect tax."
 ---
 
 **Claim expenses.**
+image: "/images/diagram-gross-vs-net.svg"

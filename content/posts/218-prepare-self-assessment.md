@@ -23,3 +23,4 @@ description: "Preparing for SA."
 ---
 
 **Prepare early.**
+image: "/images/diagram-gross-vs-net.svg"

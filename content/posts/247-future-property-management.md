@@ -23,3 +23,4 @@ description: "Next 5 years."
 ---
 
 **Prepare now.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -19,3 +19,4 @@ description: "Digital reporting benefits."
 ---
 
 **Go digital.**
+image: "/images/diagram-gross-vs-net.svg"

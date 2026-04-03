@@ -18,3 +18,4 @@ description: "Tech reshaping accounting."
 ---
 
 **Embrace tech.**
+image: "/images/diagram-gross-vs-net.svg"

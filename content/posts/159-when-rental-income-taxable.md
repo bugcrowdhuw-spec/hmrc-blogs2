@@ -30,3 +30,4 @@ Register for Self Assessment by 5th October in the tax year you first earn renta
 **Track income timing.** HMRC Reporter matches payments to tax years.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

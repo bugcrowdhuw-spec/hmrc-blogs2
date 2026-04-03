@@ -22,3 +22,4 @@ description: "Filing rental income."
 ---
 
 **File correctly.**
+image: "/images/diagram-gross-vs-net.svg"

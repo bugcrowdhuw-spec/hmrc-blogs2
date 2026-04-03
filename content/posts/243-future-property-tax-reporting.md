@@ -18,3 +18,4 @@ description: "Future trends."
 ---
 
 **Watch trends.**
+image: "/images/diagram-gross-vs-net.svg"

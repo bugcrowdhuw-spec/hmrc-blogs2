@@ -18,3 +18,4 @@ description: "Software simplifies compliance."
 ---
 
 **Use software.**
+image: "/images/diagram-gross-vs-net.svg"

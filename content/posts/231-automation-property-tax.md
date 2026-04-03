@@ -22,3 +22,4 @@ description: "Tax automation."
 ---
 
 **Automate now.**
+image: "/images/diagram-gross-vs-net.svg"

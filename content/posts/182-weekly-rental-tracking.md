@@ -22,3 +22,4 @@ description: "Weekly tracking routine."
 ---
 
 **Make it weekly.**
+image: "/images/diagram-gross-vs-net.svg"

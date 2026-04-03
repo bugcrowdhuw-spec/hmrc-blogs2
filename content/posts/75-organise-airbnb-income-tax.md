@@ -129,4 +129,4 @@ Record the actual dates. Don't round up or down.
 
 ---
 
-*Related: "How to Calculate Airbnb Profit for HMRC" covers the numbers.*
+*Related: "How to Calculate Airbnb Profit for HMRC" covers the numbers.*image: "/images/diagram-gross-vs-net.svg"

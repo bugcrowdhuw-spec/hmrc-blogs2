@@ -22,3 +22,4 @@ description: "Scaling with automation."
 ---
 
 **Scale properly.**
+image: "/images/diagram-gross-vs-net.svg"

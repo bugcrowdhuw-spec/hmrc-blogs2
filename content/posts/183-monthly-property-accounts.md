@@ -22,3 +22,4 @@ description: "Monthly closing process."
 ---
 
 **Close monthly.**
+image: "/images/diagram-gross-vs-net.svg"

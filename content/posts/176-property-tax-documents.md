@@ -25,3 +25,4 @@ description: "Required documents."
 ---
 
 **Gather all.**
+image: "/images/diagram-gross-vs-net.svg"

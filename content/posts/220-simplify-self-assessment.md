@@ -21,3 +21,4 @@ description: "Simplifying SA."
 ---
 
 **Simplify.**
+image: "/images/diagram-gross-vs-net.svg"

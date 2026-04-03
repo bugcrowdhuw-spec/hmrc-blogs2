@@ -21,3 +21,4 @@ description: "Booking.com tax UK."
 ---
 
 **Report correctly.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -23,3 +23,4 @@ description: "Financial mistakes."
 ---
 
 **Avoid these.**
+image: "/images/diagram-gross-vs-net.svg"

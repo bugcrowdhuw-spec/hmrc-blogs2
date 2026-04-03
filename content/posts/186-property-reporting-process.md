@@ -19,3 +19,4 @@ description: "End-to-end reporting."
 ---
 
 **Master process.**
+image: "/images/diagram-gross-vs-net.svg"

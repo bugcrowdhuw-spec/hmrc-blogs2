@@ -139,4 +139,4 @@ If you earn Airbnb income and haven't registered:
 
 ---
 
-*Related: "What Happens If You Forget to Report Rental Income" covers the consequences.*
+*Related: "What Happens If You Forget to Report Rental Income" covers the consequences.*image: "/images/diagram-gross-vs-net.svg"

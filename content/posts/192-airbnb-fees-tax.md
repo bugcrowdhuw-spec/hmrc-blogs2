@@ -21,3 +21,4 @@ description: "Airbnb fees impact."
 ---
 
 **Account for fees.**
+image: "/images/diagram-gross-vs-net.svg"

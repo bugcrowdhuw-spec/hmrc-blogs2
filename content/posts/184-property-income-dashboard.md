@@ -23,3 +23,4 @@ description: "Income dashboard."
 ---
 
 **Build dashboard.**
+image: "/images/diagram-gross-vs-net.svg"

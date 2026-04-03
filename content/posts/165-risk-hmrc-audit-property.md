@@ -23,3 +23,4 @@ description: "Signs of HMRC audit risk."
 ---
 
 **Stay safe.**
+image: "/images/diagram-gross-vs-net.svg"

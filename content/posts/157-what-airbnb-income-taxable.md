@@ -32,3 +32,4 @@ Airbnb reports your earnings directly to HMRC. They will match against your retu
 **Track Airbnb income automatically.** HMRC Reporter imports all earnings.
 
 [PPC1: /features](/features)
+image: "/images/diagram-gross-vs-net.svg"

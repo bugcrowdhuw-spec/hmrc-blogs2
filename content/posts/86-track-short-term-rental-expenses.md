@@ -126,4 +126,4 @@ Only for certain types of letting. Get advice.
 
 ---
 
-*Related: "How to Prepare Monthly Property Income Reports" covers regular reporting.*
+*Related: "How to Prepare Monthly Property Income Reports" covers regular reporting.*image: "/images/diagram-gross-vs-net.svg"

@@ -21,3 +21,4 @@ description: "Gross vs net income."
 ---
 
 **Use net for tax.**
+image: "/images/diagram-gross-vs-net.svg"

@@ -21,3 +21,4 @@ description: "Mid-year review."
 ---
 
 **Review now.**
+image: "/images/diagram-gross-vs-net.svg"

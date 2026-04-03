@@ -158,4 +158,4 @@ No. One SA105 can include multiple properties. Just ensure income is added toget
 
 ---
 
-*Related: "Property Manager Responsibilities for Landlord Tax Reporting" covers the management side.*
+*Related: "Property Manager Responsibilities for Landlord Tax Reporting" covers the management side.*image: "/images/diagram-gross-vs-net.svg"

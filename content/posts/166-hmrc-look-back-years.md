@@ -20,3 +20,4 @@ description: "HMRC look back periods."
 ---
 
 **Keep records.**
+image: "/images/diagram-gross-vs-net.svg"

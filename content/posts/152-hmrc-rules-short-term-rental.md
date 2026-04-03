@@ -105,3 +105,4 @@ Deadline is 31st January each year.
 ---
 
 *Related: "Understanding Property Income Tax in the UK (Simple Guide)" covers the basics.*
+image: "/images/diagram-gross-vs-net.svg"

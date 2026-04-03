@@ -22,3 +22,4 @@ description: "Financial visibility."
 ---
 
 **Get visibility.**
+image: "/images/diagram-gross-vs-net.svg"

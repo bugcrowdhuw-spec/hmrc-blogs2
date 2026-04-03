@@ -17,3 +17,4 @@ description: "Weekly finance checklist."
 ---
 
 **Build habit.**
+image: "/images/diagram-gross-vs-net.svg"
