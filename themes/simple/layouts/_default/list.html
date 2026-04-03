@@ -2,14 +2,14 @@
 <div class="home">
   <div class="hero">
     <h1>HMRC Reporter Blog</h1>
-    <p>Expert guides on HMRC Digital Platform Reporting, Making Tax Digital, and tax compliance for UK holiday let operators.</p>
+    <p>Expert guides on HMRC reporting for UK property managers and holiday let operators.</p>
   </div>
   <div class="posts">
-    {{ range first 100 .Site.RegularPages }}
+    {{ range (where .Site.Pages "Type" "post") }}
     <article class="post-card">
-      {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" class="post-image">{{ end }}
+      {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}">{{ end }}
       <div class="post-content">
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+        <time>{{ .Date.Format "2 January 2006" }}</time>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <p>{{ .Description }}</p>
         <a href="{{ .Permalink }}" class="read-more">Read more →</a>
