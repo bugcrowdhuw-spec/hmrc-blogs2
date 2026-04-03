@@ -1,6 +1,6 @@
 ---
 title: "HMRC Fines for Property Income: What You Could Owe"
-date: 2026-04-03
+date: 2026-03-30
 description: "HMRC penalties for property income — understand the fines, interest charges, and what triggers penalties."
 ---
 

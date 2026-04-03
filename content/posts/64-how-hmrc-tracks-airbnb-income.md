@@ -1,6 +1,6 @@
 ---
 title: "How HMRC Tracks Airbnb Income in the UK"
-date: 2026-04-03
+date: 2026-04-01
 description: "Learn how HMRC tracks Airbnb income through data sharing, bank reports, and platform reporting rules."
 ---
 

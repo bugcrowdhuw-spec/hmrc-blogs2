@@ -1,6 +1,6 @@
 ---
 title: "HMRC Data Sharing Rules Explained for Property Managers"
-date: 2026-04-03
+date: 2026-04-01
 description: "HMRC data sharing rules for property managers explained — what gets reported, how, and what it means for your business."
 ---
 

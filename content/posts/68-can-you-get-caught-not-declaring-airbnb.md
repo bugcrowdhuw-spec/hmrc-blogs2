@@ -1,6 +1,6 @@
 ---
 title: "Can You Get Caught Not Declaring Airbnb Income?"
-date: 2026-04-03
+date: 2026-04-01
 description: "What happens if you don't declare Airbnb income UK — penalties, investigations, and how HMRC catches undeclared hosts."
 ---
 

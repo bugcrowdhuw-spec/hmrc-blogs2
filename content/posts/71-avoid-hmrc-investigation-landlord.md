@@ -1,6 +1,6 @@
 ---
 title: "How to Avoid an HMRC Tax Investigation as a Landlord"
-date: 2026-04-03
+date: 2026-03-30
 description: "Avoid HMRC tax investigation as a landlord — practical steps to stay compliant and below the radar."
 ---
 

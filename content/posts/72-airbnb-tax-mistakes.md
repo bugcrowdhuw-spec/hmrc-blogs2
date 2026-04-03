@@ -1,6 +1,6 @@
 ---
 title: "Airbnb Tax Mistakes That Could Cost You Thousands"
-date: 2026-04-03
+date: 2026-03-30
 description: "Common Airbnb tax mistakes UK hosts make — and how much they cost. Avoid these errors and save thousands."
 ---
 

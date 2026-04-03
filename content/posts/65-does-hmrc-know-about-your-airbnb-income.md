@@ -1,6 +1,6 @@
 ---
 title: "Does HMRC Know About Your Airbnb Income?"
-date: 2026-04-03
+date: 2026-04-01
 description: "Wondering if HMRC tracks Airbnb income? The answer is yes — here's what they know and how to stay compliant."
 ---
 

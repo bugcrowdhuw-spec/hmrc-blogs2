@@ -1,6 +1,6 @@
 ---
 title: "What Happens If You Forget to Report Rental Income"
-date: 2026-04-03
+date: 2026-03-30
 description: "Forgot to report rental income to HMRC — what happens, penalties, and how to fix it."
 ---
 

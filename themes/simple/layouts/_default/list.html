@@ -5,7 +5,7 @@
     <p>Expert guides on HMRC Digital Platform Reporting, Making Tax Digital, and tax compliance for UK holiday let operators.</p>
   </div>
   <div class="posts">
-    {{ range (.Pages | first 50) }}
+    {{ range first 100 .Site.RegularPages }}
     <article class="post-card">
       {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" class="post-image">{{ end }}
       <div class="post-content">

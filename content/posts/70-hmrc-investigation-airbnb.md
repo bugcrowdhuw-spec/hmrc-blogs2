@@ -1,6 +1,6 @@
 ---
 title: "What Triggers an HMRC Investigation for Airbnb Hosts"
-date: 2026-04-03
+date: 2026-03-30
 description: "What triggers HMRC investigation for Airbnb hosts — patterns, flags, and why certain hosts get investigated."
 ---
 
