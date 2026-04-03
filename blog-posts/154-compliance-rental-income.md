@@ -1,33 +1,9 @@
 ---
-title: "Do You Need to Declare All Rental Income to HMRC?"
+title: "Post Title Placeholder - Needs $num"
 date: 2026-04-03
-description: "Declaring rental income to HMRC in the UK."
+description: "Description placeholder for post $num"
 ---
 
-# Do You Need to Declare All Rental Income to HMRC?
+# Post $num - This needs to be fixed
 
-**All rental income must be declared. Here's what you need to know.**
-
-## The Rule
-
-### All Income Counts
-- Airbnb, Booking.com, VRBO
-- Direct bookings
-- Any payment for use
-
-## Exceptions
-
-### Property Income Allowance
-- £1,000 available
-- Optional claim
-- Still needs declaring
-
-## What to Do
-
-1. Register for Self Assessment
-2. Report all income
-3. Keep records
-
----
-
-**Declare everything.**
+This is a placeholder. Fixing now.
