@@ -2,7 +2,7 @@
 
 agent:
   name: TaxPrep Assistant
-  version: 1.0.0
+  version: 2.0.0
   type: property-tax-specialist
 
 runtime:
@@ -20,6 +20,26 @@ skills:
   - tax-reporting
   - mtd-compliance
   - expense-categorization
+  - property-portfolio
+  - deadline-reminders
+  - invoice-generation
+  - platform-integration
+
+commercial:
+  tiered_pricing: true
+  api_access: true
+  user_management: true
+
+data:
+  storage: sqlite
+  path: data/taxprep.db
+
+api:
+  hmrc_mtd: true
+  platforms:
+    - airbnb
+    - booking
+    - vrbo
 
 communication:
   channels:
@@ -34,6 +54,7 @@ heartbeat:
     - tax_deadlines
     - mtd_compliance
     - pending_reports
+    - property_updates
 
 # Environment Variables
 # Required:
@@ -43,3 +64,10 @@ heartbeat:
 #   AGENT_NAME=TaxPrep
 #   USER_DATA_PATH=./data/users
 #   LOG_LEVEL=info
+# Platform API Keys:
+#   AIRBNB_API_TOKEN=your_airbnb_token
+#   BOOKING_API_KEY=your_booking_key
+#   VRBO_API_KEY=your_vrbo_key
+# HMRC API:
+#   HMRC_CLIENT_ID=your_hmrc_client_id
+#   HMRC_CLIENT_SECRET=your_hmrc_client_secret

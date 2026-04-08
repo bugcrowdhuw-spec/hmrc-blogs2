@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  taxprep:
+    build: .
+    container_name: taxprep-agent
+    volumes:
+      - ./data:/app/data
+      - ./memory:/app/memory
+    environment:
+      - PYTHONUNBUFFERED=1
+      - AIRBNB_API_TOKEN=${AIRBNB_API_TOKEN:-}
+      - BOOKING_API_KEY=${BOOKING_API_KEY:-}
+      - HMRC_CLIENT_ID=${HMRC_CLIENT_ID:-}
+      - HMRC_CLIENT_SECRET=${HMRC_CLIENT_SECRET:-}
+    restart: unless-stopped
+    command: ["init"]
+
+  taxprep-api:
+    build: .
+    container_name: taxprep-api
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - API_MODE=true
+      - AIRBNB_API_TOKEN=${AIRBNB_API_TOKEN:-}
+      - BOOKING_API_KEY=${BOOKING_API_KEY:-}
+    depends_on:
+      - taxprep
+    restart: unless-stopped
+
+networks:
+  default:
+    name: taxprep-network

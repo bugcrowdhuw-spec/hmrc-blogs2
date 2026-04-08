@@ -1,8 +1,8 @@
 # TaxPrep OpenCLAW Agent
 
-**Version:** 1.0.0  
+**Version:** 2.0.0  
 **License:** Commercial - All Rights Reserved  
-**Author:** HMRC Reporter
+**Author:** TaxPrep
 
 ## Product Overview
 
@@ -14,6 +14,10 @@ TaxPrep is an autonomous AI agent built on the OpenCLAW framework, specializing 
 - **HMRC Compliance** - Generates MTD-compliant reports
 - **Multi-Channel** - Works via chat, email digest, and scheduled heartbeats
 - **Tax Deadline Monitoring** - Proactive reminders for Self Assessment and quarterly submissions
+- **Python CLI** - Full command-line interface for data processing
+- **Platform Integration** - Sync from Airbnb, Booking.com, Vrbo
+- **Invoice Generation** - Create professional rental invoices
+- **Commercial Ready** - Multi-tier pricing with user management
 
 ---
 
@@ -21,18 +25,68 @@ TaxPrep is an autonomous AI agent built on the OpenCLAW framework, specializing 
 
 ```
 TaxPrep Agent
-├── SOUL.md           # Agent personality & behaviour
-├── IDENTITY.md       # Who the agent is
-├── USER.md           # Customer data template
-├── AGENTS.md         # System documentation
+├── SOUL.md                   # Agent personality & behaviour
+├── IDENTITY.md               # Who the agent is
+├── USER.md                   # Customer data template
+├── AGENTS.md                 # System documentation
 ├── config/
-│   └── agent.yaml    # Runtime configuration
+│   └── agent.yaml            # Runtime configuration
 ├── skills/
 │   ├── tax-reporting.md
 │   ├── mtd-compliance.md
-│   └── expense-categorization.md
-├── memory/           # Session logs (created at runtime)
-└── LICENSE           # Commercial license
+│   ├── expense-categorization.md
+│   ├── property-portfolio.md
+│   ├── deadline-reminders.md
+│   ├── invoice-generation.md
+│   └── platform-integration.md
+├── taxprep/                  # Python modules
+│   ├── cli.py                # Command-line interface
+│   ├── data_store.py         # SQLite storage
+│   ├── tax_calculator.py     # Tax calculations
+│   ├── report_generator.py   # Report generation
+│   ├── hmrc_client.py        # HMRC API client
+│   ├── platform_clients.py   # Platform APIs
+│   ├── deadline_tracker.py  # Deadline tracking
+│   ├── invoice_generator.py # Invoice generation
+│   └── user_manager.py       # User management
+├── data/                     # Data storage (runtime)
+├── memory/                   # Session logs (runtime)
+├── Dockerfile                # Docker support
+├── docker-compose.yml        # Docker Compose
+└── requirements.txt          # Python dependencies
+```
+
+## Python CLI
+
+Install dependencies and use the CLI:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Initialize database
+python -m taxprep.cli init
+
+# Add a property
+python -m taxprep.cli property add --name "London Flat" --address "123 High St" --type fhl
+
+# Add income
+python -m taxprep.cli income --property-id <ID> --amount 1200 --source rental --platform airbnb
+
+# Add expense
+python -m taxprep.cli expense --property-id <ID> --description "Repairs" --amount 150 --category repairs
+
+# Calculate tax
+python -m taxprep.cli tax --user-id default --tax-year 2025-26
+
+# Generate report
+python -m taxprep.cli report --user-id default --tax-year 2025-26 --output report.md
+
+# Check deadlines
+python -m taxprep.cli deadlines --days 90
+
+# Check MTD compliance
+python -m taxprep.cli mtd --user-id default
 ```
 
 ---
