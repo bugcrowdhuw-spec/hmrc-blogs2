@@ -1,0 +1,45 @@
+# OpenCLAW Agent Configuration
+
+agent:
+  name: TaxPrep Assistant
+  version: 1.0.0
+  type: property-tax-specialist
+
+runtime:
+  framework: openclaw
+  model: claude-sonnet-4-20250514
+  max_tokens: 4000
+  temperature: 0.7
+
+memory:
+  daily_notes: memory/YYYY-MM-DD.md
+  user_profile: USER.md
+  long_term: MEMORY.md
+
+skills:
+  - tax-reporting
+  - mtd-compliance
+  - expense-categorization
+
+communication:
+  channels:
+    - chat
+    - email_digest
+  timezone: Europe/London
+
+heartbeat:
+  enabled: true
+  interval_minutes: 60
+  checks:
+    - tax_deadlines
+    - mtd_compliance
+    - pending_reports
+
+# Environment Variables
+# Required:
+#   OPENCLAW_API_KEY=your_api_key
+#   CLAUDE_API_KEY=your_claude_key
+# Optional:
+#   AGENT_NAME=TaxPrep
+#   USER_DATA_PATH=./data/users
+#   LOG_LEVEL=info
