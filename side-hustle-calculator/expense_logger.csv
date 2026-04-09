@@ -1,0 +1,22 @@
+Date,Description,Category,Amount GBP,Receipt,Business Portion,Notes
+2025-04-10,Fuel - Uber,Vehicle,85.00,REC001,100%,Weekly fuel
+2025-04-12,Phone bill - data,Equipment,25.00,REC002,100%,For Uber app
+2025-04-15,Car insurance,Vehicle,45.00,REC003,100%,Business use
+2025-04-18,Deliveroo bag,Equipment,15.00,REC004,100%,Required for work
+2025-04-20,Petrol - Deliveroo,Vehicle,35.00,REC005,100%,Weekly fuel
+2025-04-25,New phone holder,Equipment,12.00,REC006,100%,Mount for phone
+2025-04-28,Tyres,Vehicle,120.00,REC007,100%,Wear and tear
+2025-05-01,Data SIM,Equipment,10.00,REC008,100%,For maps
+2025-05-05,Car service,Vehicle,85.00,REC009,100%,MOT and service
+
+Categories:
+- Vehicle: Fuel, insurance, repairs, MOT, parking
+- Equipment: Phone, holder, bag, laptop
+- Travel: Train tickets, client visits
+- Office: Home office proportion, utilities
+- Professional: Insurance, subscriptions
+
+Notes:
+- Business portion: % of cost that is for business use
+- Keep all receipts for 7 years
+- If using car for personal, claim mileage instead

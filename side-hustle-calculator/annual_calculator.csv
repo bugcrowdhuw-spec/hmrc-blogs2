@@ -1,0 +1,26 @@
+Description,Amount GBP,Notes
+TOTAL INCOME,0,Sum of all income from all sources
+TOTAL EXPENSES,0,Sum of all allowable expenses
+NET PROFIT,0,Taxable amount - enter in Self Assessment
+
+Tax Calculation:
+Net Profit,0,From above
+Income Tax (estimate),0,20% for basic rate
+Class 2 NIC,0,£12.50/week if profit over £6,725
+Class 4 NIC,0,9% on profits between £12,570-£50,270
+
+TOTAL ESTIMATED TAX,0,Sum of above
+
+Self Employment Summary:
+- Keep this for your records
+- Enter figures in SA103 (Self Employment) box
+- Total income in box 1
+- Total expenses in box 14
+- Net profit in box 23
+
+Year-End Tasks:
+[ ] Reconcile all income
+[ ] Check all expenses are allowable
+[ ] Ensure records match accounts
+[ ] Calculate final tax
+[ ] File Self Assessment by 31 Jan

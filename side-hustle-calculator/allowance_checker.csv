@@ -1,0 +1,30 @@
+Description,Amount GBP,Notes
+Total Side Hustle Income,0,From income tracker
+Less: Expenses (if claiming),0,From expense logger
+OR Trading Allowance,1000,Choose one or the other
+
+WHICHEVER IS HIGHER:
+- Allowable Expenses,0,Enter if higher than allowance
+- Trading Allowance,1000,Enter if higher than expenses
+
+Taxable Amount,0,Higher of expenses or £1,000
+
+How to Choose:
+1. If expenses under £1,000: use trading allowance
+2. If expenses over £1,000: claim expenses
+3. Cannot claim both
+
+Example:
+- Income: £5,000
+- Expenses: £800
+- Trading allowance: £1,000
+- Choose: £1,000 (higher)
+- Taxable: £4,000
+
+- Income: £5,000
+- Expenses: £1,500
+- Trading allowance: £1,000
+- Choose: £1,500 (higher)
+- Taxable: £3,500
+
+Note: Trading allowance is for miscellaneous income. If this is your main self-employment, you claim expenses instead.

@@ -1,0 +1,35 @@
+Description,Amount GBP,Notes
+Net Profit,0,From annual calculator
+
+Class 2 National Insurance:
+Profit Threshold,6725,Minimum for NIC
+Your Profit,0,
+Excess Over Threshold,0,Profit minus £6,725
+Weeks in Year,52,
+Weekly Rate,12.50,2025/26 rate
+Class 2 NIC Due,0,If profit over £6,725
+
+Class 4 National Insurance:
+Profit Band,0,Enter profit between £12,570-£50,270
+Class 4 Rate,9%,2025/26 rate
+Class 4 NIC Due,0,9% of amount in band
+
+Profits over £50,270:
+Additional Rate,2%,On profits over £50,270
+
+Total Self-Employed NIC:
+Class 2,0,
+Class 4,0,
+TOTAL NIC,0,
+
+Note: Class 2 and Class 4 NIC go on your Self Assessment return.
+
+National Insurance Rates (2025/26):
+- Class 2: £12.50/week if profits over £6,725
+- Class 4: 9% on profits between £12,570-£50,270
+- Class 4: 2% on profits over £50,270
+
+Why NIC Matters:
+- Counts towards State Pension
+- Creates qualifying years for benefits
+- Automatically collected via Self Assessment
