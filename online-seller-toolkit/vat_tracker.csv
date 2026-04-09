@@ -1,0 +1,13 @@
+Description,Value GBP,Notes
+Total Sales (12-month rolling),0,Enter from income tracker
+VAT Registration Threshold,90000,UK threshold
+Distance From Threshold,0,Calculated
+VAT Registration Required,NO,If over threshold
+
+Quarterly VAT Estimates:
+Q1 (Apr-Jun),0,Enter your quarterly sales
+Q2 (Jul-Sep),0,
+Q3 (Oct-Dec),0,
+Q4 (Jan-Mar),0,
+
+Note: Must register for VAT if turnover exceeds £90,000 in any 12-month period. Once registered, must charge VAT on sales and can reclaim VAT on expenses.
