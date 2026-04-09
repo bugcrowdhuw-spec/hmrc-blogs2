@@ -1,0 +1,19 @@
+Deadline,Due Date,Days Remaining,Status
+Paper Tax Return,2025-10-31,0,Approaching
+First Payment on Account,2025-07-31,0,Approaching
+Online Self Assessment,2026-01-31,0,Critical
+Tax Year End,2026-04-05,0,Upcoming
+Second Payment on Account,2026-07-31,0,Upcoming
+
+Instructions:
+1. Enter today's date in cell A7
+2. Days remaining calculates automatically
+3. If negative, deadline has passed
+
+How to calculate days remaining:
+=TODAY() - Due Date (for passed)
+=Due Date - TODAY() (for upcoming)
+
+Red = Less than 30 days
+Yellow = 30-90 days
+Green = More than 90 days

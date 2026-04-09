@@ -1,0 +1,15 @@
+Deadline,Weeks Before,Action,Details
+Paper Return,12,Gather all records,Bank statements, invoices, receipts
+Paper Return,8,Calculate income,Sum all self-employed/rental income
+Paper Return,4,Calculate expenses,Add up allowable deductions
+Paper Return,2,Draft return,Fill in SA100, SA103S forms
+Paper Return,1,Review and submit,Check details, file online or paper
+Online Return,12,Gather all records,Bank statements, invoices, receipts
+Online Return,8,Register for online filing,If not already registered
+Online Return,4,Log in to HMRC gateway,Ensure access works
+Online Return,2,Complete return,Enter all income and deductions
+Online Return,1,Review and submit,Double check, file by 31 Jan
+POA,4,Calculate payments,Work out 50% of last year's tax
+POA,1,Set up payment,Direct debit or bank transfer
+Tax Year End,4,End of year tasks,Prep for new tax year
+Tax Year End,2,File previous year,If not already done
