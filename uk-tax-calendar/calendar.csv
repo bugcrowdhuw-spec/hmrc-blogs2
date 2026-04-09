@@ -1,0 +1,12 @@
+Month,Deadline,Task,Status
+2025-04-05,Tax Year End,Review previous year,Pending
+2025-04-06,New Tax Year,Start new records,Pending
+2025-07-31,First POA,Payment on account,Pending
+2025-10-31,Paper Return,Deadline for paper SA,Pending
+2026-01-31,Online Return,Final deadline,Pending
+2026-04-05,Tax Year End,End of year,Pending
+2026-07-31,Second POA,Payment on account,Pending
+
+STATUS SUMMARY
+Completed,=COUNTIF(C2:C100,"Done")
+Pending,=COUNTIF(C2:C100,"Pending")

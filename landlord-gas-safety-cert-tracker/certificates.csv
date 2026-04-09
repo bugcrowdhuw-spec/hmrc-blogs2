@@ -1,0 +1,11 @@
+Property,Certificate Type,Expiry Date,Status,Renewal Cost GBP,Notes
+1,Gas Safety,2025-12-31,EXPIRED,85.00,Annual check needed
+1,Electrical (EICR),2026-06-30,Valid,150.00,5-year certificate
+2,Gas Safety,2026-03-15,Valid,85.00,
+2,EPC,2025-09-20,EXPIRED,120.00,New assessment needed
+1,EPC,2026-08-15,Valid,120.00,
+
+ALERTS
+Expired,=COUNTIF(D2:D100,"EXPIRED")
+Expiring Soon,=COUNTIF(D2:D100,"Expiring Soon")
+Total Cost,=SUM(E2:E100)

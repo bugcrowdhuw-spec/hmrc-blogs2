@@ -1,0 +1,11 @@
+Invoice Number,Date,Client,Description,Amount GBP,VAT,Total,Status
+INV-001,2025-04-15,ABC Ltd,Web development,500,100,600,Paid
+INV-002,2025-04-28,XYZ Ltd,Consulting,350,70,420,Paid
+INV-003,2025-05-10,Smith Co,Design work,400,80,480,Outstanding
+INV-004,2025-05-25,ABC Ltd,Additional work,150,30,180,Outstanding
+
+SUMMARY
+Total Invoiced,=SUM(E2:E100)
+Total Paid,=SUMIF(G2:G100,"Paid",E2:E100)
+Total Outstanding,=SUMIF(G2:G100,"Outstanding",E2:E100)
+VAT Collected,=SUM(F2:F100)

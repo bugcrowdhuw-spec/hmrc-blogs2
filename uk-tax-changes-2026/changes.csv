@@ -1,0 +1,15 @@
+Change,Effective Date,Impact,Affected,Notes
+Income Tax bands,April 2026,Higher thresholds,All taxpayers,Nil rate frozen
+Personal Allowance,April 2026,£12,570 frozen,All taxpayers,Frozen until 2028
+National Insurance,April 2026,2% cut,Employees,NI rate reduced
+VAT threshold,April 2026,£90,000 frozen,Businesses,No change
+Dividend Allowance,April 2026,£500 frozen,Shareholders,Remains at £500
+CGT exemption,April 2026,£3,000 frozen,Property sellers,Unchanged
+Pension Annual Allowance,April 2026,£60,000,High earners,Check taper
+State Pension,April 2026,3% increase,Pensioners,Full ~£11,500
+Child Benefit,April 2026,Income threshold £60k,High earners,2% charge
+MTD expansion,April 2026,Mandatory for landlords,Landlords,Over £50k
+
+TRACKER
+Changes Applied,=COUNTIF(B2:B100,"April 2026")
+Changes to Review,=COUNTIF(B2:B100,"2026")

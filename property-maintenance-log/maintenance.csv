@@ -1,0 +1,12 @@
+Date,Property,Description,Cost GBP,Category,Receipt,Notes
+2025-04-01,1,Boiler service,120.00,Maintenance,Yes,Annual service
+2025-04-15,1,Roof repair,450.00,Repairs,Yes,Leak fixed
+2025-05-01,2,Plumbing,85.00,Maintenance,Yes,Emergency callout
+2025-05-20,1,Electrical inspection,150.00,Safety,Yes,Landlord certificate
+2025-06-10,2,Garden clearance,75.00,Maintenance,Yes,Quarterly
+
+TOTALS BY PROPERTY
+Property 1,=SUMIF(A2:A100,"1",D2:D100)
+Property 2,=SUMIF(A2:A100,"2",D2:D100)
+TOTAL,=SUM(D2:D100)
+NUMBER OF JOBS,=COUNTA(D2:D100)

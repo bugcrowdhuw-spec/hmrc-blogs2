@@ -1,0 +1,9 @@
+Date,Caller,Reference,Topic,Outcome,Callback Required,Notes
+2025-04-10,John Smith,VAT123456,VAT registration,Resolved,No,
+2025-05-15,Jane Doe,SA987654,Self Assessment,Callback needed,Yes,Call back 20 May
+2025-06-01,Bob Wilson,POA555,Payment on account,Resolved,No,
+
+LOG TOTALS
+Total Calls,=COUNTA(A2:A100)
+Resolved,=COUNTIF(E2:E100,"Resolved")
+Needs Callback,=COUNTIF(F2:F100,"Yes")

@@ -1,0 +1,17 @@
+Current Age,Retirement Age,Years to Go,Full State Pension GBP,Age 67 Amount,Notes
+35,67,32,11500,11500,Full if 35+ years contributions
+40,67,27,11500,11500,Full if 35+ years
+45,67,22,11500,11500,Check contributions
+50,67,17,11500,9200,Pro-rata if under 35 years
+55,67,12,8000,6400,Check years carefully
+
+CALCULATOR
+Your Current Age,0
+Your Full Pension,11500
+Years of Contributions,0
+Your Estimated Pension,=IF(G2>=35,H2,H2*(G2/35))
+
+NOTES
+- Need 35 years for full state pension
+- Can check online at gov.uk/check-state-pension
+- Retirement age increasing to 68

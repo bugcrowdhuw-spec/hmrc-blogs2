@@ -1,0 +1,10 @@
+Interest Type,Bank,Amount GBP,Rate %,Tax Year,Tax Free Allowance,Taxable Amount,Tax Due
+Savings account,NatWest,250,4.5,2025/26,500,0,0
+Cash ISA,Barclays,0,5.2,2025/26,0,0,0
+Bonds,Scottish Widows,120,3.5,2025/26,500,0,0
+
+TOTALS
+Total Interest,=SUM(C2:C100)
+Total Tax Free,=SUM(F2:F100)
+Taxable,=SUM(G2:C100)
+Tax at 20%,=IF(G2>0,G2*0.2,0)

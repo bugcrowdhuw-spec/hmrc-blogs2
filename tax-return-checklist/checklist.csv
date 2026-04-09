@@ -1,0 +1,12 @@
+Task,Due Date,Status,Completed Date,Notes
+Gather records,2026-01-15,Pending,,
+Calculate income,2026-01-20,Pending,,
+Calculate expenses,2026-01-25,Pending,,
+Review deductions,2026-01-28,Pending,,
+Complete SA100,2026-01-30,Pending,,
+File return,2026-01-31,Pending,,
+
+TOTALS
+Tasks Completed,=COUNTIF(C2:C100,"Done")
+Total Tasks,=COUNTA(A2:A100)
+Progress %,=IF(B2>0,C2/B2*100,0)

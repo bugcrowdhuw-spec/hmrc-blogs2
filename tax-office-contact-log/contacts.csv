@@ -1,0 +1,10 @@
+Date,Contact Name,Subject,Outcome,Follow Up Date,Notes
+2025-04-15,HMRC VAT,Registration query,Resolved,,
+2025-05-10,HMRC PAYE,Code adjustment,Actioned,2025-06-15,Follow up needed
+2025-06-01,Tax Office Birmingham,Assessment review,Pending,2025-07-01, Awaiting response
+
+TOTALS
+Total Contacts,=COUNTA(A2:A100)
+Resolved,=COUNTIF(D2:D100,"Resolved")
+Pending,=COUNTIF(D2:D100,"Pending")
+Needs Follow Up,=COUNTIF(E2:E100,">="&TODAY())

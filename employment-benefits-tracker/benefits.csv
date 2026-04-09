@@ -1,0 +1,11 @@
+Benefit Type,Amount GBP,Frequency,Taxable,Total Annual GBP,Notes
+Company car,500,Monthly,Yes,6000,BMW 3 series
+Health insurance,150,Monthly,No,1800,Family cover
+Childcare vouchers,100,Monthly,No,1200,Tax-free
+Fuel card,80,Monthly,No,960,Work mileage only
+Mobile phone,25,Monthly,No,300,Work use only
+
+TOTALS
+Total Benefits,=SUM(E2:E100)
+Taxable Benefits,=SUMIF(D2:D100,"Yes",E2:E100)
+Non-Taxable,=SUMIF(D2:D100,"No",E2:E100)
