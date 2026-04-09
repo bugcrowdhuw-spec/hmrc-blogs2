@@ -1,0 +1,45 @@
+Description,Amount GBP,Notes
+Your Trade Sector,0,Enter from list below
+Total VAT-inclusive Sales,0,Gross sales including VAT
+
+Flat Rate Percentage,0,Enter percentage for your sector
+
+Flat Rate VAT Due,0,Sales x Flat Rate %
+
+You Keep (Input VAT reclaim):
+Input VAT on Purchases,0,Enter VAT you paid on expenses
+Net VAT to Pay,0,Flat Rate - Input VAT
+
+Common Flat Rate Percentages:
+- Accountancy: 14.5%
+- Advertising: 11%
+- Agricultural: 6.5%
+- Aircraft: 10%
+- Betting & Gaming: 15%
+- Broadcasting: 11%
+- Building & Construction: 9.5%
+- Business Services: 12%
+- Catering (restaurants): 12.5%
+- Cinema: 15%
+- Computer & IT: 12%
+- Education: 8%
+- Entertainment: 15%
+- Estate Agents: 12%
+- Financial Services: 13%
+- Hairdressing: 12%
+- Hotel & Accommodation: 10.5%
+- Labour Only Building: 14.5%
+- Legal: 14.5%
+- Management Consultancy: 14%
+- Photography: 11%
+- Publishing: 11%
+- Repair & Maintenance: 10%
+- Retailing (not food): 8%
+- Retailing (food): 4%
+- Secretarial Services: 12%
+- Security: 12%
+- Storage & Distribution: 8%
+- Transport & Haulage: 8%
+- Wholesaling: 8%
+
+Note: If your VAT-inclusive turnover is under £150,000, you can use flat rate. You cannot reclaim input VAT (except for certain items).

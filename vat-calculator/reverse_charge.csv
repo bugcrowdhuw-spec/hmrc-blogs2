@@ -1,0 +1,39 @@
+Description,Amount GBP,Notes
+Customer Details,0,Enter customer name
+Building Project,0,Enter project description
+
+Standard Rate Supply:
+Invoice Amount (excl VAT),0,Your invoice total
+VAT at 20%,0,20% of invoice
+Total Invoice,0,Invoice + VAT
+
+Reverse Charge Applies?:
+Customer is VAT Registered,Yes/No,Check if customer can account for VAT
+Services are Construction,Yes/No,Building services
+Customer is End User,Yes/No,Not another contractor
+
+If Reverse Charge Applies:
+Invoice Amount (excl VAT),0,Enter amount
+VAT at 20%,0,Calculate 20% VAT
+REVERSE CHARGE,0,Amount to account for (not pay)
+Your Output VAT,0,ZERO - you don't charge VAT
+
+How It Works:
+1. You DON'T charge VAT on invoice
+2. Customer accounts for VAT themselves (reverse charge)
+3. You show it as reverse charge on your return
+4. Customer claims input tax
+
+When Does It Apply:
+- Building services (labour + materials)
+- Construction of buildings
+- Alterations/renovations
+- Demolition
+
+When It Doesn't Apply:
+- Architectural/engineering design only
+- Hire of equipment (without labour)
+- Caravans
+- Land
+
+Note: If you use flat rate scheme, you still charge VAT normally. Reverse charge is for standard scheme users.

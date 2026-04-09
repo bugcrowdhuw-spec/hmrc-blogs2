@@ -1,0 +1,29 @@
+Description,Amount GBP,Notes
+Quarter,0,Enter: Q1, Q2, Q3, or Q4
+Quarterly Sales (excl VAT),0,Your sales for this quarter
+VAT on Sales,0,20% of sales (standard rate)
+Less: Input VAT,0,VAT on your purchases/expenses
+VAT Due to HMRC,0,Output VAT - Input VAT
+
+Quarterly Deadlines:
+- Q1 (Jan-Mar): Due 7 May
+- Q2 (Apr-Jun): Due 7 Aug
+- Q3 (Jul-Sep): Due 7 Nov
+- Q4 (Oct-Dec): Due 7 Feb
+
+Cash Accounting (optional):
+- Pay VAT when customers pay you
+- Must have under £1.35m turnover
+- Cannot reclaim VAT on purchases until paid
+
+Annual Accounting (optional):
+- One return per year
+- 3 advance payments + 1 balancing payment
+- Under £150,000 turnover
+
+Estimated Quarterly Payment:
+Annual Estimate,0,Your estimated annual VAT
+Divide by 4,0,Your quarterly payment estimate
+Adjust each quarter as needed
+
+Note: Returns are due 1 month and 7 days after quarter end. Late filing = penalty.

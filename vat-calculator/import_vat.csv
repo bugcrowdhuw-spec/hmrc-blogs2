@@ -1,0 +1,43 @@
+Description,Amount GBP,Notes
+Goods Value (excl VAT),0,Enter value from supplier invoice
+Shipping/Freight,0,Cost to bring goods to UK
+Insurance,0,If any
+CUSTOMS VALUE,0,Goods + Shipping + Insurance
+
+Import VAT Calculation:
+Customs Value,0,From above
+VAT Rate,20%,Standard rate
+IMPORT VAT DUE,0,Customs Value x 20%
+
+Post-Brexit Options:
+
+1. Deferment Account (if you have one):
+- No upfront payment
+- Pay via monthly direct debit
+- Requires £10,000+ monthly imports
+
+2. Duty Deferment (simplified):
+- Monthly payment
+- One guarantee needed
+
+3. Use a Customs Broker:
+- They handle the VAT
+- Usually charge £15-50 per import
+
+4. Delivered Duty Paid (DDP):
+- Supplier arranges delivery
+- They pay import VAT on your behalf
+- Added to their invoice
+
+Reduced Rate (if eligible):
+- 5% for energy-saving materials
+- 0% for certain children's equipment
+Check eligibility before claiming
+
+Zero Rating (if applicable):
+- Books, newspapers
+- Food (some)
+- Children's clothing
+- Medical equipment
+
+Note: Keep all customs paperwork for 6 years.
