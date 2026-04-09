@@ -1,0 +1,45 @@
+Description,Amount GBP,Notes
+Property Value,0,Main residence value
+Date Acquired,0,When you bought/ inherited
+Property Type,0,Single home or multiple
+
+Residence Nil-Rate Band:
+Allowance Available,175000,2025/26
+Your Allowance,0,Entire amount
+
+Qualifying Criteria:
+[ ] Property must be UK residence
+[ ] Must have lived in it as only/nominal home
+[ ] Passing to direct descendants (children, grandchildren)
+[ ] Value over £2m = tapered allowance
+
+If Estate Over £2m:
+Total Estate Value,0,
+Amount Over Threshold,2000000,If over £2m
+Taper Rate,1%,For every £1 over
+Allowance Reduction,0,Estate excess x 1%
+YOUR RRB,0,175,000 - reduction
+
+Example - Standard:
+Property: £600,000
+RRB: £175,000
+Tax-free on property: £175,000
+
+Example - Married (both):
+Property: £800,000
+Combined RRB: £350,000 (175k each)
+Tax-free: £350,000
+
+Example - Over £2m:
+Estate: £2,500,000
+Excess: £500,000
+Reduction: £500,000 x 1% = £5,000
+RRB: £175,000 - £5,000 = £170,000
+
+Direct Descendants:
+- Children (including adopted, step, foster)
+- Grandchildren
+- Great-grandchildren
+- Spouses of above (if survived)
+
+Note: If downsizing after July 2020, may preserve RRB.

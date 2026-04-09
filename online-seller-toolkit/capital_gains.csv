@@ -1,0 +1,21 @@
+Description,Value GBP,Notes
+Item Description,Enter item name,
+Purchase Price,0,What you paid
+Purchase Date,YYYY-MM-DD,When bought
+Sale Price,0,What you sold for
+Sale Date,YYYY-MM-DD,When sold
+
+Capital Gain Calculation:
+Sale Price,0,
+Less: Purchase Price,0,
+Less: Allowable Costs (fees, repairs),0,Gains from selling
+Gross Gain,0,Profit made
+
+Annual Exemption (2025/26),3000,Personal CGT allowance
+Taxable Gain,0,If below exemption, no CGT
+
+CGT Tax Rate:
+Basic Rate (up to £37700 income),10%,Applies to gains within income band
+Higher Rate,20%,Applies to gains above income threshold
+
+Note: CGT applies when you sell items for profit. Personal items sold for less than bought are not CGT - only gains are taxable. Keep records of purchase price and sale price.

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="icon" href="/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/schema.html" . }}
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="/" class="logo">📊 HMRC Reporter Blog</a>
+      <div class="nav-links">
+        <a href="/">Home</a>
+        <a href="https://hmrcreporter.com/" class="cta-link">Try HMRC Reporter →</a>
+      </div>
+    </nav>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    <p>© {{ now.Year }} <a href="https://hmrcreporter.com/">HMRC Reporter</a> — Automated Tax Compliance for UK Holiday Lets</p>
+  </footer>
+  <script data-goatcounter="https://hmrcblog.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

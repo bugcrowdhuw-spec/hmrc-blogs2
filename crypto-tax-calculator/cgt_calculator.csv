@@ -1,0 +1,11 @@
+Date,Sold,Quantity,Sold Price GBP,Fees GBP,Proceeds,Cost Basis,GAIN,LOSS
+2025-05-01,BTC,0.25,5000,10,4990,1875,3115,
+2025-06-15,ETH,0.5,1200,5,1195,2007,,
+2025-07-20,SOL,20,800,5,795,208,587,
+
+Total Proceeds,0
+Total Cost Basis,0
+TOTAL GAIN,0
+TOTAL LOSS,0
+
+CGT: Gain - 3000 exemption x 10% or 20%

@@ -1,0 +1,41 @@
+Description,Date,Notes
+Property Address,0,Enter property sold
+Sale Completion Date,0,Date of sale
+Deadline Date,0,60 days from sale
+
+Days Remaining:
+Sale Date,0,Enter sale date
+Current Date,TODAY(),Auto-calculated
+Days Since Sale,0,Days elapsed
+Days Remaining,0,60 - days elapsed
+
+Deadline Status:
+[ ] OVERDUE - Report immediately
+[ ] 7 DAYS - Final warning
+[ ] 14 DAYS - Time running out
+[ ] 30 DAYS - Start preparing
+[ ] 60 DAYS - Plenty of time
+
+Required Information:
+[ ] Property address
+[ ] Sale price
+[ ] Purchase price (or inheritance value)
+[ ] Purchase date
+[ ] Any improvements over £1,000
+[ ] CGT estimate (if any)
+
+How to Report:
+1. Log in to HMRC Personal Tax Account
+2. Go to "Report capital gains"
+3. Complete the property details
+4. Pay any CGT due
+5. Deadline: 60 days from sale
+
+Late Filing Penalties:
+- 1-15 days late: £100
+- 16-30 days late: £200
+- 31-60 days late: 5% of tax (min £200)
+- 61-90 days late: 10% of tax (min £400)
+- Over 90 days: 20% of tax (min £600)
+
+Note: Must report even if no tax is due!

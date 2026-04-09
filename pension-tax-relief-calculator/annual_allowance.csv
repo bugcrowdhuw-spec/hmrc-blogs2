@@ -1,0 +1,31 @@
+Description,Amount GBP,Notes
+Total Pension Contributions (Year),0,All contributions this tax year
+Employer Contributions,0,Your employer's contribution
+Your Own Contributions,0,Your personal contributions
+
+Annual Allowance:
+Maximum Allowable,60000,2025/26 allowance
+Your Total Contributions,0,
+Allowance Remaining,0,60,000 - your total
+
+Carry Forward Available:
+Previous Year 1,0,2023/24 unused allowance
+Previous Year 2,0,2022/23 unused allowance
+Previous Year 3,0,2021/22 unused allowance
+TOTAL CARRY FORWARD,0,Sum of unused allowances
+
+Total Available Allowance:
+Annual Allowance,60000,
+Plus Carry Forward,0,
+TOTAL AVAILABLE,0,
+
+If Over Allowance:
+Excess Amount,0,Over £60,000
+Annual Allowance Tax,0,Excess x your tax rate
+This is an annual charge - taxed as income
+
+Notes:
+- Carry forward only if you were in a pension scheme
+- Must have relevant UK earnings to get relief
+- Can use carry forward from up to 3 previous years
+- Unused allowance cannot be carried forward beyond 3 years

@@ -1,0 +1,19 @@
+Description,Amount GBP,Notes
+Your Contribution (from salary),0,Amount you pay in
+Basic Rate Tax Relief (20%),0,Added automatically by pension provider
+TOTAL TO PENSION,0,Your contribution + 20% relief
+
+How It Works:
+- You contribute from your gross (pre-tax) salary
+- Pension provider claims 20% from HMRC
+- Added to your pension automatically
+
+Example:
+You pay: £800
+20% relief added: £200
+Total to pension: £1,000
+
+Cost to you: £800 (pre-tax income)
+Pension receives: £1,000
+
+Note: This is why pension contributions are "tax-free" - you get £1,000 for £800 cost.

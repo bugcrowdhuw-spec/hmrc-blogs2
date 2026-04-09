@@ -1,0 +1,11 @@
+Date,Expense ID,Description,Category,Amount GBP,VAT,Vintage/Handmade/Personal
+2025-04-20,EXP001,Packaging boxes,Packaging,15.00,No,Vintage
+2025-04-25,EXP002,Postage scales,Equipment,25.00,Yes,All
+2025-05-01,EXP003,Business insurance,Insurance,120.00,No,Vintage
+2025-05-10,EXP004,Photo lightbox,Equipment,35.00,No,Handmade
+2025-05-12,EXP005,Shipping labels,Postage,22.00,No,All
+2025-05-15,EXP006,Customs forms (international),Postage,8.50,No,All
+2025-05-20,EXP007,Vintage sourcing trip,Travel,45.00,No,Vintage
+2025-05-25,EXP008,Website/listing fees,Subscription,15.00,No,All
+2025-05-28,EXP009,Packing tape,Packaging,6.00,No,All
+2025-06-01,EXP010,Home office portion,Overhead,50.00,No,All

@@ -1,0 +1,43 @@
+Description,Amount GBP,Notes
+Business Asset Value,0,Share of business/partnership
+Business Type,0,Sole trader, partnership, company
+
+Business Relief Rates:
+- 100% Relief: Relevant business property
+- 50% Relief: Certain other assets
+
+100% Relief (Full Exemption):
+- Unquoted shares in trading company
+- Unquoted trading partnership interest
+- Controlling share in quoted company
+- Business premises (let by trading business)
+- Agricultural land (if agricultural value)
+
+50% Relief (Partial Exemption):
+- Shares in quoted company (non-controlling)
+- Land/buildings not used in business
+- Furniture/fixtures
+
+Calculation:
+Business Value,0,
+Relief Rate,0%,Enter 100% or 50%
+REDUCTION,0,Value x relief rate
+TAXABLE,0,Value - reduction
+
+Example - 100% Relief:
+Business worth: £500,000
+Relief: 100% = £500,000
+Taxable: £0
+No IHT on full business value!
+
+Example - 50% Relief:
+Business worth: £500,000
+Relief: 50% = £250,000
+Taxable: £250,000
+
+Conditions:
+- Must have owned 2+ years (or replacement property)
+- Business must be trading (not investment)
+- Must pass to beneficiary who continues business
+
+Note: Complex rules - verify with accountant.

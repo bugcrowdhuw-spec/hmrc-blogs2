@@ -1,0 +1,18 @@
+Income Source,Total GBP,Tax Year,Notes
+Dividend Income (ISA),0,2025/26,Tax-free
+Dividend Income (General),0,2025/26,Taxable
+Dividend Income (Pension),0,2025/26,Usually tax-free
+Interest Income (ISA),0,2025/26,Tax-free
+Interest Income (General),0,2025/26,Taxable (may have 20% deducted)
+Capital Gains,0,2025/26,Within exemption?
+TOTAL INVESTMENT INCOME,0,2025/26,For Self Assessment
+
+Instructions:
+1. Sum totals from dividend_tracker.csv, interest_tracker.csv, cgt_calculator.csv
+2. Enter totals in the "Total GBP" column
+3. This summary is for your tax return
+
+Income Summary:
+- Dividends (non-ISA): Add to income for tax purposes
+- Interest (non-ISA): Add to income for tax purposes
+- CGT: Separate tax, uses different rates

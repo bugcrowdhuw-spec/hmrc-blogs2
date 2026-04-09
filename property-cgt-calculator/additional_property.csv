@@ -1,0 +1,40 @@
+Description,Amount GBP,Notes
+Property Details,0,Second/additional property address
+Purchase Price,0,Price paid
+Purchase Date,0,YYYY-MM-DD
+Purchase Costs,0,Fees, stamp duty
+Improvements,0,Capital improvements
+
+Sale Details:
+Sale Price,0,
+Sale Date,0,
+Sale Costs,0,
+
+Gross Gain,0,As before
+
+Annual Exemption,3000,CGT allowance
+
+Taxable Before Surcharge,0,Gross - exemption
+
+Additional Property Surcharge:
+Surcharge Rate,3%,Applied to entire gain
+Surcharge Amount,0,Gain x 3%
+
+Total Taxable Gain:
+Gain After Exemption,0,
+Plus: Surcharge,0,
+TOTAL,0,
+
+CGT at Basic Rate (18%),0,
+CGT at Higher Rate (24%),0,
+TOTAL CGT DUE,0,
+
+Surcharge Rules:
+- Applies to ANY additional residential property
+- Even if you sell main residence first
+- Does NOT apply to:
+  - Property you inherited (if not your main home)
+  - Commercial property
+  - Mixed use property
+
+Note: If replacing main residence, may get relief from surcharge for 9 months.

@@ -1,0 +1,39 @@
+Description,Amount GBP,Notes
+Property Details,0,Address of inherited property
+Date of Death,0,YYYY-MM-DD
+Value at Death,0, probate valuation
+
+Sale Details:
+Sale Price,0,Current sale price
+Sale Date,0,YYYY-MM-DD
+Sale Costs,0,Legal fees, agent fees
+
+Calculation:
+Sale Price,0,
+Less: Value at Death,0,Use probate value
+Less: Sale Costs,0,
+GROSS GAIN,0,
+
+Inheritance Relief:
+Time Period,0,Months from death to sale
+Relief Available?,No,Check if any periods qualify
+
+Annual Exemption,3000,2025/26
+
+Taxable Gain:
+Gross Gain,0,
+Less: Annual Exemption,0,
+TOTAL TAXABLE GAIN,0,
+
+CGT Tax:
+At Basic Rate (18%),0,
+At Higher Rate (24%),0,
+TOTAL CGT DUE,0,
+
+Key Points:
+- Base cost = value at date of death (not original purchase)
+- Usually inheritance legised as lifetime gift or on death
+- If you move in, may claim main residence relief
+- Report within 60 days of sale
+
+Note: If property was main residence at any time, may claim PRR for that period.

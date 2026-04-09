@@ -1,0 +1,36 @@
+{{ define "main" }}
+<article class="post">
+  <header>
+    <h1>{{ .Title }}</h1>
+    <div class="meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      {{ with .ReadingTime }} · {{ . }} min read{{ end }}
+    </div>
+    {{ with .Params.tags }}
+    <div class="tags">
+      {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+  </header>
+  <div class="content">
+    {{ .Content }}
+  </div>
+  <div class="cta-box cta-inline">
+    <h3>📊 Free: MTD Readiness Checklist for Property Managers</h3>
+    <p>Find out if you're ready for Making Tax Digital — and what to fix before April 2026. Download the free checklist.</p>
+    <a href="/posts/mtd-readiness-checklist/" class="cta-button">Download Free Checklist →</a>
+  </div>
+</article>
+<script>
+(function() {
+  var content = document.querySelector('.content');
+  if (!content) return;
+  var paragraphs = content.querySelectorAll('p');
+  if (paragraphs.length < 4) return;
+  var cta = document.createElement('div');
+  cta.className = 'cta-box cta-inline';
+  cta.innerHTML = '<h3>Stop doing HMRC reports by hand</h3><p>HMRC Reporter turns your Airbnb, Booking.com, and 25+ other platform exports into compliant XML — automatically.</p><a href="https://hmrcreporter.com/" class="cta-button">Try HMRC Reporter Free →</a>';
+  paragraphs[3].after(cta);
+})();
+</script>
+{{ end }}

@@ -1,0 +1,16 @@
+Date,Source,Description,Amount GBP,Payslip Ref,Platform,Hours Worked,Notes
+2025-04-12,Uber,Weekend driving,185.50,UB0425,Uber,8,
+2025-04-15,Fiverr,Logo design client,120.00,FV001,Fiverr,4,US client
+2025-04-20,Deliveroo,Week cycling,95.00,DR0420,Deliveroo,6,
+2025-04-22,Tutor,Maths tutoring,60.00,T002,Private,2,Weekly student
+2025-04-25,Uber,Week driving,210.00,UB0425,Uber,10,
+2025-04-28,Fiverr,Web development,350.00,FV002,Fiverr,12,Small business client
+2025-05-01,Deliveroo,May Day cycling,110.00,DR0501,Deliveroo,7,
+2025-05-05,Uber,Week driving,195.00,UB0505,Uber,9,
+2025-05-10,Tutor,Maths tutoring,60.00,T005,Private,2,Weekly student
+
+Instructions:
+1. Enter each payment from your side hustle
+2. Sources include: Uber, Lyft, Deliveroo, Just Eat, Fiverr, Upwork, TaskRabbit, private tutoring, etc.
+3. Keep payslip references for records
+4. Hours worked is optional but useful for hourly rate calculations

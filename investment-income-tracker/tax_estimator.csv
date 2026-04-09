@@ -1,0 +1,27 @@
+Description,Amount GBP,Notes
+Other Income (Salary/Pension),0,Enter your other income
+Dividend Income (non-ISA),0,From dividend tracker
+Interest Income (non-ISA),0,From interest tracker
+TOTAL INCOME,0,Sum all income
+
+Dividend Tax Calculation:
+Taxable Dividends,0,Total dividends minus £500 allowance
+Dividend Rate (check band),0%,Basic: 8.75%, Higher: 33.75%, Additional: 39.35%
+Dividend Tax Owed,0,
+
+Capital Gains Tax Calculation:
+Total Gains,0,From CGT calculator
+CGT Exemption,3000,Annual exemption 2025/26
+Taxable Gains,0,Gains minus exemption
+CGT Rate,0%,Basic: 10%, Higher: 20%
+CGT Tax Owed,0,
+
+TOTAL INVESTMENT TAX,0,Sum dividend + CGT tax
+
+Income Tax Bands 2025/26:
+- Personal Allowance: £12,570
+- Basic Rate: £12,571 - £50,270 (20%)
+- Higher Rate: £50,271 - £125,140 (40%)
+- Additional Rate: £125,141+ (45%)
+
+Note: This is an estimate only. Get professional advice.

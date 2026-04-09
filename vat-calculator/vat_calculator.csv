@@ -1,0 +1,27 @@
+Description,Amount GBP,Notes
+NET (excluding VAT),0,Enter the amount WITHOUT VAT
+
+Add VAT:
+VAT Rate,20%,Enter rate: 20%, 5%, or 0%
+VAT Amount,0,NET x VAT Rate
+GROSS (including VAT),0,NET + VAT Amount
+
+Remove VAT (Find NET from GROSS):
+GROSS (including VAT),0,Enter amount WITH VAT
+VAT Rate,20%,Enter rate used
+NET (excluding VAT),0,GROSS / (1 + VAT Rate)
+VAT Element,0,GROSS - NET
+
+Common Rates:
+- Standard: 20%
+- Reduced: 5% (energy, children's car seats, sanitary products
+- Zero: 0% (food, books, children's clothing, transport)
+
+Reverse Calculation:
+If you have £120 including 20% VAT:
+= 120 / 1.20 = £100 NET
+= £20 VAT
+
+If you have £105 including 5% VAT:
+= 105 / 1.05 = £100 NET
+= £5 VAT

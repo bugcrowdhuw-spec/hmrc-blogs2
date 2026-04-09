@@ -1,0 +1,20 @@
+Description,Amount GBP,Notes
+Total Dividends (General Account),0,From dividend tracker (non-ISA)
+Dividend Allowance,500,Tax-free amount in 2025/26
+Dividends Over Allowance,0,Taxable at your marginal rate
+
+Dividend Tax Rates 2025/26:
+- Basic Rate (up to £12,570): 8.75%
+- Higher Rate (£12,571-£50,270): 33.75%
+- Additional Rate (£50,271+): 39.35%
+
+Instructions:
+1. Enter total dividends from non-ISA accounts
+2. First £500 is tax-free
+3. Amount over £500 is taxed at your income tax rate
+
+Example:
+- Total dividends: £2,000
+- Allowance: £500
+- Taxable: £1,500
+- If basic rate taxpayer: £1,500 x 8.75% = £131.25 tax

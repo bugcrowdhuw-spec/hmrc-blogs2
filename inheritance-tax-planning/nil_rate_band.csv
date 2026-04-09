@@ -1,0 +1,34 @@
+Description,Amount GBP,Notes
+Nil-Rate Band,325000,Standard band 2025/26
+Spouse Nil-Rate Band,325000,Can transfer unused
+TOTAL AVAILABLE,650000,If married/civil partners
+
+Used on Previous Gifts/Given:
+Gifts Made So Far,0,From previous years
+REMAINING,0,325,000 - used
+
+If Married/Civil Partners:
+Partner's Estate,0,Their estate value
+Partner's Used,0,Their used nil-rate band
+Unused Transferred,0,Their unused to you
+YOUR TOTAL NRB,0,Your 325k + transferred
+
+Transferring Allowance:
+Must be married/civil partners at time of death
+Can transfer any unused nil-rate band
+No tax to pay on passing to spouse/partner
+Total available: £650,000 for married couples
+
+Example - Single Person:
+Estate: £500,000
+Nil-Rate Band: £325,000
+Taxable: £175,000
+IHT: £70,000 (40%)
+
+Example - Married:
+Estate: £1,000,000
+Nil-Rate Band: £650,000 (both nil-rate bands)
+Taxable: £350,000
+IHT: £140,000 (40%)
+
+Note: Nil-rate band frozen until 2028 at £325,000.

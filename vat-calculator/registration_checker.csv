@@ -1,0 +1,28 @@
+Description,Amount GBP,Notes
+Annual Taxable Supplies,0,Enter your annual sales (past 12 months)
+Expected Taxable Supplies,0,Expected next 12 months
+Total,0,Sum of above
+
+12-Month Rolling Test:
+Current Rolling Total,0,Check if over £90,000
+Distance to Threshold,0,£90,000 minus your total
+Required Action,0,Register if over threshold
+
+Registration Requirements:
+[ ] Over £90,000 = MUST register
+[ ] Expect to go over = CAN register voluntarily
+[ ] Under £90,000 = No requirement
+
+Deregistration:
+If you drop below £88,000, you CAN deregister.
+
+Key Dates:
+- Notification deadline: 30 days before reaching threshold
+- Effective date: Registration date + 1 day
+- First return: Usually 3 months after registration
+
+Important:
+- Must register if you make taxable supplies over £90,000
+- Can register voluntarily if below threshold
+- Registration is backdated if HMRC finds you should have registered
+- Penalty for late registration

@@ -1,0 +1,12 @@
+Date,Provider,Account Type,Symbol/Name,Shares,Dividend GBP,Gross Dividend,Currency,Tax Year
+2025-04-15,Vanguard,S&P 500 ETF,VUSA,100,25.50,25.50,GBP,2025/26
+2025-04-20,Hargreaves Lansdown,General,BP,200,18.00,18.00,GBP,2025/26
+2025-05-01,Freetrade,ISA,TSLA,50,0.00,0.00,USD,2025/26
+2025-06-30,Vanguard,ISA,VUKD,150,35.00,35.00,GBP,2025/26
+2025-07-15,iWeb,General,LLOY,500,12.50,12.50,GBP,2025/26
+
+Instructions:
+1. Enter your dividend payments as received
+2. Account Type: ISA (tax-free), General (taxable), Pension
+3. Gross Dividend = amount before tax taken
+4. For non-GBP, convert at exchange rate on date received

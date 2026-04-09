@@ -1,0 +1,15 @@
+Description,Value GBP,Notes
+Total Trading Income,0,Sum from income tracker
+Less: Allowable Expenses,0,Sum from expenses calculator
+Net Trading Profit,0,Income minus expenses
+Trading Allowance,1000,Tax-free first £1000
+Taxable Amount,0,If negative, no tax owed
+
+Instructions:
+1. Enter your total trading income from all platforms
+2. Enter total allowable expenses
+3. Net profit calculates automatically
+4. If under £1000, no tax owed (using trading allowance)
+5. If over £1000, the excess is taxable as income
+
+Note: You can only claim trading allowance OR expenses - not both. Choose whichever gives lower tax.

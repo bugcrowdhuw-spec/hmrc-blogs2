@@ -1,0 +1,37 @@
+Description,Amount GBP,Notes
+Purchase Price,0,Price paid for property
+Purchase Date,0,YYYY-MM-DD
+Purchase Costs,0,Solicitor fees, stamp duty, survey
+
+Sale Details:
+Sale Price,0,Expected or agreed sale price
+Sale Date,0,YYYY-MM-DD
+Sale Costs,0,Solicitor fees, estate agent fees
+
+Calculation:
+Sale Price,0,
+Less: Purchase Price,0,
+Less: Purchase Costs,0,
+Less: Sale Costs,0,
+GROSS GAIN,0,
+
+Private Residence Relief:
+Total Ownership Months,0,Total months owned
+Qualifying Months,0,Months as main residence
+Final Period Exemption,9,Months (max 9)
+Total Relief Months,0,Qualifying + final
+Relief Percentage,0,Relief months / Total months
+PRR Amount,0,Gross Gain x Relief %
+
+Taxable Gain:
+Gross Gain,0,
+Less: PRR,0,
+Less: Annual Exemption,3000,2025/26
+TOTAL TAXABLE GAIN,0,
+
+CGT Tax:
+Taxable Gain,0,
+CGT Rate (Basic 18%/Higher 24%),0%,
+CGT Tax Due,0,
+
+Note: Final period exemption reduced from 18 to 9 months from April 2020.

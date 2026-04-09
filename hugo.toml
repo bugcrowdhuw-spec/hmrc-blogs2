@@ -1,0 +1,22 @@
+baseURL = "https://blog.hmrcreporter.com/"
+languageCode = "en-gb"
+title = "HMRC Reporter Blog"
+theme = "simple"
+buildFuture = true
+buildDrafts = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Expert guides on HMRC reporting, Making Tax Digital, and Airbnb tax compliance for UK property managers."
+
+[pagination]
+  paginate = 50
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
