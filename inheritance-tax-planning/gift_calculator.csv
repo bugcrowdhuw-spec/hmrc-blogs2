@@ -1,0 +1,41 @@
+Description,Amount GBP,Notes
+Gift Value,0,Value of gift given
+Gift Date,0,YYYY-MM-DD
+Current Date,TODAY,Auto-calculated
+Years Since Gift,0,Calculate automatically
+
+7-Year Rule:
+Years Elapsed,0,
+Status: EXEMPT or TAXABLE?,0,If over 7 years = exempt
+
+Gift Tax Taper (if die within 7 years):
+Years After Gift,Taper Rate,Tax Payable
+3-4 years,32%,Reduced from 40%
+4-5 years,24%,Reduced from 40%
+5-6 years,16%,Reduced from 40%
+6-7 years,8%,Reduced from 40%
+7+ years,0%,Fully exempt
+
+Annual Exemption:
+£3,000 per year,Can carry forward 1 year
+Wedding Gifts,0,Various limits
+
+Example 1:
+Gift: £200,000 (5 years ago)
+Time: 5 years (in 5-6 band)
+Taper: 16%
+If die now: £200,000 x 16% = £32,000 IHT
+
+Example 2:
+Gift: £100,000 (8 years ago)
+Time: 8 years (over 7)
+Fully exempt - no IHT
+
+Types of Gifts:
+- Cash gifts
+- Property
+- Shares
+- Business assets
+- Personal possessions
+
+Note: Track all gifts - may use up nil-rate band!
