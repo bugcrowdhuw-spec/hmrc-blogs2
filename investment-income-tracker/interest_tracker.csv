@@ -1,0 +1,12 @@
+Date,Provider,Account Type,Interest Type,Amount GBP,Gross Interest,Currency,Tax Year
+2025-04-01,Cumberland,ISA,Savings,125.00,125.00,GBP,2025/26
+2025-04-30,NatWest,Current Account,Savings,2.50,2.50,GBP,2025/26
+2025-06-30,Cumberland,General,Bond,450.00,450.00,GBP,2025/26
+2025-09-30,Cumberland,ISA,Savings,125.00,125.00,GBP,2025/26
+2025-12-31,Cumberland,ISA,Savings,125.00,125.00,GBP,2025/26
+
+Instructions:
+1. Enter interest payments as received
+2. Account Type: ISA (tax-free), General (taxable)
+3. Interest Type: Savings, Bond, Peer-to-peer
+4. Gross Interest = amount before any tax taken

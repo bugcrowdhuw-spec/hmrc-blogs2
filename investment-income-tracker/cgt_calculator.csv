@@ -1,0 +1,17 @@
+Date Sold,Asset,Purchase Date,Purchase Price,Sale Price,Fees,Net Gain,Category,CGT Year
+2025-05-15,Crypto-BTC,2023-01-15,5000,8000,50,2950,Crypto,2025/26
+2025-06-20,Shares-VUSA,2022-03-01,2500,3000,10,490,Shares,2025/26
+2025-08-10,Crypto-ETH,2024-06-01,1500,2200,25,675,Crypto,2025/26
+2025-10-01,Property-Boat,2020-05-15,5000,3500,200,-700,Personal,2025/26
+
+Instructions:
+1. Enter each sale (asset, purchase date, purchase price, sale price)
+2. Fees include broker fees, transaction costs
+3. Net Gain = Sale Price - Purchase Price - Fees
+4. For personal items sold at loss, no CGT
+5. Crypto is now subject to CGT
+
+CGT Rates (2025/26):
+- Basic Rate (up to £37,700 income): 10%
+- Higher/Additional Rate: 20%
+- Annual Exemption: £3,000
