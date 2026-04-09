@@ -40,3 +40,5 @@ Example:
 2022/23: Used £60,000, unused £0 - nothing to carry forward
 
 Total available: £30,000 + £15,000 = £45,000
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

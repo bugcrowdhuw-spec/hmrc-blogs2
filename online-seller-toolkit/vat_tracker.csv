@@ -11,3 +11,5 @@ Q3 (Oct-Dec),0,
 Q4 (Jan-Mar),0,
 
 Note: Must register for VAT if turnover exceeds £90,000 in any 12-month period. Once registered, must charge VAT on sales and can reclaim VAT on expenses.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

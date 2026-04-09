@@ -5,3 +5,5 @@ Nov 2025,Retail,15,11.44,171,Christmas temp
 Dec 2025,Delivery,25,10.00,250,Part-time
 
 Total,0
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

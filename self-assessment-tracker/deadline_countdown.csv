@@ -17,3 +17,5 @@ How to calculate days remaining:
 Red = Less than 30 days
 Yellow = 30-90 days
 Green = More than 90 days
+===== FORMULAS =====
+TOTAL,=SUM(A2:A1000)

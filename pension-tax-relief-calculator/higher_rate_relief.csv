@@ -39,3 +39,5 @@ How to Claim:
 - Can backclaim up to 4 years
 
 Note: Higher rate relief is NOT added automatically - you must claim it!
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

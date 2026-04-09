@@ -41,3 +41,5 @@ Conditions:
 - Must pass to beneficiary who continues business
 
 Note: Complex rules - verify with accountant.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

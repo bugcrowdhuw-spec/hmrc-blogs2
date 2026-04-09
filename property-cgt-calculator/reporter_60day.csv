@@ -39,3 +39,5 @@ Late Filing Penalties:
 - Over 90 days: 20% of tax (min £600)
 
 Note: Must report even if no tax is due!
+===== FORMULAS =====
+TOTAL,=SUM(A2:A1000)

@@ -9,3 +9,5 @@ TOTAL GAIN,0
 TOTAL LOSS,0
 
 CGT: Gain - 3000 exemption x 10% or 20%
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

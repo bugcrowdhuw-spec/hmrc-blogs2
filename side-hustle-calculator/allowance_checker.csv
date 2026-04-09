@@ -28,3 +28,5 @@ Example:
 - Taxable: £3,500
 
 Note: Trading allowance is for miscellaneous income. If this is your main self-employment, you claim expenses instead.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

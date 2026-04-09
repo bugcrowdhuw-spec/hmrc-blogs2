@@ -13,3 +13,6 @@ POA,4,Calculate payments,Work out 50% of last year's tax
 POA,1,Set up payment,Direct debit or bank transfer
 Tax Year End,4,End of year tasks,Prep for new tax year
 Tax Year End,2,File previous year,If not already done
+
+===== FORMULAS =====
+TOTAL,=SUM(A2:A1000)

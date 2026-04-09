@@ -19,3 +19,5 @@ Basic Rate (up to £37700 income),10%,Applies to gains within income band
 Higher Rate,20%,Applies to gains above income threshold
 
 Note: CGT applies when you sell items for profit. Personal items sold for less than bought are not CGT - only gains are taxable. Keep records of purchase price and sale price.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

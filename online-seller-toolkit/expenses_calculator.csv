@@ -9,3 +9,8 @@ Date,Expense ID,Description,Category,Amount GBP,VAT,Vintage/Handmade/Personal
 2025-05-25,EXP008,Website/listing fees,Subscription,15.00,No,All
 2025-05-28,EXP009,Packing tape,Packaging,6.00,No,All
 2025-06-01,EXP010,Home office portion,Overhead,50.00,No,All
+
+SUMMARY
+Total Expenses,=SUM(E2:E1000)
+VAT Reclaimable,=SUMIF(F2:F1000,"Yes",E2:E1000*0.2)
+Number of Items,=COUNTA(E2:E1000)

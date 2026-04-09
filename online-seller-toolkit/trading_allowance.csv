@@ -13,3 +13,5 @@ Instructions:
 5. If over £1000, the excess is taxable as income
 
 Note: You can only claim trading allowance OR expenses - not both. Choose whichever gives lower tax.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

@@ -37,3 +37,5 @@ When It Doesn't Apply:
 - Land
 
 Note: If you use flat rate scheme, you still charge VAT normally. Reverse charge is for standard scheme users.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

@@ -39,3 +39,5 @@ Types of Gifts:
 - Personal possessions
 
 Note: Track all gifts - may use up nil-rate band!
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

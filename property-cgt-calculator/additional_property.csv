@@ -38,3 +38,5 @@ Surcharge Rules:
   - Mixed use property
 
 Note: If replacing main residence, may get relief from surcharge for 9 months.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

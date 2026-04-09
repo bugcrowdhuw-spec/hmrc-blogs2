@@ -42,3 +42,5 @@ Common Uses:
 - Life interest for spouse
 
 Note: Get professional advice - trusts are complex.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

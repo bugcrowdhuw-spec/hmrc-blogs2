@@ -18,3 +18,5 @@ Example:
 - Allowance: £500
 - Taxable: £1,500
 - If basic rate taxpayer: £1,500 x 8.75% = £131.25 tax
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

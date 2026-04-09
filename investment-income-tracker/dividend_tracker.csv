@@ -10,3 +10,6 @@ Instructions:
 2. Account Type: ISA (tax-free), General (taxable), Pension
 3. Gross Dividend = amount before tax taken
 4. For non-GBP, convert at exchange rate on date received
+
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

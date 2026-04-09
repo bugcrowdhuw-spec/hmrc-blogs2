@@ -40,3 +40,5 @@ Plus State Pension,0,
 TOTAL ESTIMATED,0,
 
 Note: This is an estimate only. Get professional financial advice.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

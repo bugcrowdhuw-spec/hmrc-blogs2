@@ -36,3 +36,5 @@ CGT at Higher Rate (24%),0,24% of higher rate portion
 TOTAL CGT DUE,0,
 
 Note: Buy-to-let has no main residence relief. Full CGT applies.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

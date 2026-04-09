@@ -17,3 +17,5 @@ Cost to you: £800 (pre-tax income)
 Pension receives: £1,000
 
 Note: This is why pension contributions are "tax-free" - you get £1,000 for £800 cost.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

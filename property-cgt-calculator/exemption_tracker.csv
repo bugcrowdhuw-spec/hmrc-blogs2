@@ -32,3 +32,5 @@ Planning Tips:
 - Use exemption before year end
 - If selling multiple properties, use exemption on one
 - Don't forget gains from shares/other assets
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

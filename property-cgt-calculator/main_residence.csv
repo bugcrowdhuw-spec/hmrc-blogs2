@@ -35,3 +35,5 @@ CGT Rate (Basic 18%/Higher 24%),0%,
 CGT Tax Due,0,
 
 Note: Final period exemption reduced from 18 to 9 months from April 2020.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

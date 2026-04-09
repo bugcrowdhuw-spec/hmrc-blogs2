@@ -20,3 +20,5 @@ Notes:
 - Business portion: % of cost that is for business use
 - Keep all receipts for 7 years
 - If using car for personal, claim mileage instead
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

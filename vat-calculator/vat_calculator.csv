@@ -25,3 +25,5 @@ If you have £120 including 20% VAT:
 If you have £105 including 5% VAT:
 = 105 / 1.05 = £100 NET
 = £5 VAT
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

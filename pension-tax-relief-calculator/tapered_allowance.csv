@@ -33,3 +33,5 @@ Key Points:
 - Both thresholds can change annually
 
 Note: Taper only affects those with high incomes. Most people unaffected.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

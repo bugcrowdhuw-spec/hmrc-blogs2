@@ -33,3 +33,5 @@ Why NIC Matters:
 - Counts towards State Pension
 - Creates qualifying years for benefits
 - Automatically collected via Self Assessment
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

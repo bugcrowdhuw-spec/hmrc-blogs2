@@ -43,3 +43,5 @@ Common Flat Rate Percentages:
 - Wholesaling: 8%
 
 Note: If your VAT-inclusive turnover is under £150,000, you can use flat rate. You cannot reclaim input VAT (except for certain items).
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

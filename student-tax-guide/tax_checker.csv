@@ -4,3 +4,5 @@ Personal Allowance,12570,Everyone gets this
 Taxable Income,0,If under allowance = no tax
 
 Under £12,570 = NO INCOME TAX
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

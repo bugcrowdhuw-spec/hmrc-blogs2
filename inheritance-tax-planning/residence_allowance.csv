@@ -43,3 +43,5 @@ Direct Descendants:
 - Spouses of above (if survived)
 
 Note: If downsizing after July 2020, may preserve RRB.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

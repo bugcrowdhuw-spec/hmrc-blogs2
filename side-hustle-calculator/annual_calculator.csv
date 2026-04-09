@@ -24,3 +24,5 @@ Year-End Tasks:
 [ ] Ensure records match accounts
 [ ] Calculate final tax
 [ ] File Self Assessment by 31 Jan
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

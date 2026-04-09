@@ -14,3 +14,5 @@ Instructions:
 2. Sources include: Uber, Lyft, Deliveroo, Just Eat, Fiverr, Upwork, TaskRabbit, private tutoring, etc.
 3. Keep payslip references for records
 4. Hours worked is optional but useful for hourly rate calculations
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

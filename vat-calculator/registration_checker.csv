@@ -26,3 +26,5 @@ Important:
 - Can register voluntarily if below threshold
 - Registration is backdated if HMRC finds you should have registered
 - Penalty for late registration
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

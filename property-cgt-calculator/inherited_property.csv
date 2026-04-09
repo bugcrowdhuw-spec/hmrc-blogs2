@@ -37,3 +37,5 @@ Key Points:
 - Report within 60 days of sale
 
 Note: If property was main residence at any time, may claim PRR for that period.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

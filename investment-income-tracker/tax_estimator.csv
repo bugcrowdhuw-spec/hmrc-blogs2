@@ -25,3 +25,5 @@ Income Tax Bands 2025/26:
 - Additional Rate: £125,141+ (45%)
 
 Note: This is an estimate only. Get professional advice.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

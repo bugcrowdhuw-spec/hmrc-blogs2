@@ -5,3 +5,5 @@ Date,Type,Token,Amount,Value GBP,Income Tax
 2025-07-01,Staking,SOL,2.0,150,Income
 
 Total Income,0,Taxed as income at your rate
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

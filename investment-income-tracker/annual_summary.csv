@@ -16,3 +16,6 @@ Income Summary:
 - Dividends (non-ISA): Add to income for tax purposes
 - Interest (non-ISA): Add to income for tax purposes
 - CGT: Separate tax, uses different rates
+
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

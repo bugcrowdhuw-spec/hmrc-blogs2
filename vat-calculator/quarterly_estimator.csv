@@ -27,3 +27,5 @@ Divide by 4,0,Your quarterly payment estimate
 Adjust each quarter as needed
 
 Note: Returns are due 1 month and 7 days after quarter end. Late filing = penalty.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

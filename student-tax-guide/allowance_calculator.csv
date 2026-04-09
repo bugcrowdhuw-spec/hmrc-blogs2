@@ -1,3 +1,5 @@
 Personal Allowance: 12570,Tax-free income
 Savings Interest: 500,Tax-free interest
 Trading Allowance: 1000,If self-employed
+===== FORMULAS =====
+TOTAL,=SUM(A2:A1000)

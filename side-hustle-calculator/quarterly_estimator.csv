@@ -25,3 +25,5 @@ Tax Rates (2025/26):
 - Basic Rate: 20% on profits £12,571-£50,270
 - Higher Rate: 40% on profits £50,271-£125,140
 - Additional Rate: 45% on profits over £125,140
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

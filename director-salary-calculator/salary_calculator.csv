@@ -3,3 +3,5 @@ NIC,0,Employee NIC
 Take Home,0,After tax
 
 Optimal: 12570 salary + dividends
+===== FORMULAS =====
+TOTAL,=SUM(A2:A1000)

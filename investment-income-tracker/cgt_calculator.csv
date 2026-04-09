@@ -15,3 +15,5 @@ CGT Rates (2025/26):
 - Basic Rate (up to £37,700 income): 10%
 - Higher/Additional Rate: 20%
 - Annual Exemption: £3,000
+===== FORMULAS =====
+TOTAL,=SUM(A2:A1000)

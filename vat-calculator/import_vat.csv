@@ -41,3 +41,5 @@ Zero Rating (if applicable):
 - Medical equipment
 
 Note: Keep all customs paperwork for 6 years.
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

@@ -10,3 +10,6 @@ Instructions:
 2. Account Type: ISA (tax-free), General (taxable)
 3. Interest Type: Savings, Bond, Peer-to-peer
 4. Gross Interest = amount before any tax taken
+
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)

@@ -29,3 +29,5 @@ Notes:
 - Must have relevant UK earnings to get relief
 - Can use carry forward from up to 3 previous years
 - Unused allowance cannot be carried forward beyond 3 years
+===== FORMULAS =====
+TOTAL,=SUM(B2:B1000)
