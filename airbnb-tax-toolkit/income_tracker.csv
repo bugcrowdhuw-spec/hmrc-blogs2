@@ -1,3 +1,8 @@
-Property Name,Address,Platform,Tax Status
-1,Example Property 1,Airbnb,FHL
-2,Example Property 2,Booking.com,FHL
+Date,Property,Description,Category,Amount GBP,VAT,Receipt Ref
+2025-04-01,1,Cleaning services,Cleaning,50.00,No,EXP001
+2025-04-15,1,Property insurance,Insurance,120.00,No,EXP002
+2025-05-01,2,Repairs - plumbing,Repairs,200.00,Yes,EXP003
+
+INCOME TOTALS
+Total Income,=SUM(E2:E1000)
+Number of Transactions,=COUNTA(E2:E1000)

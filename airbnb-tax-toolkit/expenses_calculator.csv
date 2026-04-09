@@ -2,3 +2,8 @@ Date,Property,Description,Category,Amount GBP,VAT,Receipt Ref
 2025-04-01,1,Cleaning services,Cleaning,50.00,No,EXP001
 2025-04-15,1,Property insurance,Insurance,120.00,No,EXP002
 2025-05-01,2,Repairs - plumbing,Repairs,200.00,Yes,EXP003
+
+EXPENSES SUMMARY
+Total Expenses,=SUM(E2:E1000)
+Total VAT Reclaimable,=SUMIF(F2:F1000,"Yes",E2:E1000*0.2)
+Number of Items,=COUNTA(E2:E1000)
