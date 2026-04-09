@@ -39,13 +39,21 @@
 
 ---
 
+## Gumroad Listing
+
+**Title:** VAT Calculator for Small Business UK - Registration & Returns  
+**Price:** £27  
+**Tags:** VAT, Tax, Business, HMRC, UK, Registration, Calculator
+
+---
+
 ## Pricing
 
 | Tier | Price | Features |
 |------|-------|----------|
 | **Basic** | £17 | Registration + calculator |
-| **Pro** | £37 | Full toolkit + flat rate |
-| **Business** | £67 | Everything + import VAT |
+| **Pro** | £27 | Full toolkit + flat rate |
+| **Business** | £37 | Everything + import VAT |
 
 ---
 

@@ -39,13 +39,21 @@
 
 ---
 
+## Gumroad Listing
+
+**Title:** Side Hustle Tax Calculator - Uber, Deliveroo, Fiverr, Freelancers  
+**Price:** £37  
+**Tags:** Side Hustle, Uber, Deliveroo, Freelancer, Tax, Self Employment, UK
+
+---
+
 ## Pricing
 
 | Tier | Price | Features |
 |------|-------|----------|
 | **Starter** | £17 | Income + expenses |
-| **Pro** | £37 | Full + quarterly |
-| **Ultimate** | £57 | Everything + 12-month support |
+| **Pro** | £37 | Full calculator + quarterly |
+| **Ultimate** | £47 | Everything + 12-month support |
 
 ---
 
