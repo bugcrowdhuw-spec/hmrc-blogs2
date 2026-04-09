@@ -1,0 +1,35 @@
+Description,Amount GBP,Notes
+Adjusted Income,0,Total income including pension contributions
+Threshold Income,260000,Threshold for taper (2025/26)
+Excess Over Threshold,0,Adjusted income - 260,000
+
+Taper Calculation:
+For every £2 over £260,000:
+Allowance reduced by £1
+
+Reduction in Allowance:
+Excess ÷ 2,0,Your taper reduction
+Annual Allowance,60000,
+TAPERED ALLOWANCE,0,60,000 - reduction
+
+Example 1:
+Adjusted Income: £270,000
+Excess: £10,000
+Reduction: £10,000 ÷ 2 = £5,000
+Tapered Allowance: £60,000 - £5,000 = £55,000
+
+Example 2:
+Adjusted Income: £310,000
+Excess: £50,000
+Reduction: £50,000 ÷ 2 = £25,000
+Tapered Allowance: £60,000 - £25,000 = £35,000
+
+Minimum Allowance:
+Taper reduces to minimum of £10,000 (usually around £400k+ income)
+
+Key Points:
+- Adjusted Income = Total income + pension contributions
+- Threshold Income = Adjusted Income - £16,200 (net of personal contribution)
+- Both thresholds can change annually
+
+Note: Taper only affects those with high incomes. Most people unaffected.

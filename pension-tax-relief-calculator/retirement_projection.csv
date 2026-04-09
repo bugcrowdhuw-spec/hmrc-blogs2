@@ -1,0 +1,42 @@
+Description,Amount GBP,Notes
+Current Pension Pot,0,Total accumulated so far
+Current Age,0,Your current age
+Retirement Age,0,When you plan to retire
+Years to Retirement,0,Calculate automatically
+
+Annual Contribution:
+Your Contribution,0,Per year
+Employer Contribution,0,Per year (if applicable)
+TOTAL ANNUAL,0,Sum of contributions
+
+Growth Rate:
+Expected Growth Rate,0,Default 5% (historic average)
+
+Projection (Compound Growth):
+Age 55 Pot,0,If contributing at current rate
+Age 60 Pot,0,
+Age 65 Pot,0,
+Age 67 Pot,0,
+
+Retirement Income Estimates:
+Pot at Retirement,0,From above
+Annual Income (4% drawdown),0,Pot x 4%
+Annual Income (5% drawdown),0,Pot x 5%
+Annual Income (Annuity estimate),0,Depending on rates
+
+Assumptions:
+- Growth rates are illustrative only
+- Inflation not included
+- Investment returns vary
+- Annuity rates change constantly
+
+State Pension:
+Full New State Pension,0,£11,500/year (2025/26)
+Claim Age,0,Currently 67 (rising to 68)
+
+Combined Retirement Income:
+Pension Pot Drawdown,0,
+Plus State Pension,0,
+TOTAL ESTIMATED,0,
+
+Note: This is an estimate only. Get professional financial advice.

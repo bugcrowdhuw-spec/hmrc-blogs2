@@ -1,0 +1,42 @@
+Description,Amount GBP,Notes
+Current Year,2025/26,This tax year
+Annual Allowance,60000,Standard allowance
+
+Previous Year 1 - 2024/25:
+Allowance,60000,
+Used,0,
+UNUSED,0,
+
+Previous Year 2 - 2023/24:
+Allowance,60000,
+Used,0,
+UNUSED,0,
+
+Previous Year 3 - 2022/23:
+Allowance,60000,
+Used,0,
+UNUSED,0,
+
+Total Carry Forward Available,0,Sum of all unused
+
+Using Carry Forward:
+Current Year Allowance,60000,
+Plus Carry Forward Used,0,
+TOTAL AVAILABLE,0,
+
+Your Current Contributions,0,This year
+Remaining After Using AA,0,
+Can Use Carry Forward,0,If still over allowance
+
+Rules:
+- Can use up to 3 years back
+- Only if you were in a pension scheme
+- Must have relevant UK earnings
+- Use oldest unused first
+
+Example:
+2024/25: Used £30,000, unused £30,000 - can carry forward
+2023/24: Used £45,000, unused £15,000 - can carry forward
+2022/23: Used £60,000, unused £0 - nothing to carry forward
+
+Total available: £30,000 + £15,000 = £45,000

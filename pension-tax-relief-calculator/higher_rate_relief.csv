@@ -1,0 +1,41 @@
+Description,Amount GBP,Notes
+Your Contribution,0,What you pay into pension
+Basic Rate Relief Added,0,20% automatically added
+Total in Pension Pot,0,Your contribution + basic relief
+
+Your Income Tax Band:
+- Basic Rate: Up to £50,270
+- Higher Rate: £50,271 - £125,140
+- Additional Rate: Over £125,140
+
+Higher Rate Relief Calculation:
+Total Pension Contribution,0,Including basic relief
+Your Tax Rate,0%,20% higher or 25% additional
+Higher Rate Relief Due,0,Contribution x (Your Rate - 20%)
+
+Example - Higher Rate Taxpayer:
+Contribution: £800
+Basic Relief: £200
+Total: £1,000
+Your Rate: 40%
+Extra Relief: £1,000 x (40% - 20%) = £200
+Total Pension: £1,200
+Your Cost: £800
+Tax Saved: £400
+
+Example - Additional Rate Taxpayer:
+Contribution: £800
+Basic Relief: £200
+Total: £1,000
+Your Rate: 45%
+Extra Relief: £1,000 x (45% - 20%) = £250
+Total Pension: £1,250
+Your Cost: £800
+Tax Saved: £450
+
+How to Claim:
+- Via Self Assessment tax return
+- Or call HMRC to adjust tax code
+- Can backclaim up to 4 years
+
+Note: Higher rate relief is NOT added automatically - you must claim it!
