@@ -1,0 +1,38 @@
+Description,Amount GBP,Notes
+Purchase Price,0,Price paid for property
+Purchase Date,0,YYYY-MM-DD
+Purchase Costs,0,Solicitor fees, stamp duty, survey
+Improvements,0,Capital improvements (not repairs)
+
+Sale Details:
+Sale Price,0,Agreed sale price
+Sale Date,0,YYYY-MM-DD
+Sale Costs,0,Solicitor fees, estate agent fees
+
+Calculation:
+Sale Price,0,
+Less: Purchase Price,0,
+Less: Purchase Costs,0,
+Less: Improvements,0,
+Less: Sale Costs,0,
+GROSS GAIN,0,
+
+Deductions:
+Annual Exemption,3000,2025/26 CGT allowance
+TOTAL DEDUCTIONS,0,
+
+Taxable Gain:
+Gross Gain,0,
+Less: Deductions,0,
+TOTAL TAXABLE GAIN,0,
+
+CGT Tax Calculation:
+Taxable Gain,0,
+Basic Rate Band (first £37,700),0,Your income in band
+Higher Rate Band,0,Gain above basic band
+
+CGT at Basic Rate (18%),0,18% of basic rate portion
+CGT at Higher Rate (24%),0,24% of higher rate portion
+TOTAL CGT DUE,0,
+
+Note: Buy-to-let has no main residence relief. Full CGT applies.
