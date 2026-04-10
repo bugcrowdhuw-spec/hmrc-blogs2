@@ -1,0 +1,11 @@
+Description,Amount,Notes
+Total Rental Income (Annual),=income_tracker.csv!H6,Sum of all properties
+Total Allowable Expenses,=expenses_log.csv!I11,Sum of all expenses
+Net Rental Profit,=B2-B3,Income less expenses
+Personal Allowance,12570,UK Personal Allowance 2024/25
+Taxable Income,=MAX(0,B4-B5),Profit after personal allowance
+Basic Rate Tax (20%),=IF(B6>37700,37700,B6)*0.2,On first £37,700
+Higher Rate Tax (40%),=IF(B6>37700,MAX(0,B6-37700),0)*0.4,On income above £37,700
+Total Tax Due,=B7+B8,Sum of tax at all rates
+Net Income After Tax,=B4-B9,Profit minus tax
+Effective Tax Rate,=B9/B4*100,Tax as percentage of income
