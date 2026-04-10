@@ -1,0 +1,9 @@
+Description,Lower Earner,Higher Earner,Check,Formula Result
+Personal Allowance (2024/25),12570,50270,
+Lower Earner Income,35000,,
+Higher Earner Income,,45000,
+Income Check (both < £50,270),=IF(B3<50270,"Yes","No"),=IF(C3<50270,"Yes","No"),=IF(AND(B4="Yes",C4="Yes"),"PASS","FAIL"),
+Lower Earns Less Than Allowance?,=IF(B3<B2,"Yes","No"),,"Yes if lower < personal allowance"
+Higher Earner Basic Rate?,=IF(C3<50270,"Yes","No"),,"Yes if higher < £50,270"
+ELIGIBLE FOR MARRIAGE ALLOWANCE?,=IF(AND(B5="Yes",C5="Yes"),"ELIGIBLE","NOT ELIGIBLE"),,
+Notes,Enter incomes in columns B and C,,,"Both must be basic rate taxpayers"
