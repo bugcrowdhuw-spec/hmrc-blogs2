@@ -1,4 +1,13 @@
-Date,Property,Description,Category,Amount GBP
-2025-04-01,1,Repairs,Repairs,250
-2025-04-15,1,Insurance,Insurance,150
-2025-05-01,2,Legal fees,Professional,300
+Date,Property,Description,Category,Amount GBP,Running Total
+2025-04-01,1,Repairs,Repairs,250,=E2
+2025-04-15,1,Insurance,Insurance,150,=E3+E2
+2025-05-01,2,Legal fees,Professional,300,=E4+E3
+,,,,,
+,,,,Category Totals:,,
+,,,Repairs,=SUMIF(D:D,"Repairs",E:E)
+,,,Insurance,=SUMIF(D:D,"Insurance",E:E)
+,,,Professional,=SUMIF(D:D,"Professional",E:E)
+,,,,
+,,,Total Expenses,=SUM(E2:E4)
+,,,Tax Relief (20%),=E10*0.2
+,,,Net After Relief,=E10-E11
