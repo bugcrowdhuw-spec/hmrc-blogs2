@@ -1,3 +1,4 @@
-Property,Purchase Date,Purchase Price,Improvements,Estimate Value,Annual Appreciation
-1,2020-04-01,250000,15000,350000,3%
-2,2021-06-15,180000,5000,220000,3%
+Property,Purchase Date,Purchase Price,Improvements,Estimate Value,Annual Appreciation,Gain/Loss,Est. Annual Gain
+1,2020-04-01,250000,15000,350000,3%,=E2-C2-D2,=F2*C2
+2,2021-06-15,180000,5000,220000,3%,=E3-C3-D3,=F3*C3
+TOTAL,,,,,,=SUM(G2:G3),=SUM(H2:H3)

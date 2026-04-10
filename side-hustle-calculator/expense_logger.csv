@@ -8,6 +8,7 @@ Date,Description,Category,Amount GBP,Receipt,Business Portion,Notes
 2025-04-28,Tyres,Vehicle,120.00,REC007,100%,Wear and tear
 2025-05-01,Data SIM,Equipment,10.00,REC008,100%,For maps
 2025-05-05,Car service,Vehicle,85.00,REC009,100%,MOT and service
+TOTAL,,,=SUM(D2:D10),,,
 
 Categories:
 - Vehicle: Fuel, insurance, repairs, MOT, parking

@@ -8,6 +8,7 @@ Date,Source,Description,Amount GBP,Payslip Ref,Platform,Hours Worked,Notes
 2025-05-01,Deliveroo,May Day cycling,110.00,DR0501,Deliveroo,7,
 2025-05-05,Uber,Week driving,195.00,UB0505,Uber,9,
 2025-05-10,Tutor,Maths tutoring,60.00,T005,Private,2,Weekly student
+TOTAL,,,=SUM(D2:D10),,,=SUM(H2:H10),
 
 Instructions:
 1. Enter each payment from your side hustle

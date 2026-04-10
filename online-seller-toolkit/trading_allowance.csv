@@ -1,9 +1,9 @@
 Description,Value GBP,Notes
 Total Trading Income,0,Sum from income tracker
 Less: Allowable Expenses,0,Sum from expenses calculator
-Net Trading Profit,0,Income minus expenses
+Net Trading Profit,=B2-B3,Income minus expenses
 Trading Allowance,1000,Tax-free first £1000
-Taxable Amount,0,If negative, no tax owed
+Taxable Amount,=MAX(B4-B5,0),If negative, no tax owed
 
 Instructions:
 1. Enter your total trading income from all platforms

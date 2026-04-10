@@ -3,5 +3,4 @@ Date,Type,Token,Amount,Value GBP,Income Tax
 2025-05-01,Mining,BTC,0.001,50,Income
 2025-06-01,Airdrop,NEW,500,25,Income
 2025-07-01,Staking,SOL,2.0,150,Income
-
-Total Income,0,Taxed as income at your rate
+,,"=SUM(E2:E5)",,"Taxed as income at your rate"
