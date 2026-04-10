@@ -1,6 +1,6 @@
 # TaxPrep OpenCLAW Agent — Advertising Campaign Plan
 
-**Prepared:** April 2026  
+**Prepared:** 10 April 2026  
 **Product:** TaxPrep OpenCLAW Agent (AI Tax Assistant)  
 **Context:** Commercial AI agent for UK property tax compliance - sold to accountants, property managers, and service providers
 
