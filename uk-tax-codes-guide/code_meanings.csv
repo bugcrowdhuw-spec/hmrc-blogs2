@@ -1,0 +1,15 @@
+Code,Meaning,Detailed Explanation,When Used
+L,Standard Personal Allowance,Your personal allowance is the standard £12,570. This is the amount of income you can earn before paying tax.,Most common code for employees with one job
+M,Marriage Allowance,You receive 10% of your partner's unused personal allowance (£1,260 for 2024/25). Reduces your tax by £252.,When your partner has transferred their allowance to you
+N,Marriage Allowance Given,You have given 10% of your personal allowance to your partner. Your allowance is reduced by £1,260.,When you have transferred allowance to your partner
+OT,No Personal Allowance,Your income exceeds £100,000, so your personal allowance is reduced by £1 for every £2 over £100,000. It can be reduced to zero.,When income is over £100,000
+BR,Basic Rate,All your income is taxed at 20%. No personal allowance is used. Often used for second jobs or pension income.,When you have multiple sources of income or no personal allowance
+D0,0% Allowance - 20% Rate,You have no personal allowance. All income is taxed at 20%. Usually for company directors or those with high earnings from other sources.,When personal allowance is used up or removed
+D1,0% Allowance - 40% Rate,You have no personal allowance. All income is taxed at 40%. Used when your main income is already using your personal allowance.,When your main job uses your full allowance
+D2,0% Allowance - 45% Rate,You have no personal allowance. All income is taxed at 45%. Used for highest earners.,When income exceeds £125,140
+DT,Scottish Tax Rates,Same as D0/D1/D2 but income is taxed at Scottish rates instead of UK rates.,For Scottish taxpayers
+K,K Code - Deduction,Your employer deducts tax from your salary because you have another source of income being taxed through your PAYE. The K code adds income to your total taxed.,When you have multiple incomes or state pension
+P0-P4,Pensioner Codes,These codes (for those born before 6 April 1938) include an aged-related personal allowance up to £27,400 depending on age and income.,For older pensioners with higher allowances
+T,Tax Code Under Review,Your personal allowance is being reviewed by HMRC. Usually temporary while they check your details.,When HMRC needs to verify your allowance
+X,Emergency Tax Code,Used when your employer doesn't have enough information about your tax situation. Usually based on an estimated allowance.,When starting a new job without a P45
+0T,Zero Personal Allowance,You have no personal allowance. All income is taxable. Similar to OT but for different reasons.,When your income fully reduces your allowance
