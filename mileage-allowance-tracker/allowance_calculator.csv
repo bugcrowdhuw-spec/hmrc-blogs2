@@ -1,0 +1,9 @@
+Description,Value
+Total Business Miles,=SUM(mileage_log.csv!E:E)
+Miles at 45p (first 10,000),=IF(E2>10000,10000,E2)
+Miles at 25p (over 10,000),=IF(E2>10000,E2-10000,0)
+Passenger Miles (25p),=SUM(mileage_log.csv!G:G)
+Allowance at 45p Rate,=B3*0.45
+Allowance at 25p Rate,=B4*0.25
+Passenger Allowance,=B5*0.25
+Total Allowance Due,=B6+B7+B8

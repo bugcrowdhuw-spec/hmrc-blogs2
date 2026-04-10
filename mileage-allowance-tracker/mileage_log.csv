@@ -1,0 +1,6 @@
+Journey ID,Date,From Location,To Location,Miles,Business Purpose,Passengers
+1,2026-04-01,Office,Client Site - Manchester,45,Client Meeting,1
+2,2026-04-03,Office,Warehouse - Birmingham,28,Delivery Pickup,0
+3,2026-04-05,Home,Office,12,Regular Commute,0
+4,2026-04-08,Office,Client Site - Leeds,62,Site Inspection,2
+5,2026-04-10,Home,Conference Centre - London,85,Conference Attendance,1
