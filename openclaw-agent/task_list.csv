@@ -1,0 +1,11 @@
+task_id,task_name,category,priority,enabled,automation_level,estimated_duration_min
+1,Generate Invoice,invoice,high,TRUE,full,5
+2,Categorize Expenses,expense,high,TRUE,full,3
+3,Track Deadlines,deadline,medium,TRUE,semi,2
+4,MTD Compliance Check,compliance,high,TRUE,full,10
+5,Tax Report Generation,reporting,medium,TRUE,full,15
+6,Property Portfolio Update,property,low,TRUE,semi,20
+7,Platform Sync,integration,medium,TRUE,full,5
+8,Data Reconciliation,accounting,high,TRUE,full,8
+9,Client Notification,communication,medium,TRUE,full,2
+10,Quarterly Summary,reporting,low,TRUE,semi,30

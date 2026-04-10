@@ -1,0 +1,13 @@
+Description,Value,Formula,Result
+Personal Allowance (2024/25),12570,,
+Lower Earner Income,35000,,
+Higher Earner Income,45000,,
+Lower Earner's Unused Allowance,=MAX(0,B2-B3),,
+Transfer Amount (10% of unused),=MIN(B4*10%,1260),,
+Maximum Transfer Amount,1260,,
+Actual Transfer (capped at £1,260),=MIN(B5,B6),,
+,,,,,
+Example:,Enter values in column B,,,
+Example 1,28000,45000,="MAX(0,B2-B3)"
+Example 2,12000,48000,="MIN(B4*10%,1260)"
+Notes: Lower earner can transfer up to 10% of unused personal allowance (max £1,260),,,

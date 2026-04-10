@@ -1,0 +1,19 @@
+Code,Description,Basic Rate,Higher Rate,Additional Rate
+L,Standard personal allowance,£12570,£12570,£12570
+M,Marriage Allowance received (10% of personal allowance),£1257,£1257,£1257
+N,Marriage Allowance given (10% of personal allowance),£12570,£12570,£12570
+OT,No personal allowance (income over £100,000),0,0,0
+BR,Basic rate on all income,100%,0,0
+D0,0% personal allowance - all at 20%,0,0,0
+D1,0% personal allowance - all at 40%,0,0,0
+D2,0% personal allowance - all at 45%,0,0,0
+DT,0% personal allowance - all at Scottish rates,0,0,0
+K,K-code - deducts from salary,Variable,Variable,Variable
+P0,Pensioner (born 1938-1948),£10700,£10700,£10700
+P1,Pensioner (born 1938-1948),£10700,£10700,£10700
+P2,Pensioner (born 1938-1948),£10700,£10700,£10700
+P3,Pensioner (born 1938-1948),£10700,£10700,£10700
+P4,Pensioner (born 1938-1948),£10700,£10700,£10700
+T,Tax code under review,Variable,Variable,Variable
+X,Emergency code,Variable,Variable,Variable
+0T,No personal allowance,0,0,0

@@ -1,0 +1,7 @@
+platform_id,platform_name,api_type,base_url,auth_method,enabled,rate_limit_rpm,timeout_sec,retry_attempts,features
+1,HMRC MTD,soap,https://api.service.hmrc.gov.uk,oauth2,TRUE,50,30,3,"vat_submission,income_tax,pension_scheme"
+2,Xero,rest,https://api.xero.com/identity,oauth2,TRUE,60,30,5,"invoices,contacts,bank_transactions"
+3,QuickBooks,rest,https://quickbooks.api.intuit.com,oauth2,TRUE,50,30,5,"invoices,payments,expenses"
+4,FreeAgent,rest,https://api.freeagent.com,oauth2,TRUE,40,30,3,"expenses,invoices,projects"
+5,Slack,rest,https://slack.com/api,oauth2,TRUE,100,15,2,"notifications,channels"
+6,Email SMTP,smtp,smtp.example.com,api_key,TRUE,20,60,3,"notifications,reports"

@@ -1,0 +1,10 @@
+Description,Value,Formula,Result
+Transferred Allowance (from transfer sheet),1260,,
+Basic Rate Threshold (2024/25),37700,,
+Higher Rate Threshold,125140,,
+Higher Earner Income,45000,,
+Basic Rate Tax Savings (20%),=B1*0.2,,
+Higher Rate Tax Savings (40%),=IF(B5>B3,B1*0.4,0),,
+Total Annual Tax Savings,=B6+B7,,
+Monthly Savings,=B8/12,,
+Notes: Tax savings depend on which tax band the higher earner falls into,,,

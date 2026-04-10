@@ -1,0 +1,8 @@
+Description,Value
+Total Allowance Received,=allowance_calculator.csv!B8
+Basic Rate Tax Relief (20%),=B2*0.20
+Higher Rate Tax Relief (40%),=B2*0.40
+Additional Rate Tax Relief (45%),=B2*0.45
+Notes,,Enter your tax rate in the appropriate row above
+Tax Year,,2025/26
+HMRC Approved Rate (2025/26),,"45p first 10,000 miles, 25p thereafter"

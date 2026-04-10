@@ -1,0 +1,9 @@
+Your Tax Code,Description,Meaning,Annual Tax-Free Allowance,Explanation
+L,=VLOOKUP(A2,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A2,code_meanings.csv!$A:$C,2,FALSE),"=IF(B2="""","""",IF(ISNUMBER(SEARCH(""Variable"",D2)),""Check with HMRC"",D2))",=VLOOKUP(A2,code_meanings.csv!$A:$C,3,FALSE)
+M,=VLOOKUP(A3,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A3,code_meanings.csv!$A:$C,2,FALSE),"=IF(B3="""","""",IF(ISNUMBER(SEARCH(""Variable"",D3)),""Check with HMRC"",D3))",=VLOOKUP(A3,code_meanings.csv!$A:$C,3,FALSE)
+N,=VLOOKUP(A4,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A4,code_meanings.csv!$A:$C,2,FALSE),"=IF(B4="""","""",IF(ISNUMBER(SEARCH(""Variable"",D4)),""Check with HMRC"",D4))",=VLOOKUP(A4,code_meanings.csv!$A:$C,3,FALSE)
+BR,=VLOOKUP(A5,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A5,code_meanings.csv!$A:$C,2,FALSE),"=IF(B5="""","""",IF(ISNUMBER(SEARCH(""Variable"",D5)),""Check with HMRC"",D5))",=VLOOKUP(A5,code_meanings.csv!$A:$C,3,FALSE)
+D0,=VLOOKUP(A6,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A6,code_meanings.csv!$A:$C,2,FALSE),"=IF(B6="""","""",IF(ISNUMBER(SEARCH(""Variable"",D6)),""Check with HMRC"",D6))",=VLOOKUP(A6,code_meanings.csv!$A:$C,3,FALSE)
+D1,=VLOOKUP(A7,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A7,code_meanings.csv!$A:$C,2,FALSE),"=IF(B7="""","""",IF(ISNUMBER(SEARCH(""Variable"",D7)),""Check with HMRC"",D7))",=VLOOKUP(A7,code_meanings.csv!$A:$C,3,FALSE)
+T,=VLOOKUP(A8,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A8,code_meanings.csv!$A:$C,2,FALSE),"=IF(B8="""","""",IF(ISNUMBER(SEARCH(""Variable"",D8)),""Check with HMRC"",D8))",=VLOOKUP(A8,code_meanings.csv!$A:$C,3,FALSE)
+X,=VLOOKUP(A9,tax_codes.csv!$A:$D,2,FALSE),=VLOOKUP(A9,code_meanings.csv!$A:$C,2,FALSE),"=IF(B9="""","""",IF(ISNUMBER(SEARCH(""Variable"",D9)),""Check with HMRC"",D9))",=VLOOKUP(A9,code_meanings.csv!$A:$C,3,FALSE)
