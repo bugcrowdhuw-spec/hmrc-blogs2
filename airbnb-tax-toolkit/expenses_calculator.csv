@@ -1,9 +1,29 @@
-Date,Property,Description,Category,Amount GBP,VAT,Receipt Ref
-2025-04-01,1,Cleaning services,Cleaning,50.00,No,EXP001
-2025-04-15,1,Property insurance,Insurance,120.00,No,EXP002
-2025-05-01,2,Repairs - plumbing,Repairs,200.00,Yes,EXP003
+Date,Property,Description,Category,Amount GBP,VAT,Receipt Ref,Notes
+2025-04-02,1,Cleaning between guests,Cleaning,80.00,No,REC001,Monthly cleaning
+2025-04-10,1,Platform fees - April,Platform Fees,105.00,No,REC002,Airbnb 15%
+2025-04-15,1,Building insurance,Insurance,150.00,No,REC003,Annual premium
+2025-04-20,2,Cleaning between guests,Cleaning,80.00,No,REC004,Monthly cleaning
+2025-04-25,1,Repairs - radiator,Repairs,120.00,No,REC005,Bedroom radiator fixed
+2025-05-01,2,Platform fees - May,Platform Fees,95.00,No,REC006,Booking.com 12%
+2025-05-05,1,Utilities - electric,Utilities,85.00,No,REC007,Monthly electric
+2025-05-10,2,Insurance,Insurance,180.00,No,REC008,Annual premium
+2025-05-15,1,Repairs - plumbing,Repairs,200.00,No,REC009,Kitchen leak fixed
+2025-05-20,1,Cleaning supplies,Cleaning,45.00,No,REC010,Detergent, bleach
+2025-05-25,2,Utilities - gas,Utilities,75.00,No,REC011,Monthly gas
+2025-06-01,1,Platform fees - June,Platform Fees,115.00,No,REC012,Airbnb 15%
 
 EXPENSES SUMMARY
-Total Expenses,=SUM(E2:E1000)
-Total VAT Reclaimable,=SUMIF(F2:F1000,"Yes",E2:E1000*0.2)
-Number of Items,=COUNTA(E2:E1000)
+Total Expenses,=SUM(D2:D1000)
+Total VAT Reclaimable,=SUMIF(E2:E1000,"Yes",D2:D1000*0.2)
+Cleaning Total,=SUMIF(C2:C1000,"Cleaning",D2:D1000)
+Platform Fees,=SUMIF(C2:C1000,"Platform Fees",D2:D1000)
+Insurance,=SUMIF(C2:C1000,"Insurance",D2:D1000)
+Utilities,=SUMIF(C2:C1000,"Utilities",D2:D1000)
+Repairs,=SUMIF(C2:C1000,"Repairs",D2:D1000)
+Number of Expenses,=COUNTA(D2:D1000)
+
+NET PROFIT CALCULATION
+Gross Rental Income,=airbnb_tax_toolkit!E17
+Total Expenses,=D19
+NET PROFIT,=D28-D19
+Estimated Tax (20%),=D30*0.2

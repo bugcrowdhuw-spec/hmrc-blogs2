@@ -1,5 +1,32 @@
-Property,Purchase Date,Purchase Price,Improvements,Estimate Value,Annual Appreciation
-1,2020-04-01,250000,15000,350000,3%
-2,2021-06-15,180000,5000,220000,3%
-===== FORMULAS =====
-TOTAL,=SUM(A2:A1000)
+Property,Purchase Date,Purchase Price GBP,Improvements GBP,Purchase Costs,Sale Date,Sale Price GBP,Estate Agent Fees,Legal Costs,Notes
+1,2020-04-15,250000,15000,5000,,350000,5000,1500,Currently valued at £350k
+2,2021-06-01,180000,5000,3000,,220000,3500,1000,Currently valued at £220k
+
+CAPITAL GAIN - PROPERTY 1
+Sale Price,=C2
+Less: Purchase Price,=D2
+Less: Improvements,=E2
+Less: Purchase Costs,=F2
+Less: Sale Costs,=H2+I2
+GROSS GAIN,=B7-C2-D2-E2-F2-H2-I2
+Annual Exemption,3000
+TAXABLE GAIN,=B9-B10
+CGT at 18%,=B11*0.18
+
+CAPITAL GAIN - PROPERTY 2  
+Sale Price,=C3
+Less: Purchase Price,=D3
+Less: Improvements,=E3
+Less: Purchase Costs,=F3
+Less: Sale Costs,=H3+I3
+GROSS GAIN,=B16-C3-D3-E3-F3-H3-I3
+Annual Exemption,3000
+TAXABLE GAIN,=B18-B19
+CGT at 18%,=B20*0.18
+
+TOTAL CGT DUE,=B12+B21
+
+NOTES
+- Main residence may qualify for Private Residence Relief
+- Additional properties: extra 3% surcharge
+- Report to HMRC within 60 days of sale

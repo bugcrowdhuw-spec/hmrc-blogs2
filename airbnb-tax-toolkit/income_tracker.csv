@@ -1,8 +1,28 @@
-Date,Property,Description,Category,Amount GBP,VAT,Receipt Ref
-2025-04-01,1,Cleaning services,Cleaning,50.00,No,EXP001
-2025-04-15,1,Property insurance,Insurance,120.00,No,EXP002
-2025-05-01,2,Repairs - plumbing,Repairs,200.00,Yes,EXP003
+Date,Property,Description,Platform,Amount GBP,Guest Name,Booking Ref,Status
+2025-04-01,1,Full apartment let,Airbnb,450.00,John Smith,ABC123,Paid
+2025-04-05,1,Weekend stay,Airbnb,280.00,Jane Doe,DEF456,Paid
+2025-04-12,2,Week let,Booking.com,650.00,Smith Family,GHI789,Paid
+2025-04-15,1,Full apartment let,Airbnb,520.00,Bob Wilson,JKL012,Paid
+2025-04-20,2,Short stay, Vrbo,380.00,Alice Brown,MNO345,Paid
+2025-04-25,1,Weekend stay,Airbnb,290.00,Charlie Green,PQR678,Paid
+2025-05-01,1,Full apartment let,Airbnb,510.00,David Lee,STU901,Paid
+2025-05-05,2,Week let,Booking.com,720.00,Emma White,VWX234,Paid
+2025-05-10,1,Full apartment let,Airbnb,480.00,Frank Black,YZA567,Paid
+2025-05-15,2,Short stay, Vrbo,350.00,Grace Hall,CDE890,Paid
+2025-05-20,1,Weekend stay,Airbnb,310.00,Henry King,FGI123,Paid
+2025-05-25,1,Full apartment let,Airbnb,550.00,Ivy Jones,JKL456,Paid
+2025-06-01,2,Week let,Booking.com,680.00,Jack White,MNO789,Paid
 
-INCOME TOTALS
+INCOME SUMMARY
+Total Properties,=UNIQUE(B2:B1000)
 Total Income,=SUM(E2:E1000)
-Number of Transactions,=COUNTA(E2:E1000)
+Number of Bookings,=COUNTA(E2:E1000)
+Airbnb Income,=SUMIF(D2:D1000,"Airbnb",E2:E1000)
+Booking.com Income,=SUMIF(D2:D1000,"Booking.com",E2:E1000)
+Vrbo Income,=SUMIF(D2:D1000," Vrbo",E2:E1000)
+Average per Booking,=IFERROR(AVERAGE(E2:E1000),0)
+
+TAX INFO
+Tax Year,2025/26
+Allowable Expenses % (estimate),70%
+Estimated Taxable,=E17*0.3
