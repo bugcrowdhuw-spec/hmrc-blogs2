@@ -1,1 +1,22 @@
-Dividend Amount,Tax Free,Basic 8.75,Higher 33.75,Additional 39.35
+Dividend Amount,0,Total dividend
+Dividend Allowance,2000,Tax free dividends
+Taxable Dividends,=MAX(0,B2-B3),Taxable amount
+Tax Free,=IF(B4>377,MIN(B4-377,37700),B4)*IF(B4>0,0.0875/B4,0),0% rate (nil)
+Basic Rate Tax,=IF(B4>377,IF(B4<=2000+37700,MIN(B4-377,37700)*0.0875,0),0),8.75% rate
+Higher Rate Tax,=IF(B4>2000+37700,IF(B4>2000+37700,MIN(B4-2000-37700,125140-37700)*0.3375,0),0),33.75% rate
+Additional Tax,=IF(B4>2000+125140,(B4-2000-125140)*0.3935,0),39.35% rate
+Total Dividend Tax,=B5+B6+B7+B8,Total tax on dividends
+Net Dividend,=B2-B9,After tax
+Effective Rate,=IF(B2>0,B9/B2*100,0),Effective tax %
+Salary + Dividend,0,Combined salary
+Combined Tax,0,Tax on salary
+Combined NIC,0,Tax on salary NIC
+Combined Total Tax,=B13+B14,Total tax paid
+Tax Savings,=B9-B16,vs salary only
+Savings Percentage,=IF(B9>0,B17/B9*100,0),Savings %
+
+UK Dividend Tax Rates (2023/24):
+- Nil rate: First 2000 (allowance)
+- Basic: 8.75% (37700-377)
+- Higher: 33.75% (125140-37700)
+- Additional: 39.35% (above 125140)
