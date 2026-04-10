@@ -1,0 +1,7 @@
+Date,Source,Gross Dividend,Tax Credit,Net Received
+2025-04-06,ABC PLC,250.00,0,250.00
+2025-04-15,XYZ Ltd,175.50,0,175.50
+2025-05-20,DEF Corp,420.00,0,420.00
+2025-07-10,GHI Holdings,89.25,0,89.25
+2025-10-01,JKL Investments,650.00,0,650.00
+,,=SUM(C2:C6),=SUM(D2:D6),=SUM(E2:E6)
