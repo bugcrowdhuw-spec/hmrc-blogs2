@@ -1,23 +1,23 @@
 Description,Amount GBP,Notes
-Total Income YTD,0,Sum from income tracker
-Less: Total Expenses,0,Sum from expense logger
-NET PROFIT,0,Your taxable income
+Total Income YTD,1025.5,Sum from income tracker
+Less: Total Expenses,432,Sum from expense logger
+NET PROFIT,=B2-B3,Your taxable income
 
 Last Year's Tax,0,Enter previous year's tax (for POA calculation)
-50% Last Year's Tax,0,Your quarterly payment amount
+50% Last Year's Tax,=B6*0.5,Your quarterly payment amount
 
 Quarterly Payment Schedule:
-First Payment,0,Due 31 Jul 2025
-Second Payment,0,Due 31 Oct 2025
-Third Payment,0,Due 31 Jan 2026
-Fourth Payment,0,Due 30 Apr 2026
+First Payment,=B7,Due 31 Jul 2025
+Second Payment,=B7,Due 31 Oct 2025
+Third Payment,=B7,Due 31 Jan 2026
+Fourth Payment,=B7,Due 30 Apr 2026
 
 If you owe more than £1,000 in tax, you make quarterly payments on account.
 
 Current Quarter Estimate:
 This Quarter's Income,0,Your estimate
 This Quarter's Expenses,0,Your estimate
-Estimated Tax,0,20% of profit (rough estimate)
+Estimated Tax,=(B19-B20)*0.2,20% of profit (rough estimate)
 
 Note: If your income varies, estimate conservatively. HMRC charges interest on late payments.
 

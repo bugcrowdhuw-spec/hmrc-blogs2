@@ -1,6 +1,6 @@
 Description,Amount GBP,Notes
-TOTAL INCOME,=SUM([income_tracker.csv]D2:D10),Sum of all income from all sources
-TOTAL EXPENSES,=SUM([expense_logger.csv]D2:D10),Sum of all allowable expenses
+TOTAL INCOME,1025.5,Sum of all income from all sources (D11 from income_tracker)
+TOTAL EXPENSES,432,Sum of all allowable expenses (D11 from expense_logger)
 NET PROFIT,=B2-B3,Taxable amount - enter in Self Assessment
 
 Tax Calculation:
