@@ -1,13 +1,13 @@
 Description,Amount GBP,Notes
-Total Side Hustle Income,0,From income tracker
-Less: Expenses (if claiming),0,From expense logger
+Total Side Hustle Income,=SUM([income_tracker.csv]D2:D10),From income tracker
+Less: Expenses (if claiming),=SUM([expense_logger.csv]D2:D10),From expense logger
 OR Trading Allowance,1000,Choose one or the other
 
 WHICHEVER IS HIGHER:
-- Allowable Expenses,0,Enter if higher than allowance
-- Trading Allowance,1000,Enter if higher than expenses
+- Allowable Expenses,=MAX(B3,B4),Enter if higher than allowance
+- Trading Allowance,=B4,Enter if higher than expenses
 
-Taxable Amount,0,Higher of expenses or £1,000
+Taxable Amount,=B2-MAX(B3,B4),Higher of expenses or £1,000
 
 How to Choose:
 1. If expenses under £1,000: use trading allowance

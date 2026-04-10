@@ -1,11 +1,11 @@
 Date,Sold,Quantity,Sold Price GBP,Fees GBP,Proceeds,Cost Basis,GAIN,LOSS
-2025-05-01,BTC,0.25,5000,10,4990,1875,3115,
-2025-06-15,ETH,0.5,1200,5,1195,2007,,
-2025-07-20,SOL,20,800,5,795,208,587,
-
-Total Proceeds,0
-Total Cost Basis,0
-TOTAL GAIN,0
-TOTAL LOSS,0
-
+2025-05-01,BTC,0.25,5000,10,=D2*C2-F2,=G2,=IF(F2-H2>0,F2-H2,0),=IF(H2-F2>0,H2-F2,0)
+2025-06-15,ETH,0.5,1200,5,=D3*C3-F3,=G3,=IF(F3-H3>0,F3-H3,0),=IF(H3-F3>0,H3-F3,0)
+2025-07-20,SOL,20,800,5,=D4*C4-F4,=G4,=IF(F4-H4>0,F4-H4,0),=IF(H4-F4>0,H4-F4,0)
+,,,,,,,,
+Total Proceeds,=SUM(F2:F4),,,,,,
+Total Cost Basis,=SUM(G2:G4),,,,,,
+TOTAL GAIN,=SUM(H2:H4),,,,,,
+TOTAL LOSS,=SUM(I2:I4),,,,,,
+,,,,,,,,
 CGT: Gain - 3000 exemption x 10% or 20%

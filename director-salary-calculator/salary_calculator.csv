@@ -1,5 +1,13 @@
 Salary,0,Monthly salary
-NIC,0,Employee NIC
-Take Home,0,After tax
+Personal Allowance,12570,Tax free allowance
+Taxable Income,=MAX(0,B2-B3),Gross - allowance
+Income Tax,=IF(B4<=37700,B4*0.2,IF(B4<=125140,37700*0.2+(B4-37700)*0.4,(B4-37700)*0.4+7540+(B4-125140)*0.45)),Tax at UK rates
+NIC Rate,=IF(B2<=12570,0,IF(B2<=50270,0.12,0.02)),Employee NIC rate
+Employee NIC,=IF(B2<=12570,0,IF(B2<=50270,(B2-12570)*0.12,(50270-12570)*0.12+(B2-50270)*0.02)),Employee NIC amount
+Take Home,=B2-B5-B7,After tax and NIC
+Annual Gross,=B2*12,Annual salary
+Annual Tax,=B5*12,Annual income tax
+Annual NIC,=B7*12,Annual NIC
+Annual Take Home,=B8*12,Annual take home
 
 Optimal: 12570 salary + dividends

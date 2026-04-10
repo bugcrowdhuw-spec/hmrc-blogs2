@@ -1,0 +1,16 @@
+Dividend Allowance Summary,,
+Allowance,500
+Total Dividends,=SUM(dividend_income.csv!C2:C6)
+Used,=MIN(C4,C5)
+Remaining,=C4-C6
+,,,
+Usage by Date,,
+Date,Dividend,Allowance Remaining
+2025-04-06,250,=MAX(0,500-C9)
+2025-04-15,175.5,=MAX(0,500-(C9+C10))
+2025-05-20,420,=MAX(0,500-(C9+C10+C11))
+2025-07-10,89.25,=MAX(0,500-(C9+C10+C11+C12))
+2025-10-01,650,=MAX(0,500-(C9+C10+C11+C12+C13))
+,,,
+Total Used,=SUM(C9:C13)
+Total Remaining,=C6

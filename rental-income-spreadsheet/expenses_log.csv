@@ -1,0 +1,12 @@
+Property,Expense Category,Description,Amount,Q1,Q2,Q3,Q4,Annual Total
+"123 Main Street",Repairs,Boiler service,250,=E2/4,=E2/4,=E2/4,=E2/4,=E2
+"123 Main Street",Insurance,Buildings insurance,180,=E3/4,=E3/4,=E3/4,=E3/4,=E3
+"123 Main Street",Agent Fees,Letting agent commission,720,=E4/4,=E4/4,=E4/4,=E4/4,=E4
+"45 Oak Avenue",Repairs,Window replacement,400,=E5/4,=E5/4,=E5/4,=E5/4,=E5
+"45 Oak Avenue",Insurance,Buildings insurance,150,=E6/4,=E6/4,=E6/4,=E6/4,=E6
+"45 Oak Avenue",Council Tax,Empty period,120,=E7/4,=E7/4,=E7/4,=E7/4,=E7
+"78 Elm Road",Repairs,Roof repair,350,=E8/4,=E8/4,=E8/4,=E8/4,=E8
+"78 Elm Road",Insurance,Buildings insurance,165,=E9/4,=E9/4,=E9/4,=E9/4,=E9
+"78 Elm Road",Utilities,Ground maintenance,90,=E10/4,=E10/4,=E10/4,=E10/4,=E10
+,,,,,,,,
+Total Expenses,,,,=SUM(E2:E10),=SUM(F2:F10),=SUM(G2:G10),=SUM(H2:H10),=SUM(I2:I10)

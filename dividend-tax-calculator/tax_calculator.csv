@@ -1,0 +1,16 @@
+Assumptions,Value
+Total Dividend Income,=SUM(dividend_income.csv!C2:C6)
+Personal Allowance,12570
+Starting Rate Band,0
+Basic Rate Threshold,12570
+Higher Rate Threshold,50270
+,,,
+Dividend Allowance,500
+Taxable Dividend,=MAX(0,C2-D4)
+,,,
+Tax Calculation,Rate,Taxable Amount,Tax Due
+Dividends in Basic Band,8.75%,=IF(C9<=12570,C9,12570),=IF(F12>0,F12*0.0875,0)
+Dividends in Higher Band,33.75%,=MAX(0,MIN(C9-12570,37700)),=IF(F13>0,F13*0.3375,0)
+Dividends in Additional Band,39.35%,=MAX(0,C9-50270),=IF(F14>0,F14*0.3935,0)
+,,,,
+Total Tax Due,=F12+F13+F14

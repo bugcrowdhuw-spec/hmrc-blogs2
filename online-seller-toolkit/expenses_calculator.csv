@@ -9,3 +9,12 @@ Date,Expense ID,Description,Category,Amount GBP,VAT,Vintage/Handmade/Personal
 2025-05-25,EXP008,Website/listing fees,Subscription,15.00,No,All
 2025-05-28,EXP009,Packing tape,Packaging,6.00,No,All
 2025-06-01,EXP010,Home office portion,Overhead,50.00,No,All
+,Total Expenses,,,=SUM(E2:E11),,
+,Summary by Category
+,Packaging,,=SUMIF(C2:C11,"*Packaging*",E2:E11),
+,Equipment,,=SUMIF(C2:C11,"*Equipment*",E2:E11),
+,Insurance,,=SUMIF(C2:C11,"*Insurance*",E2:E11),
+,Postage,,=SUMIF(C2:C11,"*Postage*",E2:E11),
+,Travel,,=SUMIF(C2:C11,"*Travel*",E2:E11),
+,Subscription,,=SUMIF(C2:C11,"*Subscription*",E2:E11),
+,Overhead,,=SUMIF(C2:C11,"*Overhead*",E2:E11),

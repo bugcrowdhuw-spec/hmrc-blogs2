@@ -1,4 +1,5 @@
-Date,Property,Description,Category,Amount GBP,VAT,Receipt Ref
-2025-04-01,1,Cleaning services,Cleaning,50.00,No,EXP001
-2025-04-15,1,Property insurance,Insurance,120.00,No,EXP002
-2025-05-01,2,Repairs - plumbing,Repairs,200.00,Yes,EXP003
+Date,Property,Description,Category,Amount GBP,VAT,Receipt Ref,Total (Incl VAT),Tax Relief (20%)
+2025-04-01,1,Cleaning services,Cleaning,50.00,No,EXP001,=E2,=IF(H2>0,H2*0.2,0)
+2025-04-15,1,Property insurance,Insurance,120.00,No,EXP002,=E3,=IF(H3>0,H3*0.2,0)
+2025-05-01,2,Repairs - plumbing,Repairs,200.00,Yes,EXP003,=E4*1.2,=IF(H4>0,H4*0.2,0)
+TOTALS,,,,,=SUM(E2:E4),,,=SUM(H2:H4),=SUM(I2:I4)

@@ -1,0 +1,8 @@
+skill_id,skill_name,requires_capability,category,complexity,dependencies,automation_supported
+1,invoice-generation,invoice_write,invoice,low,"data_store,platform_clients",TRUE
+2,expense-categorization,expense_read,expense,low,"data_store",TRUE
+3,property-portfolio,property_read,property,medium,"platform_clients",TRUE
+4,platform-integration,api_access,integration,high,"platform_clients",TRUE
+5,deadline-reminders,notification_send,deadline,low,"hmrc_client",TRUE
+6,mtd-compliance,hmrc_api,compliance,high,"hmrc_client,data_store",TRUE
+7,tax-reporting,report_generate,reporting,medium,"data_store,report_generator",TRUE

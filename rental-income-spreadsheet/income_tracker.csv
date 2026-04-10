@@ -1,0 +1,6 @@
+Property Name,Address,Monthly Rent,Quarter,Total Q1,Total Q2,Total Q3,Total Q4,Annual Total
+"123 Main Street","12 Main Street, London",1200,Jan-Mar,=B3*3,0,0,0,=D3+E3+F3+G3
+"45 Oak Avenue","45 Oak Avenue, Manchester",950,Jan-Mar,=B4*3,0,0,0,=D4+E4+F4+G4
+"78 Elm Road","78 Elm Road, Birmingham",1100,Jan-Mar,=B5*3,0,0,0,=D5+E5+F5+G5
+,,,,,,,,
+Total,,,,=SUM(D3:D5),=SUM(E3:E5),=SUM(F3:F5),=SUM(G3:G5),=SUM(H3:H5)

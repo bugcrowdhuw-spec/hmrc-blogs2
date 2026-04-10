@@ -1,0 +1,5 @@
+Income Band,Gross Contribution,Basic Rate Relief,Higher Rate Relief,Additional Rate Relief,Total Tax Relief
+Basic Rate (20%),800,160,0,0,160
+Higher Rate (40%),800,160,320,0,480
+Additional Rate (45%),800,160,0,360,520
+Total,2400,480,320,360,1160
