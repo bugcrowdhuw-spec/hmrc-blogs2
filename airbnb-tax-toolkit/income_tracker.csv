@@ -1,3 +1,4 @@
-Property Name,Address,Platform,Tax Status
-1,Example Property 1,Airbnb,FHL
-2,Example Property 2,Booking.com,FHL
+Property Name,Address,Platform,Tax Status,Q1 Income,Q2 Income,Q3 Income,Q4 Income,Annual Total
+1,Example Property 1,Airbnb,FHL,0,0,0,0,=SUM(D2:G2)
+2,Example Property 2,Booking.com,FHL,0,0,0,0,=SUM(D3:G3)
+TOTAL,,,,,,=SUM(H2:H3),=SUM(H2:H3)
