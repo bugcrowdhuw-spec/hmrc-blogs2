@@ -6,13 +6,13 @@ Sale Price,0,What you sold for
 Sale Date,YYYY-MM-DD,When sold
 
 Capital Gain Calculation:
-Sale Price,0,
-Less: Purchase Price,0,
+Sale Price,=C5,
+Less: Purchase Price,=-C3,
 Less: Allowable Costs (fees, repairs),0,Gains from selling
-Gross Gain,0,Profit made
+Gross Gain,=C9+C10+C11,Profit made
 
 Annual Exemption (2025/26),3000,Personal CGT allowance
-Taxable Gain,0,If below exemption, no CGT
+Taxable Gain,=MAX(C12-C14,0),If below exemption, no CGT
 
 CGT Tax Rate:
 Basic Rate (up to £37700 income),10%,Applies to gains within income band

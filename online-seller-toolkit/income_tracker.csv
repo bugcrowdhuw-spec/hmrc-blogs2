@@ -4,3 +4,8 @@ Date,Sale ID,Platform,Item Description,Category,Amount GBP,Fees,Net Received,Per
 2025-05-02,ETS001,Etsy,Handmade candles,Handmade,35.00,4.38,30.62,Sourcing
 2025-05-10,DEP001,Depop,Classic denim jacket,Vintage,65.00,3.25,61.75,Sourcing
 2025-05-15,VINT002,Vintage,Vintage band tee,Vintage,30.00,0.90,29.10,Sourcing
+,Total Income,,,=SUM(F2:F6),=SUM(G2:G6),=SUM(H2:H6),
+,Summary by Category
+,Vintage,,=SUMIF(D2:D6,"*Vintage*",F2:F6),=SUMIF(D2:D6,"*Vintage*",G2:G6),=SUMIF(D2:D6,"*Vintage*",H2:H6),
+,Pre-loved,,=SUMIF(D2:D6,"*Pre-loved*",F2:F6),=SUMIF(D2:D6,"*Pre-loved*",G2:G6),=SUMIF(D2:D6,"*Pre-loved*",H2:H6),
+,Handmade,,=SUMIF(D2:D6,"*Handmade*",F2:F6),=SUMIF(D2:D6,"*Handmade*",G2:G6),=SUMIF(D2:D6,"*Handmade*",H2:H6),
